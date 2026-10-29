@@ -1,0 +1,50 @@
+{
+  "file": "Minas-Tirith.blend",
+  "sha256": "66e98c6042aed21aa9ed92f90eb67def3b2e2899af9a54d56642ae17cd69400c",
+  "blender": "5.2.0 LTS",
+  "circles": 7,
+  "ramps": 6,
+  "buildings": 401,
+  "objects": 458,
+  "faces": 619755,
+  "gate_centreline_probes": [
+    {
+      "circle": 1,
+      "clear": true,
+      "obstacle": null
+    },
+    {
+      "circle": 2,
+      "clear": true,
+      "obstacle": null
+    },
+    {
+      "circle": 3,
+      "clear": true,
+      "obstacle": null
+    },
+    {
+      "circle": 4,
+      "clear": true,
+      "obstacle": null
+    },
+    {
+      "circle": 5,
+      "clear": true,
+      "obstacle": null
+    },
+    {
+      "circle": 6,
+      "clear": true,
+      "obstacle": null
+    },
+    {
+      "circle": 7,
+      "clear": true,
+      "obstacle": null
+    }
+  ],
+  "errors": [],
+  "scope": "Basic file integrity and seven gate centreline probes only. Does not certify full walkability, canonical accuracy, watertight solids, or print readiness.",
+  "status": "PASS"
+}
