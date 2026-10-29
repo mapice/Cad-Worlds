@@ -1,0 +1,108 @@
+HOGWARTS — RIFERIMENTI PER GLI ESTERNI V7
+Ricerca del 28 ottobre 2026
+
+BASE DA CONSERVARE
+Il modello corrente è esclusivamente outputs/Hogwarts-interni.blend.
+Le immagini V3/V4 sono state viste solo per orientamento storico: non provano
+difetti del file corrente, che include correzioni successive a scala, roccia
+e interni. Il coordinatore conferma nell'inventario attuale l'assenza di
+capanna di Hagrid, campo Quidditch e Platano Picchiatore; Guferia, fontana,
+ponte coperto, cerchio di pietre, due barche e nove serre sono già presenti.
+La pianta di base resta HBP, EE2109. Posizioni esterne alla pianta e quote
+dei nuovi elementi sono adattamenti al terreno: non una planimetria ufficiale.
+
+PRIORITÀ E GEOMETRIE
+
+1. CAPANNA DI HAGRID E ORTO — mancante, priorità alta.
+La fotografia ufficiale HP5 della capanna, osservata direttamente nel browser,
+mostra muratura di pietra irregolare, due corpi addossati poligonali/quasi
+circolari, tetti conici sfaccettati di diverse altezze, due punte metalliche,
+comignolo nel raccordo, finestre piccole e porta in tavole. L'annesso basso
+ha una scaletta esterna di circa cinque/sei gradini. Completare con zucche
+costolate e grandi foglie, staccionata rustica, catasta di legna e spaventapasseri.
+Sono letture della fotografia, non misure certificate.
+Il percorso logico verificato dalla fonte ufficiale del ponte è:
+Torre dell'Orologio → ponte coperto → cerchio di pietre → capanna.
+La descrizione 'wooden cabin' nell'enciclopedia è letteraria: per l'aspetto
+cinematografico usare la muratura visibile nella foto, senza mescolare le due.
+Fonti primarie:
+https://www.harrypotter.com/features/10-things-you-might-not-know-about-hagrid
+Foto primaria HP5 citata nella pagina:
+https://contentful.harrypotter.com/usf1vwtuqyxm/6JkIGzViBGo26EECwgiKEK/0534a67c70148210d63a881d7e22c557/WB_F5_HagridsHutExterior_UmbridgeLeaving_PumpkinPatch_HP5-FX-00368r.jpg
+https://www.wbstudiotour.co.uk/the-experience/explore-the-tour/sets/the-hogwarts-bridge/
+
+2. CAMPO DI QUIDDITCH — mancante, priorità alta.
+Campo ovale erboso, tre pali con anelli a ciascuna estremità, tribune rialzate.
+Per il carattere cinematografico: torri delle tribune con tela nei colori delle
+case, tetti/punte e bandiere; evitare uno stadio moderno continuo o un campo
+copiato da Hogwarts Legacy. La distribuzione esatta di torri e distanza dal
+castello va dichiarata interpretata, non desunta dalla pianta HBP del nucleo.
+Usare strutture portanti leggibili, ingressi e percorsi verso le tribune.
+Fonti primarie per struttura del gioco e riferimenti cinematografici:
+https://www.harrypotter.com/fact-file/locations/quidditch-pitch
+https://www.harrypotter.com/features/bringing-quidditch-to-life
+La seconda pagina è tratta da Film Wizardry e include un fotogramma HBP.
+
+3. PLATANO PICCHIATORE — mancante, priorità medio-alta.
+Albero isolato e immediatamente riconoscibile, tronco massiccio nodoso,
+radici affioranti e rami principali simili a braccia piegate; chioma non
+intercambiabile con le conifere del bosco. Alla base una cavità fra le radici
+richiama il passaggio nascosto. Una posa statica è sufficiente: non richiede
+animazione. Posizione nel paesaggio e accesso completo al tunnel interpretati.
+Fonte primaria:
+https://www.harrypotter.com/fact-file/plants-and-potions/the-whomping-willow
+
+4. GUFERIA — esiste, da rendere ariosa e riconoscibile.
+Conservare posizione e torre esistente; aprire davvero le nicchie superiori,
+eliminare i vetri dove corrispondono alla Guferia, aggiungere mensole/posatoi,
+pochi gufi stilizzati ben visibili e dettagli del percorso d'accesso. Non
+spostarla in una torre del castello sulla sola base della descrizione dei libri.
+La scheda ufficiale conferma ambiente circolare senza vetri; il confronto
+cinematografico indipendente documenta la torre isolata introdotta in GOF.
+Fonte primaria per aperture senza vetri:
+https://www.harrypotter.com/fact-file/locations/owlery
+Fonte secondaria, utile al confronto con il modellino:
+https://hogwarts4d.home.blog/2021/08/24/owlery-time/
+
+5. FONTANA DEL CORTILE DELL'OROLOGIO — esiste ma è molto semplificata.
+Il riferimento del set ha una struttura gotica rovinata: colonne, archi
+intrecciati/frontoni, piccoli pinnacoli e quattro figure di uccelli con
+serpenti, anziché una sola colonna con coppa. Rifinire con bordi spezzati,
+pietra consumata, muschio e vegetazione limitata ai giunti del cortile.
+Questa lettura viene da uno studio indipendente che confronta disegni di
+produzione e fotografie; non attribuirla come misura ufficiale Warner Bros.
+https://hogwarts4d.home.blog/2020/05/21/starting-the-ruined-fountain/
+https://hogwarts4d.home.blog/2020/06/16/the-clock-tower-courtyard/
+
+6. RIMESSA DELLE BARCHE — esiste, con due barche già modellate.
+Conservare la sagoma pre-Doni della Morte e soprattutto la scalinata/roccia
+corrette nella revisione successiva. Dettaglio dimenticato caratterizzante:
+banderuola con sagoma di strega e gatto nero. Possibili rifiniture coerenti:
+corde d'ormeggio, scalmi/remi, ferramenta, lanterne, colature umide alla quota
+dell'acqua. Questi ultimi sono dettagli funzionali interpretati, non tutti
+documentati individualmente nelle fonti consultate.
+Confronto secondario esplicitamente pre-DH:
+https://hogwarts4d.home.blog/2020/04/14/great-hall-balconies-pepperpot-pre-dh-boathouse/
+https://hogwarts4d.home.blog/2021/08/05/gof-boathouse-stairs/
+
+7. SERRE E DECORAZIONI MINORI — esistono già nove serre e vasi.
+Non duplicare serre o piante. Il dettaglio specifico da aggiungere sono i piccoli
+draghi decorativi sulle coperture, ripetendo una geometria riconoscibile con
+coda ricurva, collo e ali. Rafforzare zoccoli, colmi e ferramenta senza opacizzare
+i vetri. Ulteriori bancali, sacchi di terra e cassette presso gli ingressi sono
+interpretazioni funzionali; non chiamarli elementi documentati del modellino.
+Studio secondario sul dettaglio dei draghi:
+https://hogwarts4d.home.blog/2020/08/14/rescaled-bricks-greenhouse-dragons/
+Fonte primaria del set di Erbologia:
+https://www.wbstudiotour.co.uk/the-experience/explore-the-tour/sets/professor-sprouts-greenhouse-2/
+
+COERENZA E LIMITI
+Preservare interni, porte e aperture reali; i nuovi elementi esterni devono
+avere fondazioni appoggiate al terreno e sentieri continui. Evitare di
+reintrodurre arredi/cornici nelle stanze o di ripristinare vecchie geometrie
+quando si aggiungono dettagli. Il castello è cambiato fra i film: non aggiungere
+il grande viadotto della battaglia finale né il paesaggio di Hogwarts Legacy.
+La fonte ufficiale spiega esplicitamente l'evoluzione del progetto:
+https://www.harrypotter.com/features/designing-hogwarts-castle
+
+Nessun modello Blender modificato e nessun rendering eseguito da questa ricerca.

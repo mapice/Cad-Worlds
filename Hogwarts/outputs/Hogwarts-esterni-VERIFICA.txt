@@ -1,0 +1,22 @@
+VERIFICA DELLA VERSIONE SALVATA — 28 OTTOBRE 2026
+
+File corrente: Hogwarts-esterni-perfezionati.blend
+Base: il file finale Hogwarts-interni.blend, non le precedenti versioni del lago.
+
+Il file è stato riaperto in Blender e confrontato con la base:
+• 4.339 oggetti protetti identici per geometria, trasformazioni, visibilità
+  e assegnazioni dei materiali: scala e roccia rifinite, interni e involucri.
+• Nessuna geometria visibile vuota e nessuna immagine esterna mancante.
+• Presenti le modalità «Modello completo» e «Interni aperti»; le nuove
+  aggiunte esterne sono escluse dalla seconda.
+• Guferia: 90 controlli delle aperture contro muri, cornici e decorazioni;
+  111 controlli degli appoggi della scala e raccordo continuo al sentiero.
+• Rimessa: sei controlli nei due canali d'approdo, conservando scala e roccia.
+• Sentieri di Hagrid e del Platano: 35.520 controlli sulle superfici, lungo
+  il percorso e su tutta la larghezza, per evitare che il terreno li attraversi.
+
+Impronta SHA-256 del modello salvato:
+58c08c7e11cae7eac2824ea3866c54317e870dc37ae581b9984859174fa503f4
+
+I controlli riguardano la conservazione delle correzioni e questi elementi
+geometrici; non certificano una replica completa o misurata del set originale.

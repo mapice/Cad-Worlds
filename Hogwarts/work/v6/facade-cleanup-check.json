@@ -1,0 +1,5181 @@
+{
+  "support_tolerance_m": 0.3,
+  "windows_tested": 942,
+  "unsupported_windows_hidden": 107,
+  "windows_retained": 835,
+  "hidden": [
+    {
+      "pane": "Ala nord Durham | finestra | vetro",
+      "frame": "Ala nord Durham | finestra | cornice",
+      "center": [
+        2.999999761581421,
+        83.92601013183594,
+        61.1552848815918
+      ],
+      "bodies": [
+        "Ala nord Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.001",
+      "frame": "Ala nord Durham | finestra | cornice.001",
+      "center": [
+        2.999999761581421,
+        83.92601013183594,
+        70.65528869628906
+      ],
+      "bodies": [
+        "Ala nord Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.018",
+      "frame": "Ala occidentale Durham | finestra | cornice.018",
+      "center": [
+        6.379999160766602,
+        86.23800659179688,
+        61.1552848815918
+      ],
+      "bodies": [
+        "Ala occidentale Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.019",
+      "frame": "Ala occidentale Durham | finestra | cornice.019",
+      "center": [
+        6.379999160766602,
+        86.23800659179688,
+        70.65528869628906
+      ],
+      "bodies": [
+        "Ala occidentale Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro",
+      "frame": "Centrale | finestra | cornice",
+      "center": [
+        68.25599670410156,
+        14.822002410888672,
+        65.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.001",
+      "frame": "Centrale | finestra | cornice.001",
+      "center": [
+        68.25599670410156,
+        14.822002410888672,
+        78.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.003",
+      "frame": "Centrale | finestra | cornice.003",
+      "center": [
+        75.5999984741211,
+        14.822002410888672,
+        65.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.004",
+      "frame": "Centrale | finestra | cornice.004",
+      "center": [
+        75.5999984741211,
+        14.822002410888672,
+        78.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.006",
+      "frame": "Centrale | finestra | cornice.006",
+      "center": [
+        82.94400024414062,
+        14.822002410888672,
+        65.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.007",
+      "frame": "Centrale | finestra | cornice.007",
+      "center": [
+        82.94400024414062,
+        14.822002410888672,
+        78.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.018",
+      "frame": "Centrale | finestra | cornice.018",
+      "center": [
+        82.94400024414062,
+        35.601993560791016,
+        65.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.019",
+      "frame": "Centrale | finestra | cornice.019",
+      "center": [
+        82.94400024414062,
+        35.601993560791016,
+        78.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.021",
+      "frame": "Centrale | finestra | cornice.021",
+      "center": [
+        75.5999984741211,
+        35.601993560791016,
+        65.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.022",
+      "frame": "Centrale | finestra | cornice.022",
+      "center": [
+        75.5999984741211,
+        35.601993560791016,
+        78.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.024",
+      "frame": "Centrale | finestra | cornice.024",
+      "center": [
+        68.25599670410156,
+        35.601993560791016,
+        65.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Centrale | finestra | vetro.025",
+      "frame": "Centrale | finestra | cornice.025",
+      "center": [
+        68.25599670410156,
+        35.601993560791016,
+        78.36959838867188
+      ],
+      "bodies": [
+        "Centrale | corpo"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.006",
+      "frame": "Corpo sud Durham | finestra | cornice.006",
+      "center": [
+        69.30000305175781,
+        8.789999008178711,
+        61.1552848815918
+      ],
+      "bodies": [
+        "Corpo sud Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.007",
+      "frame": "Corpo sud Durham | finestra | cornice.007",
+      "center": [
+        69.30000305175781,
+        8.789999008178711,
+        69.65528869628906
+      ],
+      "bodies": [
+        "Corpo sud Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.014",
+      "frame": "Corpo sud Durham | finestra | cornice.014",
+      "center": [
+        69.29999542236328,
+        17.950000762939453,
+        61.1552848815918
+      ],
+      "bodies": [
+        "Corpo sud Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.015",
+      "frame": "Corpo sud Durham | finestra | cornice.015",
+      "center": [
+        69.29999542236328,
+        17.950000762939453,
+        69.65528869628906
+      ],
+      "bodies": [
+        "Corpo sud Durham | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro.007",
+      "frame": "Grifondoro | torre nordoccidentale | feritoie | cornice.007",
+      "center": [
+        -37.16130828857422,
+        -32.77869415283203,
+        100.63407135009766
+      ],
+      "bodies": [
+        "Grifondoro | torre nordoccidentale | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.030",
+      "frame": "Quad | ala est | finestra | cornice.030",
+      "center": [
+        26.280000686645508,
+        -33.09199905395508,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.031",
+      "frame": "Quad | ala est | finestra | cornice.031",
+      "center": [
+        26.280000686645508,
+        -33.09199905395508,
+        88.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.032",
+      "frame": "Quad | ala est | finestra | cornice.032",
+      "center": [
+        26.280000686645508,
+        -33.09199905395508,
+        98.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.060",
+      "frame": "Quad | ala est | finestra | cornice.060",
+      "center": [
+        12.11999797821045,
+        -38.391998291015625,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.061",
+      "frame": "Quad | ala est | finestra | cornice.061",
+      "center": [
+        12.11999797821045,
+        -38.391998291015625,
+        88.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.062",
+      "frame": "Quad | ala est | finestra | cornice.062",
+      "center": [
+        12.11999797821045,
+        -38.391998291015625,
+        98.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.063",
+      "frame": "Quad | ala est | finestra | cornice.063",
+      "center": [
+        12.11999797821045,
+        -33.092002868652344,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.064",
+      "frame": "Quad | ala est | finestra | cornice.064",
+      "center": [
+        12.11999797821045,
+        -33.092002868652344,
+        88.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.065",
+      "frame": "Quad | ala est | finestra | cornice.065",
+      "center": [
+        12.11999797821045,
+        -33.092002868652344,
+        98.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala est | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro",
+      "frame": "Quad | ala nord | finestra | cornice",
+      "center": [
+        -38.89999771118164,
+        -40.96000289916992,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.001",
+      "frame": "Quad | ala nord | finestra | cornice.001",
+      "center": [
+        -38.89999771118164,
+        -40.96000289916992,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.002",
+      "frame": "Quad | ala nord | finestra | cornice.002",
+      "center": [
+        -38.89999771118164,
+        -40.96000289916992,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.003",
+      "frame": "Quad | ala nord | finestra | cornice.003",
+      "center": [
+        -33.399993896484375,
+        -40.96000289916992,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.004",
+      "frame": "Quad | ala nord | finestra | cornice.004",
+      "center": [
+        -33.399993896484375,
+        -40.96000289916992,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.005",
+      "frame": "Quad | ala nord | finestra | cornice.005",
+      "center": [
+        -33.399993896484375,
+        -40.96000289916992,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.030",
+      "frame": "Quad | ala nord | finestra | cornice.030",
+      "center": [
+        16.10000228881836,
+        -40.96000289916992,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.031",
+      "frame": "Quad | ala nord | finestra | cornice.031",
+      "center": [
+        16.10000228881836,
+        -40.96000289916992,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.032",
+      "frame": "Quad | ala nord | finestra | cornice.032",
+      "center": [
+        16.10000228881836,
+        -40.96000289916992,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.033",
+      "frame": "Quad | ala nord | finestra | cornice.033",
+      "center": [
+        -38.89999771118164,
+        -27.79999351501465,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.034",
+      "frame": "Quad | ala nord | finestra | cornice.034",
+      "center": [
+        -38.89999771118164,
+        -27.79999351501465,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.035",
+      "frame": "Quad | ala nord | finestra | cornice.035",
+      "center": [
+        -38.89999771118164,
+        -27.79999351501465,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala nord | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro",
+      "frame": "Quad | ala ovest | finestra | cornice",
+      "center": [
+        -30.119998931884766,
+        -92.14801025390625,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.001",
+      "frame": "Quad | ala ovest | finestra | cornice.001",
+      "center": [
+        -30.119998931884766,
+        -92.14801025390625,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.002",
+      "frame": "Quad | ala ovest | finestra | cornice.002",
+      "center": [
+        -30.119998931884766,
+        -92.14801025390625,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.003",
+      "frame": "Quad | ala ovest | finestra | cornice.003",
+      "center": [
+        -30.119998931884766,
+        -86.78437042236328,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.004",
+      "frame": "Quad | ala ovest | finestra | cornice.004",
+      "center": [
+        -30.119998931884766,
+        -86.78437042236328,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.005",
+      "frame": "Quad | ala ovest | finestra | cornice.005",
+      "center": [
+        -30.119998931884766,
+        -86.78437042236328,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.030",
+      "frame": "Quad | ala ovest | finestra | cornice.030",
+      "center": [
+        -30.119998931884766,
+        -38.511634826660156,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.031",
+      "frame": "Quad | ala ovest | finestra | cornice.031",
+      "center": [
+        -30.119998931884766,
+        -38.511634826660156,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.032",
+      "frame": "Quad | ala ovest | finestra | cornice.032",
+      "center": [
+        -30.119998931884766,
+        -38.511634826660156,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.033",
+      "frame": "Quad | ala ovest | finestra | cornice.033",
+      "center": [
+        -30.119998931884766,
+        -33.14800262451172,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.034",
+      "frame": "Quad | ala ovest | finestra | cornice.034",
+      "center": [
+        -30.119998931884766,
+        -33.14800262451172,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.035",
+      "frame": "Quad | ala ovest | finestra | cornice.035",
+      "center": [
+        -30.119998931884766,
+        -33.14800262451172,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.069",
+      "frame": "Quad | ala ovest | finestra | cornice.069",
+      "center": [
+        -44.28001022338867,
+        -33.14799880981445,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.070",
+      "frame": "Quad | ala ovest | finestra | cornice.070",
+      "center": [
+        -44.28001022338867,
+        -33.14799880981445,
+        87.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.071",
+      "frame": "Quad | ala ovest | finestra | cornice.071",
+      "center": [
+        -44.28001022338867,
+        -33.14799880981445,
+        96.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala ovest | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.024",
+      "frame": "Quad | ala sud | finestra | cornice.024",
+      "center": [
+        7.266666889190674,
+        -97.99598693847656,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.025",
+      "frame": "Quad | ala sud | finestra | cornice.025",
+      "center": [
+        7.266666889190674,
+        -97.99598693847656,
+        88.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.026",
+      "frame": "Quad | ala sud | finestra | cornice.026",
+      "center": [
+        7.266666889190674,
+        -97.99598693847656,
+        97.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.027",
+      "frame": "Quad | ala sud | finestra | cornice.027",
+      "center": [
+        12.600000381469727,
+        -97.99598693847656,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.028",
+      "frame": "Quad | ala sud | finestra | cornice.028",
+      "center": [
+        12.600000381469727,
+        -97.99598693847656,
+        88.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.029",
+      "frame": "Quad | ala sud | finestra | cornice.029",
+      "center": [
+        12.600000381469727,
+        -97.99598693847656,
+        97.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.030",
+      "frame": "Quad | ala sud | finestra | cornice.030",
+      "center": [
+        -35.39999771118164,
+        -83.83597564697266,
+        79.1552963256836
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.031",
+      "frame": "Quad | ala sud | finestra | cornice.031",
+      "center": [
+        -35.39999771118164,
+        -83.83597564697266,
+        88.48863220214844
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.032",
+      "frame": "Quad | ala sud | finestra | cornice.032",
+      "center": [
+        -35.39999771118164,
+        -83.83597564697266,
+        97.82196044921875
+      ],
+      "bodies": [
+        "Quad | ala sud | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro.004",
+      "frame": "Quad | torre del ponte alto | feritoie | cornice.004",
+      "center": [
+        16.760000228881836,
+        -31.324003219604492,
+        96.13407135009766
+      ],
+      "bodies": [
+        "Quad | torre del ponte alto | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro.005",
+      "frame": "Quad | torre del ponte alto | feritoie | cornice.005",
+      "center": [
+        18.88054656982422,
+        -36.443450927734375,
+        96.13407135009766
+      ],
+      "bodies": [
+        "Quad | torre del ponte alto | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro.006",
+      "frame": "Quad | torre del ponte alto | feritoie | cornice.006",
+      "center": [
+        24.000001907348633,
+        -38.56400680541992,
+        96.13407135009766
+      ],
+      "bodies": [
+        "Quad | torre del ponte alto | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro",
+      "frame": "Sala d’ingresso | finestra | cornice",
+      "center": [
+        35.380001068115234,
+        -130.9759979248047,
+        66.15528869628906
+      ],
+      "bodies": [
+        "Sala d’ingresso | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.001",
+      "frame": "Sala d’ingresso | finestra | cornice.001",
+      "center": [
+        35.380001068115234,
+        -130.9759979248047,
+        75.1552963256836
+      ],
+      "bodies": [
+        "Sala d’ingresso | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.010",
+      "frame": "Sala d’ingresso | finestra | cornice.010",
+      "center": [
+        22.219999313354492,
+        -130.97601318359375,
+        66.15528869628906
+      ],
+      "bodies": [
+        "Sala d’ingresso | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.011",
+      "frame": "Sala d’ingresso | finestra | cornice.011",
+      "center": [
+        22.219999313354492,
+        -130.97601318359375,
+        75.1552963256836
+      ],
+      "bodies": [
+        "Sala d’ingresso | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.018",
+      "frame": "Sala d’ingresso | finestra | cornice.018",
+      "center": [
+        22.219999313354492,
+        -111.97599792480469,
+        66.15528869628906
+      ],
+      "bodies": [
+        "Sala d’ingresso | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.019",
+      "frame": "Sala d’ingresso | finestra | cornice.019",
+      "center": [
+        22.219999313354492,
+        -111.97599792480469,
+        75.1552963256836
+      ],
+      "bodies": [
+        "Sala d’ingresso | muri"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.014",
+      "frame": "Scalinata | finestra | cornice.014",
+      "center": [
+        24.524234771728516,
+        -113.61215209960938,
+        67.62616729736328
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.015",
+      "frame": "Scalinata | finestra | cornice.015",
+      "center": [
+        30.020000457763672,
+        -111.61186981201172,
+        67.62616729736328
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.022",
+      "frame": "Scalinata | finestra | cornice.022",
+      "center": [
+        24.52423667907715,
+        -80.44384002685547,
+        77.2261734008789
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.023",
+      "frame": "Scalinata | finestra | cornice.023",
+      "center": [
+        18.675764083862305,
+        -80.44384765625,
+        77.2261734008789
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.025",
+      "frame": "Scalinata | finestra | cornice.025",
+      "center": [
+        8.699811935424805,
+        -86.20345306396484,
+        77.2261734008789
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.026",
+      "frame": "Scalinata | finestra | cornice.026",
+      "center": [
+        5.775575637817383,
+        -91.26837158203125,
+        77.2261734008789
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.032",
+      "frame": "Scalinata | finestra | cornice.032",
+      "center": [
+        24.524234771728516,
+        -113.61215209960938,
+        77.2261734008789
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.033",
+      "frame": "Scalinata | finestra | cornice.033",
+      "center": [
+        30.020000457763672,
+        -111.61186981201172,
+        77.2261734008789
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.040",
+      "frame": "Scalinata | finestra | cornice.040",
+      "center": [
+        24.52423667907715,
+        -80.44384002685547,
+        86.826171875
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.041",
+      "frame": "Scalinata | finestra | cornice.041",
+      "center": [
+        18.675764083862305,
+        -80.44384765625,
+        86.826171875
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.043",
+      "frame": "Scalinata | finestra | cornice.043",
+      "center": [
+        8.699811935424805,
+        -86.20345306396484,
+        86.826171875
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.044",
+      "frame": "Scalinata | finestra | cornice.044",
+      "center": [
+        5.775575637817383,
+        -91.26837158203125,
+        86.826171875
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.058",
+      "frame": "Scalinata | finestra | cornice.058",
+      "center": [
+        24.52423667907715,
+        -80.44384002685547,
+        96.42617797851562
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.059",
+      "frame": "Scalinata | finestra | cornice.059",
+      "center": [
+        18.675764083862305,
+        -80.44384765625,
+        96.42617797851562
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.061",
+      "frame": "Scalinata | finestra | cornice.061",
+      "center": [
+        8.699811935424805,
+        -86.20345306396484,
+        96.42617797851562
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.062",
+      "frame": "Scalinata | finestra | cornice.062",
+      "center": [
+        5.775575637817383,
+        -91.26837158203125,
+        96.42617797851562
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.076",
+      "frame": "Scalinata | finestra | cornice.076",
+      "center": [
+        24.52423667907715,
+        -80.44384002685547,
+        106.02617645263672
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.077",
+      "frame": "Scalinata | finestra | cornice.077",
+      "center": [
+        18.675764083862305,
+        -80.44384765625,
+        106.02617645263672
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.079",
+      "frame": "Scalinata | finestra | cornice.079",
+      "center": [
+        8.699811935424805,
+        -86.20345306396484,
+        106.02617645263672
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.080",
+      "frame": "Scalinata | finestra | cornice.080",
+      "center": [
+        5.775575637817383,
+        -91.26837158203125,
+        106.02617645263672
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.136",
+      "frame": "Scalinata | finestra | cornice.136",
+      "center": [
+        5.775576114654541,
+        -102.78761291503906,
+        134.82618713378906
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.138",
+      "frame": "Scalinata | finestra | cornice.138",
+      "center": [
+        13.180000305175781,
+        -111.61186981201172,
+        134.82618713378906
+      ],
+      "bodies": [
+        "Torre della Scalinata | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro",
+      "frame": "Silente | torretta 1 | feritoie | cornice",
+      "center": [
+        9.897049903869629,
+        -103.58094024658203,
+        135.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 1 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro.001",
+      "frame": "Silente | torretta 1 | feritoie | cornice.001",
+      "center": [
+        8.889496803283691,
+        -101.14849853515625,
+        135.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 1 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro",
+      "frame": "Silente | torretta 2 | feritoie | cornice",
+      "center": [
+        12.727112770080566,
+        -108.01175689697266,
+        141.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 2 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro.001",
+      "frame": "Silente | torretta 2 | feritoie | cornice.001",
+      "center": [
+        11.719560623168945,
+        -105.57929229736328,
+        141.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 2 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro.002",
+      "frame": "Silente | torretta 2 | feritoie | cornice.002",
+      "center": [
+        9.287114143371582,
+        -104.57176971435547,
+        141.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 2 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro.007",
+      "frame": "Silente | torretta 2 | feritoie | cornice.007",
+      "center": [
+        11.719560623168945,
+        -110.44420623779297,
+        141.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 2 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro",
+      "frame": "Silente | torretta 3 | feritoie | cornice",
+      "center": [
+        16.807292938232422,
+        -111.327392578125,
+        136.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 3 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro.001",
+      "frame": "Silente | torretta 3 | feritoie | cornice.001",
+      "center": [
+        15.799741744995117,
+        -108.89494323730469,
+        136.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 3 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro.002",
+      "frame": "Silente | torretta 3 | feritoie | cornice.002",
+      "center": [
+        13.367293357849121,
+        -107.88741302490234,
+        136.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 3 | fusto"
+      ],
+      "support_points": 0
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro.003",
+      "frame": "Silente | torretta 3 | feritoie | cornice.003",
+      "center": [
+        10.934844970703125,
+        -108.89494323730469,
+        136.8340606689453
+      ],
+      "bodies": [
+        "Silente | torretta 3 | fusto"
+      ],
+      "support_points": 0
+    }
+  ],
+  "retained_support_counts": [
+    {
+      "pane": "Ala nord Durham | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.030",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.031",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.032",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.033",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.034",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.035",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Ala nord Durham | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.030",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.031",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.032",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.033",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.034",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.035",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Ala occidentale Durham | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.012",
+      "supported": 12
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.030",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.031",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.032",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.033",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.034",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.035",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.040",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.041",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.042",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.043",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.044",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.045",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Ala orientale Durham | finestra | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.030",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.031",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.032",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.033",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.034",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.035",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.040",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.041",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.042",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.043",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.044",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.045",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.048",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.049",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.050",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.051",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.052",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.053",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.054",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.055",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.056",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.057",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.058",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.059",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.060",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.061",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.062",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.063",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.064",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.065",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.066",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.067",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.068",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.069",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.070",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.071",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.072",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.073",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.074",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.075",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | feritoia curva | vetro.076",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra laterale | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.026",
+      "supported": 6
+    },
+    {
+      "pane": "Astronomia | finestra sud | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | grande apertura telescopio | vetro",
+      "supported": 15
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Astronomia | luci tamburo | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.020",
+      "supported": 5
+    },
+    {
+      "pane": "Centrale | finestra | vetro.023",
+      "supported": 5
+    },
+    {
+      "pane": "Centrale | finestra | vetro.026",
+      "supported": 5
+    },
+    {
+      "pane": "Centrale | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.030",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.031",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.032",
+      "supported": 16
+    },
+    {
+      "pane": "Centrale | finestra | vetro.033",
+      "supported": 10
+    },
+    {
+      "pane": "Centrale | finestra | vetro.034",
+      "supported": 10
+    },
+    {
+      "pane": "Centrale | finestra | vetro.035",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo laterale occidentale | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Corpo sud Durham | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.030",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.031",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.032",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.033",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.034",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.035",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.040",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.041",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.042",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.043",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.044",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.045",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.048",
+      "supported": 8
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.049",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.050",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.051",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.052",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.053",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.054",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.055",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.056",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.057",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.058",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.059",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.060",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.061",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.062",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.063",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.064",
+      "supported": 16
+    },
+    {
+      "pane": "Galleria lunga | finestra | vetro.065",
+      "supported": 16
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Grifondoro | torre nordoccidentale | feritoie | vetro.006",
+      "supported": 7
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.001",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.002",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.003",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.004",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.005",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.006",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.007",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.008",
+      "supported": 12
+    },
+    {
+      "pane": "Infermeria | galleria | finestra | vetro.009",
+      "supported": 12
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Ingresso viadotto | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.008",
+      "supported": 5
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.009",
+      "supported": 5
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.010",
+      "supported": 1
+    },
+    {
+      "pane": "Navata sud Durham | finestra | vetro.011",
+      "supported": 1
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.040",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.041",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.042",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.043",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.044",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.045",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.048",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.049",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.050",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.051",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.052",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.053",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.054",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.055",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.056",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.057",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.058",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala est | finestra | vetro.059",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.040",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.041",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.042",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.043",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.044",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.045",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.048",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.049",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.050",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.051",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.052",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.053",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.054",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.055",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.056",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.057",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.058",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.059",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.060",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.061",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.062",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.063",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.064",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala nord | finestra | vetro.065",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.024",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.025",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.026",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.027",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.040",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.041",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.042",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.043",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.044",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.045",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.048",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.049",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.050",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.051",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.052",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.053",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.054",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.055",
+      "supported": 2
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.056",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.057",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.058",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.059",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.060",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.061",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.062",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.063",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.064",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.065",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.066",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.067",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala ovest | finestra | vetro.068",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.022",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.023",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.033",
+      "supported": 12
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.034",
+      "supported": 12
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.035",
+      "supported": 12
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.040",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.041",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.042",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.043",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.044",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.045",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.048",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.049",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.050",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.051",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.052",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.053",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.054",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.055",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.056",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.057",
+      "supported": 10
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.058",
+      "supported": 10
+    },
+    {
+      "pane": "Quad | ala sud | finestra | vetro.059",
+      "supported": 10
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Quad | torre del ponte alto | feritoie | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.002",
+      "supported": 9
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Sala d’ingresso | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | grande finestra terminale | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | grande finestra terminale | vetro.001",
+      "supported": 11
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.014",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.015",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.018",
+      "supported": 8
+    },
+    {
+      "pane": "Sala Grande | vetrata | vetro.019",
+      "supported": 2
+    },
+    {
+      "pane": "Scalinata | finestra | vetro",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.001",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.002",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.007",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.008",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.009",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.010",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.011",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.012",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.013",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.016",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.017",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.018",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.019",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.020",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.021",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.024",
+      "supported": 8
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.027",
+      "supported": 7
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.028",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.029",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.030",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.031",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.034",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.035",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.036",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.037",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.038",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.039",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.042",
+      "supported": 8
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.045",
+      "supported": 7
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.046",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.047",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.048",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.049",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.050",
+      "supported": 8
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.051",
+      "supported": 8
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.052",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.053",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.054",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.055",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.056",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.057",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.060",
+      "supported": 8
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.063",
+      "supported": 7
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.064",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.065",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.066",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.067",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.068",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.069",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.070",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.071",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.072",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.073",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.074",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.075",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.078",
+      "supported": 8
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.081",
+      "supported": 7
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.082",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.083",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.084",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.085",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.086",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.087",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.088",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.089",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.090",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.091",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.092",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.093",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.094",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.095",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.096",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.097",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.098",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.099",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.100",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.101",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.102",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.103",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.104",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.105",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.106",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.107",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.108",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.109",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.110",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.111",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.112",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.113",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.114",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.115",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.116",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.117",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.118",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.119",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.120",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.121",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.122",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.123",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.124",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.125",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.126",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.127",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.128",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.129",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.130",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.131",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.132",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.133",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.134",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.135",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.137",
+      "supported": 9
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.139",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.140",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.141",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.142",
+      "supported": 16
+    },
+    {
+      "pane": "Scalinata | finestra | vetro.143",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro.002",
+      "supported": 5
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro.003",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro.006",
+      "supported": 11
+    },
+    {
+      "pane": "Silente | torretta 1 | feritoie | vetro.007",
+      "supported": 2
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro.003",
+      "supported": 3
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro.004",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 2 | feritoie | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro.004",
+      "supported": 12
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro.005",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro.006",
+      "supported": 16
+    },
+    {
+      "pane": "Silente | torretta 3 | feritoie | vetro.007",
+      "supported": 16
+    }
+  ],
+  "batches": [
+    {
+      "object": "Finestre | modanature esterne e davanzali",
+      "faces_removed": 18122,
+      "faces_remaining": 214258
+    },
+    {
+      "object": "Vetrate | reticolo in piombo",
+      "faces_removed": 1176,
+      "faces_remaining": 14532
+    },
+    {
+      "object": "Vetrate | trafori gotici",
+      "faces_removed": 0
+    }
+  ],
+  "partial_clipping": {
+    "windows": [
+      {
+        "pane": "Quad | ala est | finestra | vetro.003",
+        "cavities": [
+          "Scalinata"
+        ],
+        "changes": [
+          {
+            "object": "Quad | ala est | finestra | vetro.003",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 21
+          },
+          {
+            "object": "Quad | ala est | finestra | cornice.003",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 75
+          }
+        ]
+      },
+      {
+        "pane": "Quad | ala est | finestra | vetro.004",
+        "cavities": [
+          "Scalinata"
+        ],
+        "changes": [
+          {
+            "object": "Quad | ala est | finestra | vetro.004",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 21
+          },
+          {
+            "object": "Quad | ala est | finestra | cornice.004",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 75
+          }
+        ]
+      },
+      {
+        "pane": "Quad | ala est | finestra | vetro.005",
+        "cavities": [
+          "Scalinata"
+        ],
+        "changes": [
+          {
+            "object": "Quad | ala est | finestra | vetro.005",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 21
+          },
+          {
+            "object": "Quad | ala est | finestra | cornice.005",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 75
+          }
+        ]
+      },
+      {
+        "pane": "Quad | ala sud | finestra | vetro.057",
+        "cavities": [
+          "Scalinata"
+        ],
+        "changes": [
+          {
+            "object": "Quad | ala sud | finestra | vetro.057",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 15
+          },
+          {
+            "object": "Quad | ala sud | finestra | cornice.057",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 44
+          }
+        ]
+      },
+      {
+        "pane": "Quad | ala sud | finestra | vetro.058",
+        "cavities": [
+          "Scalinata"
+        ],
+        "changes": [
+          {
+            "object": "Quad | ala sud | finestra | vetro.058",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 15
+          },
+          {
+            "object": "Quad | ala sud | finestra | cornice.058",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 44
+          }
+        ]
+      },
+      {
+        "pane": "Quad | ala sud | finestra | vetro.059",
+        "cavities": [
+          "Scalinata"
+        ],
+        "changes": [
+          {
+            "object": "Quad | ala sud | finestra | vetro.059",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 15
+          },
+          {
+            "object": "Quad | ala sud | finestra | cornice.059",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 44
+          }
+        ]
+      },
+      {
+        "pane": "Scalinata | finestra | vetro.137",
+        "cavities": [
+          "Silente2"
+        ],
+        "changes": [
+          {
+            "object": "Scalinata | finestra | vetro.137",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 6
+          },
+          {
+            "object": "Scalinata | finestra | cornice.137",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 14
+          }
+        ]
+      },
+      {
+        "pane": "Silente | torretta 1 | feritoie | vetro.002",
+        "cavities": [
+          "Scalinata"
+        ],
+        "changes": [
+          {
+            "object": "Silente | torretta 1 | feritoie | vetro.002",
+            "hidden": true,
+            "faces_before": 21
+          },
+          {
+            "object": "Silente | torretta 1 | feritoie | cornice.002",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 20
+          }
+        ]
+      },
+      {
+        "pane": "Silente | torretta 1 | feritoie | vetro.006",
+        "cavities": [
+          "Silente2"
+        ],
+        "changes": [
+          {
+            "object": "Silente | torretta 1 | feritoie | vetro.006",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 18
+          },
+          {
+            "object": "Silente | torretta 1 | feritoie | cornice.006",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 57
+          }
+        ]
+      },
+      {
+        "pane": "Silente | torretta 1 | feritoie | vetro.007",
+        "cavities": [
+          "Scalinata",
+          "Silente2"
+        ],
+        "changes": [
+          {
+            "object": "Silente | torretta 1 | feritoie | vetro.007",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 6
+          },
+          {
+            "object": "Silente | torretta 1 | feritoie | cornice.007",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 10
+          }
+        ]
+      },
+      {
+        "pane": "Silente | torretta 2 | feritoie | vetro.003",
+        "cavities": [
+          "Silente1"
+        ],
+        "changes": [
+          {
+            "object": "Silente | torretta 2 | feritoie | vetro.003",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 13
+          },
+          {
+            "object": "Silente | torretta 2 | feritoie | cornice.003",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 42
+          }
+        ]
+      },
+      {
+        "pane": "Silente | torretta 3 | feritoie | vetro.004",
+        "cavities": [
+          "Silente2"
+        ],
+        "changes": [
+          {
+            "object": "Silente | torretta 3 | feritoie | vetro.004",
+            "hidden": false,
+            "faces_before": 21,
+            "faces_after": 21
+          },
+          {
+            "object": "Silente | torretta 3 | feritoie | cornice.004",
+            "hidden": false,
+            "faces_before": 76,
+            "faces_after": 74
+          }
+        ]
+      }
+    ],
+    "batches": [
+      {
+        "object": "Finestre | modanature esterne e davanzali",
+        "faces_selected": 1896,
+        "faces_returned": 1583
+      },
+      {
+        "object": "Vetrate | reticolo in piombo",
+        "faces_selected": 0
+      },
+      {
+        "object": "Vetrate | trafori gotici",
+        "faces_selected": 0
+      }
+    ]
+  },
+  "pipe": {
+    "object": "Tetti | grondaie e pluviali",
+    "faces_removed": 60,
+    "components_removed": 3,
+    "components": [
+      {
+        "min": [
+          -41.86000061035156,
+          -27.5279541015625,
+          105.36326599121094
+        ],
+        "max": [
+          -41.63999938964844,
+          -27.03204345703125,
+          106.23674011230469
+        ],
+        "vertices": 20,
+        "faces": 12
+      },
+      {
+        "min": [
+          -41.86000061035156,
+          -27.53461456298828,
+          73.80000305175781
+        ],
+        "max": [
+          -41.63999938964844,
+          -27.325382232666016,
+          105.4000015258789
+        ],
+        "vertices": 20,
+        "faces": 12
+      },
+      {
+        "min": [
+          -41.86000061035156,
+          -27.48009490966797,
+          73.40815734863281
+        ],
+        "max": [
+          -41.63999938964844,
+          -26.82990264892578,
+          73.891845703125
+        ],
+        "vertices": 20,
+        "faces": 12
+      }
+    ]
+  },
+  "grifondoro_ray_before": [
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        160
+      ],
+      "object": "Tetti | grondaie e pluviali",
+      "face": 3934,
+      "location": [
+        -41.845306396484375,
+        -27.475231170654297,
+        97.16319274902344
+      ]
+    },
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        300
+      ],
+      "object": "Tetti | grondaie e pluviali",
+      "face": 3933,
+      "location": [
+        -41.83671569824219,
+        -27.496307373046875,
+        95.67759704589844
+      ]
+    },
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        440
+      ],
+      "object": "Tetti | grondaie e pluviali",
+      "face": 3933,
+      "location": [
+        -41.817138671875,
+        -27.510534286499023,
+        94.17284393310547
+      ]
+    },
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        505
+      ],
+      "object": "Tetti | grondaie e pluviali",
+      "face": 3933,
+      "location": [
+        -41.807945251464844,
+        -27.5172119140625,
+        93.4664306640625
+      ]
+    }
+  ],
+  "grifondoro_ray_after": [
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        160
+      ],
+      "object": "Grifondoro | torre nordoccidentale | fusto",
+      "face": 49,
+      "location": [
+        -36.119937896728516,
+        -23.695831298828125,
+        98.93634033203125
+      ]
+    },
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        300
+      ],
+      "object": "Grifondoro | ritratto 1 | busto",
+      "face": 2,
+      "location": [
+        -36.769630432128906,
+        -24.174564361572266,
+        95.96070861816406
+      ]
+    },
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        440
+      ],
+      "object": "Grifondoro | parquet circolare",
+      "face": 16,
+      "location": [
+        -36.9553108215332,
+        -24.345714569091797,
+        93.19999694824219
+      ]
+    },
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "pixel": [
+        797,
+        505
+      ],
+      "object": "Grifondoro | tappeto tondo",
+      "face": 1,
+      "location": [
+        -41.09025192260742,
+        -27.051570892333984,
+        93.23699951171875
+      ]
+    }
+  ]
+}

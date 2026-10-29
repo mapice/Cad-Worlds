@@ -1,0 +1,260 @@
+{
+  "objects": 3,
+  "faces": 2553,
+  "steps": 307,
+  "flights": 23,
+  "riser_min": 0.18068965517241387,
+  "riser_max": 0.18421052631578946,
+  "tread_min": 0.3201898858375685,
+  "tread_max": 0.42,
+  "clear_width": 2.7,
+  "outer_width": 3.36,
+  "hidden_original_objects": 265,
+  "start": [
+    83.4,
+    -125.678,
+    60.24
+  ],
+  "end": [
+    171.0,
+    -127.3,
+    4.12
+  ],
+  "profiles": [
+    {
+      "index": 0,
+      "length": 6.630832623749425,
+      "steps": 0,
+      "riser": 0,
+      "tread": 0,
+      "flights": 0
+    },
+    {
+      "index": 1,
+      "length": 17.537323306030324,
+      "steps": 29,
+      "riser": 0.18068965517241387,
+      "tread": 0.34567015850863614,
+      "flights": 2
+    },
+    {
+      "index": 2,
+      "length": 24.46469434351146,
+      "steps": 38,
+      "riser": 0.18421052631578946,
+      "tread": 0.42,
+      "flights": 3
+    },
+    {
+      "index": 3,
+      "length": 17.696386255018748,
+      "steps": 38,
+      "riser": 0.18421052631578946,
+      "tread": 0.3201898858375685,
+      "flights": 3
+    },
+    {
+      "index": 4,
+      "length": 26.62121096590115,
+      "steps": 49,
+      "riser": 0.1836734693877551,
+      "tread": 0.38624730310996797,
+      "flights": 4
+    },
+    {
+      "index": 5,
+      "length": 18.300779269777106,
+      "steps": 33,
+      "riser": 0.18181818181818182,
+      "tread": 0.3747829887653738,
+      "flights": 3
+    },
+    {
+      "index": 6,
+      "length": 23.213833315287275,
+      "steps": 44,
+      "riser": 0.18181818181818182,
+      "tread": 0.4112912544338427,
+      "flights": 3
+    },
+    {
+      "index": 7,
+      "length": 20.349876969549012,
+      "steps": 44,
+      "riser": 0.18181818181818182,
+      "tread": 0.34658811294429576,
+      "flights": 3
+    },
+    {
+      "index": 8,
+      "length": 16.22270621483335,
+      "steps": 32,
+      "riser": 0.18375,
+      "tread": 0.3897720692135423,
+      "flights": 2
+    }
+  ],
+  "empty": [],
+  "nonfinite": [],
+  "zero_area_faces": {
+    "Scalinata V5 | gradini e sostegno continuo": 0,
+    "Scalinata V5 | parapetti continui": 0,
+    "Scalinata V5 | copertine di pietra": 0
+  },
+  "mesh_edges": {
+    "Scalinata V5 | gradini e sostegno continuo": {
+      "boundary": 0,
+      "nonmanifold": 0
+    },
+    "Scalinata V5 | parapetti continui": {
+      "boundary": 0,
+      "nonmanifold": 0
+    },
+    "Scalinata V5 | copertine di pietra": {
+      "boundary": 0,
+      "nonmanifold": 0
+    }
+  },
+  "node_samples": [
+    {
+      "distance": 0.0,
+      "height": 60.24,
+      "support_z": 59.39,
+      "point": [
+        83.4,
+        -125.678,
+        60.24
+      ],
+      "segment": 0,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 60.24,
+      "support_z": 59.39,
+      "point": [
+        87.01,
+        -131.24,
+        60.24
+      ],
+      "segment": 1,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 55.0,
+      "support_z": 54.15,
+      "point": [
+        74.0,
+        -143.0,
+        55.0
+      ],
+      "segment": 2,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 48.0,
+      "support_z": 47.15,
+      "point": [
+        98.4,
+        -144.778,
+        48.0
+      ],
+      "segment": 3,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 41.0,
+      "support_z": 40.15,
+      "point": [
+        112.2,
+        -133.7,
+        41.0
+      ],
+      "segment": 4,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 32.0,
+      "support_z": 31.15,
+      "point": [
+        102.6,
+        -108.87,
+        32.0
+      ],
+      "segment": 5,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 26.0,
+      "support_z": 25.15,
+      "point": [
+        119.4,
+        -101.612,
+        26.0
+      ],
+      "segment": 6,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 18.0,
+      "support_z": 17.15,
+      "point": [
+        139.8,
+        -112.69,
+        18.0
+      ],
+      "segment": 7,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 0.0,
+      "height": 10.0,
+      "support_z": 9.15,
+      "point": [
+        154.8,
+        -126.442,
+        10.0
+      ],
+      "segment": 8,
+      "s": 0,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    },
+    {
+      "distance": 5.581304586785014e-07,
+      "height": 4.12,
+      "support_z": 3.27,
+      "point": [
+        171.00000055673425,
+        -127.29999996054643,
+        4.12
+      ],
+      "segment": 8,
+      "s": 16.222705476745954,
+      "clear_width": 2.7,
+      "outer_width": 3.36
+    }
+  ]
+}

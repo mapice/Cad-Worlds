@@ -1,0 +1,632 @@
+{
+  "source": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-interni.blend",
+  "source_sha256": "ed36965cc8ceadd7318b108d01f40ed2b4f4a564bf47dd28376aab0169b402b3",
+  "protected_objects": 4339,
+  "protected_changed": [],
+  "new_objects": 93,
+  "new_mesh_faces": 142735,
+  "new_empty_meshes": [],
+  "new_nonfinite_meshes": [],
+  "modules": {
+    "campo_quidditch": {
+      "terrain_vertices_graded": 185,
+      "maximum_local_ground_adjustment": 33.25123635025588,
+      "vegetation_cleared": 26,
+      "vegetation_regrounded": 26,
+      "center": [
+        -485.0,
+        310.0,
+        201.935107421875
+      ],
+      "towers": 16,
+      "goal_rings": 6,
+      "path_controls": [
+        [
+          -120,
+          175
+        ],
+        [
+          -120.0,
+          180.0
+        ],
+        [
+          -120.0,
+          190.0
+        ],
+        [
+          -120.0,
+          200.0
+        ],
+        [
+          -120.0,
+          210.0
+        ],
+        [
+          -120.0,
+          220.0
+        ],
+        [
+          -120.0,
+          230.0
+        ],
+        [
+          -120.0,
+          240.0
+        ],
+        [
+          -120.0,
+          250.0
+        ],
+        [
+          -120.0,
+          260.0
+        ],
+        [
+          -120.0,
+          270.0
+        ],
+        [
+          -120.0,
+          280.0
+        ],
+        [
+          -120.0,
+          290.0
+        ],
+        [
+          -120.0,
+          300.0
+        ],
+        [
+          -110.0,
+          310.0
+        ],
+        [
+          -100.0,
+          320.0
+        ],
+        [
+          -100.0,
+          330.0
+        ],
+        [
+          -100.0,
+          340.0
+        ],
+        [
+          -100.0,
+          350.0
+        ],
+        [
+          -100.0,
+          360.0
+        ],
+        [
+          -110.0,
+          350.0
+        ],
+        [
+          -110.0,
+          360.0
+        ],
+        [
+          -110.0,
+          370.0
+        ],
+        [
+          -120.0,
+          360.0
+        ],
+        [
+          -120.0,
+          370.0
+        ],
+        [
+          -130.0,
+          360.0
+        ],
+        [
+          -130.0,
+          370.0
+        ],
+        [
+          -130.0,
+          380.0
+        ],
+        [
+          -140.0,
+          370.0
+        ],
+        [
+          -150.0,
+          360.0
+        ],
+        [
+          -150.0,
+          370.0
+        ],
+        [
+          -160.0,
+          360.0
+        ],
+        [
+          -160.0,
+          370.0
+        ],
+        [
+          -160.0,
+          380.0
+        ],
+        [
+          -170.0,
+          370.0
+        ],
+        [
+          -170.0,
+          380.0
+        ],
+        [
+          -180.0,
+          390.0
+        ],
+        [
+          -180.0,
+          380.0
+        ],
+        [
+          -190.0,
+          390.0
+        ],
+        [
+          -190.0,
+          380.0
+        ],
+        [
+          -190.0,
+          370.0
+        ],
+        [
+          -200.0,
+          380.0
+        ],
+        [
+          -200.0,
+          370.0
+        ],
+        [
+          -200.0,
+          360.0
+        ],
+        [
+          -210.0,
+          370.0
+        ],
+        [
+          -210.0,
+          360.0
+        ],
+        [
+          -220.0,
+          370.0
+        ],
+        [
+          -220.0,
+          360.0
+        ],
+        [
+          -230.0,
+          350.0
+        ],
+        [
+          -240.0,
+          360.0
+        ],
+        [
+          -240.0,
+          350.0
+        ],
+        [
+          -240.0,
+          340.0
+        ],
+        [
+          -250.0,
+          350.0
+        ],
+        [
+          -250.0,
+          340.0
+        ],
+        [
+          -260.0,
+          350.0
+        ],
+        [
+          -260.0,
+          340.0
+        ],
+        [
+          -260.0,
+          330.0
+        ],
+        [
+          -260.0,
+          320.0
+        ],
+        [
+          -270.0,
+          310.0
+        ],
+        [
+          -280.0,
+          310.0
+        ],
+        [
+          -290.0,
+          310.0
+        ],
+        [
+          -300.0,
+          300.0
+        ],
+        [
+          -310.0,
+          290.0
+        ],
+        [
+          -310.0,
+          280.0
+        ],
+        [
+          -320.0,
+          270.0
+        ],
+        [
+          -330.0,
+          260.0
+        ],
+        [
+          -340.0,
+          260.0
+        ],
+        [
+          -350.0,
+          250.0
+        ],
+        [
+          -360.0,
+          240.0
+        ],
+        [
+          -370.0,
+          230.0
+        ],
+        [
+          -380.0,
+          220.0
+        ],
+        [
+          -390.0,
+          220.0
+        ],
+        [
+          -400.0,
+          220.0
+        ],
+        [
+          -410.0,
+          220.0
+        ],
+        [
+          -420.0,
+          220.0
+        ],
+        [
+          -430.0,
+          230.0
+        ],
+        [
+          -440.0,
+          240.0
+        ],
+        [
+          -450.0,
+          240.0
+        ],
+        [
+          -460.0,
+          240.0
+        ],
+        [
+          -470.0,
+          240.0
+        ],
+        [
+          -480.0,
+          240.0
+        ],
+        [
+          -485.0,
+          240.0
+        ]
+      ],
+      "path_vegetation_cleared": 5,
+      "objects": 27,
+      "faces": 27174
+    },
+    "hagrid_terreni": {
+      "hagrid": {
+        "center": [
+          -275.0,
+          -80.0,
+          41.5963916015625
+        ],
+        "annex": [
+          -268.5151736257427,
+          -81.5642975726304,
+          41.5963916015625
+        ],
+        "garden": [
+          -278.0,
+          -96.0
+        ],
+        "foundation": [
+          {
+            "name": "principale",
+            "bottom_min": 39.963369140625,
+            "ground_max": 41.168935546875,
+            "floor": 41.5963916015625
+          },
+          {
+            "name": "annesso",
+            "bottom_min": 39.9171044921875,
+            "ground_max": 40.79125,
+            "floor": 41.5963916015625
+          }
+        ],
+        "door": [
+          -265.5278015136719,
+          -81.02069091796875,
+          41.59638977050781
+        ],
+        "steps": 7,
+        "path_points": 358,
+        "path_surface_check": {
+          "vertices": 3938,
+          "triangles": 7140,
+          "transverse_samples": 11,
+          "surface_probes": 28560,
+          "minimum_clearance": 0.03782958984375284,
+          "maximum_local_lift": 0.15326822916666855
+        },
+        "path_end": [
+          -262.4778747558594,
+          -80.4656982421875,
+          41.59638977050781
+        ],
+        "camera": "Camera | V7 Capanna di Hagrid"
+      },
+      "willow": {
+        "center": [
+          -302.0,
+          -44.0,
+          48.4365234375
+        ],
+        "arms": 5,
+        "roots": 8,
+        "fine_twigs": 90,
+        "continuous_sections": 16,
+        "path_surface_check": {
+          "vertices": 1022,
+          "triangles": 1740,
+          "transverse_samples": 7,
+          "surface_probes": 6960,
+          "minimum_clearance": 0.06419677734375284,
+          "maximum_local_lift": 0.0
+        },
+        "camera": "Camera | V7 Platano Picchiatore"
+      },
+      "objects": 23,
+      "mesh_objects": 21,
+      "faces": 71224,
+      "hidden_trees": [
+        "Bosco | abete.242"
+      ],
+      "empty_or_nonfinite": []
+    },
+    "guferia_rimessa": {
+      "owlery": {
+        "open_arches": 10,
+        "open_frame_rings": 10,
+        "owls": 6,
+        "clear_window_probes": 90,
+        "probe_objects": [
+          "Civettaia | cornice",
+          "Civettaia | cornice.001",
+          "Civettaia | cornice.002",
+          "Civettaia | fusto",
+          "Civettaia | nicchie alte | cornice",
+          "Civettaia | nicchie alte | cornice.001",
+          "Civettaia | nicchie alte | cornice.002",
+          "Civettaia | nicchie alte | cornice.003",
+          "Civettaia | nicchie alte | cornice.004",
+          "Civettaia | nicchie alte | cornice.005",
+          "Civettaia | nicchie alte | cornice.006",
+          "Civettaia | nicchie alte | cornice.007",
+          "Civettaia | nicchie alte | cornice.008",
+          "Civettaia | nicchie alte | cornice.009",
+          "Finestre | modanature esterne e davanzali",
+          "Vetrate | reticolo in piombo",
+          "Vetrate | trafori gotici"
+        ],
+        "full_camera_bounds": [
+          0.3950667679309845,
+          0.6581620573997498,
+          0.11138381063938141,
+          0.9554274678230286
+        ],
+        "stairs": {
+          "treads": 15,
+          "riser": 0.175,
+          "clear_width": 2.5,
+          "support_probes": 111,
+          "minimum_ground_clearance": 0.13010253906249147,
+          "path_points": 184,
+          "path_vegetation_hidden": [],
+          "hidden_original_steps": 10,
+          "stair_path_join_delta": 1.5258789005656581e-06,
+          "ramp_length": 8.0
+        },
+        "objects": 11
+      },
+      "boathouse": {
+        "boats_refined": 2,
+        "water_channels": 2,
+        "clear_boat_channel_probes": 6,
+        "objects": 4
+      },
+      "greenhouses": {
+        "ridge_dragons": 18,
+        "outdoor_worktables": 2,
+        "objects": 3
+      },
+      "modified_objects": [
+        "Civettaia | fusto",
+        "Civettaia | basamento",
+        "Civettaia | cornice",
+        "Civettaia | cornice.001",
+        "Civettaia | cornice.002",
+        "Civettaia | nicchie alte | cornice",
+        "Civettaia | nicchie alte | cornice.001",
+        "Civettaia | nicchie alte | cornice.002",
+        "Civettaia | nicchie alte | cornice.003",
+        "Civettaia | nicchie alte | cornice.004",
+        "Civettaia | nicchie alte | cornice.005",
+        "Civettaia | nicchie alte | cornice.006",
+        "Civettaia | nicchie alte | cornice.007",
+        "Civettaia | nicchie alte | cornice.008",
+        "Civettaia | nicchie alte | cornice.009",
+        "Rimessa | molo di pietra",
+        "Barca | scafo",
+        "Barca | scafo.001"
+      ],
+      "hidden_objects": [
+        "Civettaia | nicchie alte | vetro",
+        "Civettaia | nicchie alte | vetro.001",
+        "Civettaia | nicchie alte | vetro.002",
+        "Civettaia | nicchie alte | vetro.003",
+        "Civettaia | nicchie alte | vetro.004",
+        "Civettaia | nicchie alte | vetro.005",
+        "Civettaia | nicchie alte | vetro.006",
+        "Civettaia | nicchie alte | vetro.007",
+        "Civettaia | nicchie alte | vetro.008",
+        "Civettaia | nicchie alte | vetro.009",
+        "Civettaia | gradino",
+        "Civettaia | gradino.001",
+        "Civettaia | gradino.002",
+        "Civettaia | gradino.003",
+        "Civettaia | gradino.004",
+        "Civettaia | gradino.005",
+        "Civettaia | gradino.006",
+        "Civettaia | gradino.007",
+        "Civettaia | gradino.008",
+        "Civettaia | gradino.009",
+        "Barca | falchetta",
+        "Barca | falchetta.001",
+        "Barca | falchetta.002",
+        "Barca | falchetta.003",
+        "Barca | falchetta.004",
+        "Barca | falchetta.005",
+        "Barca | falchetta.006",
+        "Barca | falchetta.007",
+        "Barca | falchetta.008",
+        "Barca | falchetta.009"
+      ],
+      "new_objects": 18,
+      "new_faces": 20536,
+      "empty_meshes": []
+    },
+    "dettagli_castello": {
+      "fontana": {
+        "center": [
+          -100.79999923706055,
+          -62.45699882507324,
+          70.43000152587891
+        ],
+        "aquile": 4,
+        "serpenti": 4,
+        "old_hidden": [
+          "Fontana Orologio | becco",
+          "Fontana Orologio | becco.001",
+          "Fontana Orologio | becco.002",
+          "Fontana Orologio | becco.003",
+          "Fontana Orologio | colonna",
+          "Fontana Orologio | coppa",
+          "Fontana Orologio | vasca",
+          "Fontana Orologio | vasca.001",
+          "Fontana Orologio | vasca.002"
+        ],
+        "collection": "90 • Fontana delle quattro aquile"
+      },
+      "orologio": {
+        "dial_center": [
+          -83.04999938964843,
+          -61.31100082397461,
+          103.19999694824219
+        ],
+        "roman_numerals": 12,
+        "minute_marks": 60,
+        "pendulum_lowest_z": 77.68,
+        "dial_outward_clearance_correction": 0.36,
+        "old_hidden": [
+          "Orologio grande | indice",
+          "Orologio grande | indice.001",
+          "Orologio grande | indice.002",
+          "Orologio grande | indice.003",
+          "Orologio grande | indice.004",
+          "Orologio grande | indice.005",
+          "Orologio grande | indice.006",
+          "Orologio grande | indice.007",
+          "Orologio grande | indice.008",
+          "Orologio grande | indice.009",
+          "Orologio grande | indice.010",
+          "Orologio grande | indice.011",
+          "Orologio grande | lancetta minuti",
+          "Orologio grande | lancetta ore",
+          "Orologio grande | perno"
+        ],
+        "collection": "91 • Orologio e pendolo"
+      },
+      "sala_grande": {
+        "doccioni": 8,
+        "pinnacoli_rifiniti": 22,
+        "collection": "92 • Pietre scolpite della Sala Grande"
+      },
+      "objects": 22,
+      "mesh_objects": 19,
+      "faces": 23801,
+      "empty": [],
+      "cameras": [
+        "Camera | V7 doccioni della Sala Grande",
+        "Camera | V7 facciata dell’Orologio",
+        "Camera | V7 fontana e cortile"
+      ]
+    }
+  },
+  "cameras": [
+    "Camera | V7 Capanna di Hagrid",
+    "Camera | V7 castello e Lago Nero",
+    "Camera | V7 doccioni della Sala Grande",
+    "Camera | V7 draghetti delle serre",
+    "Camera | V7 facciata dell’Orologio",
+    "Camera | V7 fontana e cortile",
+    "Camera | V7 Guferia dettaglio gufi",
+    "Camera | V7 Guferia e posatoi",
+    "Camera | V7 Platano Picchiatore",
+    "Camera | V7 rimessa e barche",
+    "Camera | V7 scala e approdo conservati",
+    "Camera | V7 tenuta completa",
+    "Esterni V7 | campo di Quidditch",
+    "Esterni V7 | tribune e anelli"
+  ]
+}

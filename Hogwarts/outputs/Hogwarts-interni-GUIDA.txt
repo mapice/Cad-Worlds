@@ -1,0 +1,65 @@
+HOGWARTS — AMBIENTI INTERNI ICONICI
+
+FILE PRINCIPALE
+Hogwarts-interni.blend — comprende castello, Lago Nero, colli e interni.
+Creato e verificato con Blender 5.2. Materiali e dipinti sono incorporati.
+
+AMBIENTI
+Sala Grande e atrio; grande scalinata con ballatoi e rampe trasversali;
+sala comune e dormitorio di Grifondoro; ufficio di Silente in tre stanze
+circolari; biblioteca con ballatoi, scale e reparto riservato; aula di
+Pozioni; aula di Trasfigurazione; infermeria; osservatorio astronomico.
+
+COLLEGAMENTI
+L'atrio collega Sala Grande e scalinata. I ballatoi raggiungono i corridoi
+del Quad, le aule e Grifondoro; scale interne uniscono i diversi livelli.
+Il sistema dei ponti porta all'ala della biblioteca e alla torre astronomica.
+Le stanze di Silente sono collegate al ballatoio alto; una chiocciola porta
+al piano dell'osservatorio. Le scale sono statiche, non animate.
+
+COME ESPLORARE
+Il file apre una camera nella Sala Grande. Tastierino 0: vista della camera.
+Le altre camere hanno il nome dell'ambiente: Biblioteca, Aula Pozioni,
+Infermeria, Sala comune Grifondoro, Dormitorio Grifondoro, Ufficio di Silente,
+Osservatorio astronomico e Grande scalinata dal ballatoio.
+Per cambiare ambiente, seleziona la relativa camera nell'elenco degli oggetti
+e premi Ctrl + Tastierino 0 per renderla attiva. Tastierino 0 alterna la vista
+della camera e la navigazione libera. Le immagini PNG consentono anche una
+prima visita senza aprire Blender.
+
+Il livello di vista «Modello completo» mostra esterni e interni insieme.
+«Interni aperti» nasconde involucri, tetti e soffitti, mostrando la disposizione
+dei vani e dei collegamenti. La camera «disposizione degli interni» è pensata
+per questa modalità.
+Il selettore del livello di vista si trova in alto a destra nella finestra
+di Blender; seleziona di nuovo «Modello completo» per rivedere il paesaggio.
+
+Le collezioni 60–79 separano ambienti, piani, arredi, soffitti e illuminazione.
+Le collezioni 80 e 81 permettono di nascondere involucri esterni e tetti.
+Gli oggetti restano modificabili. Le versioni precedenti non sono sovrascritte.
+
+RICOSTRUZIONE E LIMITI
+Le caratteristiche visive richiamano i set cinematografici, ma distribuzione,
+quote e raccordi sono adattati all'involucro HBP del modello. Non si tratta
+di una planimetria ufficiale continua di tutti gli interni di Hogwarts.
+Sono privilegiati gli ambienti iconici concordati; le restanti stanze del
+castello non sono arredate integralmente. Quadri, alcune decorazioni e
+particolari d'arredo sono interpretati.
+
+RIFERIMENTI
+Warner Bros. Studio Tour: Sala Grande e ambienti cinematografici.
+https://www.wbstudiotour.jp/en/the-experience/sets/
+https://www.wbstudiotour.co.uk/the-experience/explore-the-tour/sets/
+Ufficio di Silente, tre ambienti circolari collegati.
+https://www.wbstudiotour.co.uk/the-experience/explore-the-tour/sets/dumbledores-office/
+Sala comune di Grifondoro, riferimento visivo ufficiale.
+https://www.harrypotter.com/features/gryffindor-common-room
+Biblioteca e infermeria: spazi storici della Bodleian come riferimento.
+https://visit.bodleian.ox.ac.uk/plan-your-visit/our-spaces
+
+RITRATTI DECORATIVI
+Tele originali create con lo strumento image_gen integrato, tramite skill
+imagegen; non raffigurano personaggi ufficiali. La texture finale è salvata
+in risorse-interni/ritratti-dipinti.png ed è anche incorporata nel Blender.
+Il prompt completo e la modalità di generazione sono riportati in
+risorse-interni/GENERAZIONE-RITRATTI.txt.

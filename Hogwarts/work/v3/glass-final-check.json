@@ -1,0 +1,9 @@
+{
+  "file": "Hogwarts-HBP-dettagliato.blend",
+  "sha256": "c72ffd0318747af0022715d1d8043befd1b4389ac564a2682ca632e86536b65b",
+  "geometry_unchanged": true,
+  "objects": 6344,
+  "faces": 596269,
+  "only_material_changed": "glass",
+  "external_images": 0
+}

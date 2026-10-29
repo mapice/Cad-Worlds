@@ -1,0 +1,989 @@
+{
+  "modules": {
+    "great_hall": {
+      "rooms": [
+        {
+          "name": "60 • Interno Sala Grande",
+          "origin": [
+            15,
+            -142.104,
+            60.4
+          ],
+          "angle": 0.6070558071468135,
+          "collection": "60 • Interno Sala Grande",
+          "cameras": [
+            "Camera | Interno Sala Grande",
+            "Camera | Sala Grande dall’alto"
+          ],
+          "portals": [
+            {
+              "label": "ingresso dalla Sala d’ingresso",
+              "local": [
+                24.1,
+                0,
+                0
+              ],
+              "width": 3.2,
+              "height": 4.8
+            }
+          ]
+        },
+        {
+          "name": "61 • Atrio di ingresso",
+          "origin": [
+            28.8,
+            -121.476,
+            60.4
+          ],
+          "angle": 1.5707963267948966,
+          "collection": "61 • Atrio di ingresso",
+          "cameras": [
+            "Camera | Atrio e accesso alla scalinata"
+          ],
+          "portals": [
+            {
+              "label": "verso Sala Grande",
+              "local": [
+                1.5,
+                0,
+                0
+              ],
+              "width": 4.2,
+              "height": 4.4
+            },
+            {
+              "label": "verso Torre della Scalinata",
+              "local": [
+                11.5,
+                0,
+                0
+              ],
+              "width": 3.2,
+              "height": 4.5
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "long_tables": 4,
+        "student_settings": 160,
+        "professors_chairs": 11
+      },
+      "objects_added": 558,
+      "faces_added": 65221,
+      "local_bounds": {
+        "Sala Grande": [
+          -24.3,
+          24.3,
+          -7.85,
+          7.85,
+          -0.2,
+          35.5
+        ],
+        "Atrio": [
+          -3.4,
+          11.5,
+          -5.7,
+          5.7,
+          -0.2,
+          22.0
+        ]
+      },
+      "clear_routes": {
+        "Sala Grande": "asse y0 libero fra le tavolate; ingresso+X, professori−X",
+        "Atrio": "ambiente arredato u1.5..11.5; raccordo centrale obliquo u−3.3..1.5; uscita torre(+11.5,0)"
+      }
+    },
+    "academic_rooms": {
+      "rooms": [
+        {
+          "name": "62 • Biblioteca",
+          "origin": [
+            75.6,
+            63.03,
+            55.4
+          ],
+          "angle": 1.5707963267948966,
+          "collection": "62 • Biblioteca",
+          "cameras": [
+            "Camera | Biblioteca",
+            "Camera | Biblioteca dal ballatoio"
+          ],
+          "size_local": [
+            54,
+            25.8
+          ],
+          "clear_height": 12,
+          "entries": [
+            {
+              "position": [
+                75.6,
+                36.03,
+                55.4
+              ],
+              "local": [
+                -27,
+                0,
+                0
+              ]
+            },
+            {
+              "position": [
+                62.699999999999996,
+                62.03,
+                55.4
+              ],
+              "local": [
+                -1,
+                12.9,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "63 • Aula Pozioni",
+          "origin": [
+            20.4,
+            -52.334,
+            73.4
+          ],
+          "angle": 1.5707963267948966,
+          "collection": "63 • Aula Pozioni",
+          "cameras": [
+            "Camera | Aula Pozioni"
+          ],
+          "size_local": [
+            23,
+            8.4
+          ],
+          "clear_height": 6.1,
+          "entries": [
+            {
+              "position": [
+                20.4,
+                -63.834,
+                73.4
+              ],
+              "local": [
+                -11.5,
+                0,
+                0
+              ]
+            },
+            {
+              "position": [
+                16.2,
+                -52.334,
+                73.4
+              ],
+              "local": [
+                0,
+                4.2,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "64 • Infermeria",
+          "origin": [
+            -38.5,
+            -61.9,
+            81.4
+          ],
+          "angle": 1.5707963267948966,
+          "collection": "64 • Infermeria",
+          "cameras": [
+            "Camera | Infermeria"
+          ],
+          "size_local": [
+            44,
+            9.4
+          ],
+          "clear_height": 7.2,
+          "entries": [
+            {
+              "position": [
+                -38.5,
+                -83.9,
+                81.4
+              ],
+              "local": [
+                -22,
+                0,
+                0
+              ]
+            },
+            {
+              "position": [
+                -43.2,
+                -61.9,
+                81.4
+              ],
+              "local": [
+                0,
+                4.7,
+                0
+              ]
+            },
+            {
+              "position": [
+                -33.8,
+                -61.9,
+                81.4
+              ],
+              "local": [
+                0,
+                -4.7,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "65 • Aula Trasfigurazione",
+          "origin": [
+            -5,
+            -32.6,
+            73.4
+          ],
+          "angle": 0,
+          "collection": "65 • Aula Trasfigurazione",
+          "cameras": [
+            "Camera | Aula Trasfigurazione"
+          ],
+          "size_local": [
+            23,
+            8.5
+          ],
+          "clear_height": 6.1,
+          "entries": [
+            {
+              "position": [
+                6.5,
+                -32.6,
+                73.4
+              ],
+              "local": [
+                11.5,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "objects": 1435,
+      "mesh_objects": 1397,
+      "faces": 291901,
+      "lights": 30,
+      "cameras": [
+        "Camera | Aula Pozioni",
+        "Camera | Aula Trasfigurazione",
+        "Camera | Biblioteca",
+        "Camera | Biblioteca dal ballatoio",
+        "Camera | Infermeria"
+      ]
+    },
+    "residential_rooms": {
+      "rooms": [
+        {
+          "name": "66 • Sala comune Grifondoro",
+          "origin": [
+            -43.2,
+            -26.74,
+            93.2
+          ],
+          "angle": 0,
+          "collection": "66 • Sala comune Grifondoro",
+          "cameras": [
+            "Interni | Sala comune Grifondoro"
+          ]
+        },
+        {
+          "name": "67 • Dormitorio Grifondoro",
+          "origin": [
+            -43.2,
+            -26.74,
+            99.8
+          ],
+          "angle": 0,
+          "collection": "67 • Dormitorio Grifondoro",
+          "cameras": [
+            "Interni | Dormitorio Grifondoro"
+          ]
+        },
+        {
+          "name": "68 • Ufficio di Silente",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "angle": 0,
+          "collection": "68 • Ufficio di Silente",
+          "cameras": [
+            "Interni | Ufficio di Silente",
+            "Interni aperti | Tre stanze di Silente"
+          ]
+        },
+        {
+          "name": "69 • Osservatorio astronomico",
+          "origin": [
+            20.8,
+            11.988,
+            202.7
+          ],
+          "angle": 0,
+          "collection": "69 • Osservatorio astronomico",
+          "cameras": [
+            "Interni | Osservatorio astronomico"
+          ]
+        }
+      ],
+      "objects_added": 1031,
+      "faces_added": 24757,
+      "dormitory_beds": 5,
+      "dumbledore_chambers": 3,
+      "observatory_has_new_telescope": false,
+      "dormitory_stair_opening": "SE -75..-15 gradi, r4..6.8",
+      "observatory_stair_opening": "centro r1.15"
+    },
+    "circulation_v6": {
+      "rooms": [
+        {
+          "name": "70 • Grande scalinata",
+          "origin": [
+            21.6,
+            -97.028,
+            0
+          ],
+          "angle": 0,
+          "collection": "70 • Grande scalinata",
+          "cameras": [
+            "Interni | Grande scalinata"
+          ],
+          "steps": 416,
+          "levels": [
+            60.4,
+            66.9,
+            73.4,
+            80.0,
+            86.6,
+            93.2,
+            99.8,
+            106.4,
+            113.0,
+            119.6,
+            126.2,
+            134.4
+          ],
+          "incoming_floor_openings": 11,
+          "dumbledore_link_world": [
+            [
+              14,
+              -106,
+              134.4
+            ],
+            [
+              10.85,
+              -106.65,
+              134.4
+            ]
+          ]
+        },
+        {
+          "name": "71 • Scala di Grifondoro",
+          "origin": [
+            -43.2,
+            -26.74,
+            93.2
+          ],
+          "angle": 0,
+          "collection": "71 • Scala di Grifondoro",
+          "cameras": [
+            "Interni | Scala di Grifondoro"
+          ],
+          "steps": 36,
+          "riser": 0.18333333333333332,
+          "levels": [
+            93.2,
+            99.8
+          ],
+          "radial_range": [
+            4.1,
+            6.5
+          ],
+          "upper_exit_angles": [
+            -17,
+            -3
+          ]
+        },
+        {
+          "name": "72 • Collegamenti dell’Astronomia",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "angle": 0,
+          "collection": "72 • Collegamenti dell’Astronomia",
+          "cameras": [
+            "Interni | Chiocciola dell’Astronomia"
+          ],
+          "main_steps": 556,
+          "main_levels": [
+            55.4,
+            68.4,
+            81.4,
+            94.4,
+            107.4,
+            120.4,
+            133.4,
+            146.4,
+            154.4
+          ],
+          "bridge_steps": 28,
+          "bridge_endpoints": [
+            [
+              27.79981231689453,
+              24.111135482788086,
+              154.39999389648438
+            ],
+            [
+              22.55009651184082,
+              15.019033432006836,
+              159.39999389648438
+            ]
+          ],
+          "belvedere_steps": 241,
+          "belvedere_pitch": 2.3356846473029034,
+          "belvedere_outer_radius": 1.0,
+          "observatory_hole_required": 1.15,
+          "observatory_exit_world": [
+            [
+              21.650000000000002,
+              11.988,
+              202.7
+            ],
+            [
+              22.6,
+              11.988,
+              202.7
+            ]
+          ]
+        }
+      ],
+      "objects_added": 334,
+      "faces_added": 90034,
+      "empty": [],
+      "nonfinite": []
+    },
+    "connectors_v6": {
+      "groups": [
+        "73 • Corridoi, aule e accessi",
+        "74 • Ingresso del viadotto e percorso biblioteca",
+        "75 • Scala verso il ponte alto"
+      ],
+      "quad_levels": [
+        73.4,
+        80,
+        93.2,
+        99.8
+      ],
+      "infirmary_floor": 81.4,
+      "library_floor": 55.4,
+      "gate_floors": [
+        60.4,
+        84.0
+      ]
+    }
+  },
+  "rooms": [
+    {
+      "name": "60 • Interno Sala Grande",
+      "origin": [
+        15,
+        -142.104,
+        60.4
+      ],
+      "angle": 0.6070558071468135,
+      "collection": "60 • Interno Sala Grande",
+      "cameras": [
+        "Camera | Interno Sala Grande",
+        "Camera | Sala Grande dall’alto"
+      ],
+      "portals": [
+        {
+          "label": "ingresso dalla Sala d’ingresso",
+          "local": [
+            24.1,
+            0,
+            0
+          ],
+          "width": 3.2,
+          "height": 4.8
+        }
+      ]
+    },
+    {
+      "name": "61 • Atrio di ingresso",
+      "origin": [
+        28.8,
+        -121.476,
+        60.4
+      ],
+      "angle": 1.5707963267948966,
+      "collection": "61 • Atrio di ingresso",
+      "cameras": [
+        "Camera | Atrio e accesso alla scalinata"
+      ],
+      "portals": [
+        {
+          "label": "verso Sala Grande",
+          "local": [
+            1.5,
+            0,
+            0
+          ],
+          "width": 4.2,
+          "height": 4.4
+        },
+        {
+          "label": "verso Torre della Scalinata",
+          "local": [
+            11.5,
+            0,
+            0
+          ],
+          "width": 3.2,
+          "height": 4.5
+        }
+      ]
+    },
+    {
+      "name": "62 • Biblioteca",
+      "origin": [
+        75.6,
+        63.03,
+        55.4
+      ],
+      "angle": 1.5707963267948966,
+      "collection": "62 • Biblioteca",
+      "cameras": [
+        "Camera | Biblioteca",
+        "Camera | Biblioteca dal ballatoio"
+      ],
+      "size_local": [
+        54,
+        25.8
+      ],
+      "clear_height": 12,
+      "entries": [
+        {
+          "position": [
+            75.6,
+            36.03,
+            55.4
+          ],
+          "local": [
+            -27,
+            0,
+            0
+          ]
+        },
+        {
+          "position": [
+            62.699999999999996,
+            62.03,
+            55.4
+          ],
+          "local": [
+            -1,
+            12.9,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "63 • Aula Pozioni",
+      "origin": [
+        20.4,
+        -52.334,
+        73.4
+      ],
+      "angle": 1.5707963267948966,
+      "collection": "63 • Aula Pozioni",
+      "cameras": [
+        "Camera | Aula Pozioni"
+      ],
+      "size_local": [
+        23,
+        8.4
+      ],
+      "clear_height": 6.1,
+      "entries": [
+        {
+          "position": [
+            20.4,
+            -63.834,
+            73.4
+          ],
+          "local": [
+            -11.5,
+            0,
+            0
+          ]
+        },
+        {
+          "position": [
+            16.2,
+            -52.334,
+            73.4
+          ],
+          "local": [
+            0,
+            4.2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "64 • Infermeria",
+      "origin": [
+        -38.5,
+        -61.9,
+        81.4
+      ],
+      "angle": 1.5707963267948966,
+      "collection": "64 • Infermeria",
+      "cameras": [
+        "Camera | Infermeria"
+      ],
+      "size_local": [
+        44,
+        9.4
+      ],
+      "clear_height": 7.2,
+      "entries": [
+        {
+          "position": [
+            -38.5,
+            -83.9,
+            81.4
+          ],
+          "local": [
+            -22,
+            0,
+            0
+          ]
+        },
+        {
+          "position": [
+            -43.2,
+            -61.9,
+            81.4
+          ],
+          "local": [
+            0,
+            4.7,
+            0
+          ]
+        },
+        {
+          "position": [
+            -33.8,
+            -61.9,
+            81.4
+          ],
+          "local": [
+            0,
+            -4.7,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "65 • Aula Trasfigurazione",
+      "origin": [
+        -5,
+        -32.6,
+        73.4
+      ],
+      "angle": 0,
+      "collection": "65 • Aula Trasfigurazione",
+      "cameras": [
+        "Camera | Aula Trasfigurazione"
+      ],
+      "size_local": [
+        23,
+        8.5
+      ],
+      "clear_height": 6.1,
+      "entries": [
+        {
+          "position": [
+            6.5,
+            -32.6,
+            73.4
+          ],
+          "local": [
+            11.5,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "66 • Sala comune Grifondoro",
+      "origin": [
+        -43.2,
+        -26.74,
+        93.2
+      ],
+      "angle": 0,
+      "collection": "66 • Sala comune Grifondoro",
+      "cameras": [
+        "Interni | Sala comune Grifondoro"
+      ]
+    },
+    {
+      "name": "67 • Dormitorio Grifondoro",
+      "origin": [
+        -43.2,
+        -26.74,
+        99.8
+      ],
+      "angle": 0,
+      "collection": "67 • Dormitorio Grifondoro",
+      "cameras": [
+        "Interni | Dormitorio Grifondoro"
+      ]
+    },
+    {
+      "name": "68 • Ufficio di Silente",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "angle": 0,
+      "collection": "68 • Ufficio di Silente",
+      "cameras": [
+        "Interni | Ufficio di Silente",
+        "Interni aperti | Tre stanze di Silente"
+      ]
+    },
+    {
+      "name": "69 • Osservatorio astronomico",
+      "origin": [
+        20.8,
+        11.988,
+        202.7
+      ],
+      "angle": 0,
+      "collection": "69 • Osservatorio astronomico",
+      "cameras": [
+        "Interni | Osservatorio astronomico"
+      ]
+    },
+    {
+      "name": "70 • Grande scalinata",
+      "origin": [
+        21.6,
+        -97.028,
+        0
+      ],
+      "angle": 0,
+      "collection": "70 • Grande scalinata",
+      "cameras": [
+        "Interni | Grande scalinata"
+      ],
+      "steps": 416,
+      "levels": [
+        60.4,
+        66.9,
+        73.4,
+        80.0,
+        86.6,
+        93.2,
+        99.8,
+        106.4,
+        113.0,
+        119.6,
+        126.2,
+        134.4
+      ],
+      "incoming_floor_openings": 11,
+      "dumbledore_link_world": [
+        [
+          14,
+          -106,
+          134.4
+        ],
+        [
+          10.85,
+          -106.65,
+          134.4
+        ]
+      ]
+    },
+    {
+      "name": "71 • Scala di Grifondoro",
+      "origin": [
+        -43.2,
+        -26.74,
+        93.2
+      ],
+      "angle": 0,
+      "collection": "71 • Scala di Grifondoro",
+      "cameras": [
+        "Interni | Scala di Grifondoro"
+      ],
+      "steps": 36,
+      "riser": 0.18333333333333332,
+      "levels": [
+        93.2,
+        99.8
+      ],
+      "radial_range": [
+        4.1,
+        6.5
+      ],
+      "upper_exit_angles": [
+        -17,
+        -3
+      ]
+    },
+    {
+      "name": "72 • Collegamenti dell’Astronomia",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "angle": 0,
+      "collection": "72 • Collegamenti dell’Astronomia",
+      "cameras": [
+        "Interni | Chiocciola dell’Astronomia"
+      ],
+      "main_steps": 556,
+      "main_levels": [
+        55.4,
+        68.4,
+        81.4,
+        94.4,
+        107.4,
+        120.4,
+        133.4,
+        146.4,
+        154.4
+      ],
+      "bridge_steps": 28,
+      "bridge_endpoints": [
+        [
+          27.79981231689453,
+          24.111135482788086,
+          154.39999389648438
+        ],
+        [
+          22.55009651184082,
+          15.019033432006836,
+          159.39999389648438
+        ]
+      ],
+      "belvedere_steps": 241,
+      "belvedere_pitch": 2.3356846473029034,
+      "belvedere_outer_radius": 1.0,
+      "observatory_hole_required": 1.15,
+      "observatory_exit_world": [
+        [
+          21.650000000000002,
+          11.988,
+          202.7
+        ],
+        [
+          22.6,
+          11.988,
+          202.7
+        ]
+      ]
+    },
+    {
+      "name": "73 • Corridoi, aule e accessi",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "angle": 0,
+      "collection": "73 • Corridoi, aule e accessi",
+      "cameras": []
+    },
+    {
+      "name": "74 • Ingresso del viadotto e percorso biblioteca",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "angle": 0,
+      "collection": "74 • Ingresso del viadotto e percorso biblioteca",
+      "cameras": []
+    },
+    {
+      "name": "75 • Scala verso il ponte alto",
+      "origin": [
+        24,
+        -31.324,
+        73.4
+      ],
+      "angle": 0,
+      "collection": "75 • Scala verso il ponte alto",
+      "cameras": []
+    }
+  ],
+  "absorbed_hidden_decoration": [
+    "Quad | torretta angolare | fascia.006"
+  ],
+  "objects": 11225,
+  "mesh_objects": 11050,
+  "faces": 1707515,
+  "visible_empty": [],
+  "external_images": [],
+  "cameras": [
+    "Camera | Atrio e accesso alla scalinata",
+    "Camera | Aula Pozioni",
+    "Camera | Aula Trasfigurazione",
+    "Camera | Biblioteca",
+    "Camera | Biblioteca dal ballatoio",
+    "Camera | corpo principale",
+    "Camera | cortile Orologio e retro",
+    "Camera | disposizione degli interni",
+    "Camera | Hogwarts dal Lago Nero",
+    "Camera | Infermeria",
+    "Camera | insieme da sud-est",
+    "Camera | Interno Sala Grande",
+    "Camera | lago e colli dall’alto",
+    "Camera | pianta",
+    "Camera | pietra, finestre e ardesia",
+    "Camera | rimessa e sponde",
+    "Camera | Sala Grande dall’alto",
+    "Camera | scalinata e rimessa",
+    "Camera | scalinata superiore",
+    "Camera | serre e campanili",
+    "Interni aperti | Tre stanze di Silente",
+    "Interni | Chiocciola dell’Astronomia",
+    "Interni | Dormitorio Grifondoro",
+    "Interni | Grande scalinata",
+    "Interni | Osservatorio astronomico",
+    "Interni | Sala comune Grifondoro",
+    "Interni | Scala di Grifondoro",
+    "Interni | Ufficio di Silente"
+  ]
+}

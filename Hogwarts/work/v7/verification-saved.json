@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "file": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-esterni-perfezionati.blend",
+  "sha256": "58c08c7e11cae7eac2824ea3866c54317e870dc37ae581b9984859174fa503f4",
+  "source_sha256": "ed36965cc8ceadd7318b108d01f40ed2b4f4a564bf47dd28376aab0169b402b3",
+  "protected_objects_compared": 4339,
+  "protected_changed": [],
+  "missing_images": [],
+  "visible_empty_meshes": [],
+  "view_layers": [
+    "Modello completo",
+    "Interni aperti"
+  ],
+  "exterior_visible_in_open_layer": []
+}

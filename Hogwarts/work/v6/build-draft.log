@@ -1,0 +1,20 @@
+00:02.474  blend            | Read blend: "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/Hogwarts-involucri.blend"
+BUILDING great_hall
+BUILT great_hall 7988
+BUILDING academic_rooms
+BUILT academic_rooms 9423
+BUILDING residential_rooms
+BUILT residential_rooms 10454
+BUILDING circulation_v6
+BUILT circulation_v6 10788
+BUILDING connectors_v6
+BUILT connectors_v6 11222
+Info: Saved as "Hogwarts-interni-draft.blend"
+INTERIORS_SAVED 11225 1707515 []
+01:27.461  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/sala-grande-draft.png'
+GREAT_HALL_RENDERED
+01:43.811  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/scalinata-draft.png'
+STAIRS_RENDERED
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-13 15:32:10)
+
+Blender quit

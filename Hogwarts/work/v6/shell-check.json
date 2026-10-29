@@ -1,0 +1,294 @@
+{
+  "hollow_bodies": [
+    {
+      "name": "Ala nord Durham | muri",
+      "floor": 55.22,
+      "ceiling_open": 81.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Ala occidentale Durham | muri",
+      "floor": 55.22,
+      "ceiling_open": 81.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Ala orientale Durham | muri",
+      "floor": 55.22,
+      "ceiling_open": 79.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Astronomia | fusto a D",
+      "floor": 55.22,
+      "ceiling_open": 160.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Astronomia | tamburo belvedere",
+      "floor": 159.22,
+      "ceiling_open": 190.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Centrale | corpo",
+      "floor": 55.22,
+      "ceiling_open": 105.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Corpo laterale occidentale | muri",
+      "floor": 55.22,
+      "ceiling_open": 77.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Corpo sud Durham | muri",
+      "floor": 55.22,
+      "ceiling_open": 79.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Galleria lunga | muri",
+      "floor": 55.22,
+      "ceiling_open": 90.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Grifondoro | torre nordoccidentale | fusto",
+      "floor": 73.22,
+      "ceiling_open": 130.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Infermeria | galleria | muri",
+      "floor": 81.22,
+      "ceiling_open": 87.5,
+      "wall": 0.78
+    },
+    {
+      "name": "Ingresso viadotto | corpo laterale",
+      "floor": 60.22,
+      "ceiling_open": 94.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Ingresso viadotto | corpo laterale.001",
+      "floor": 60.22,
+      "ceiling_open": 94.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Ingresso viadotto | corpo sopra portale",
+      "floor": 81.22,
+      "ceiling_open": 94.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Navata sud Durham | muri",
+      "floor": 55.22,
+      "ceiling_open": 85.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Quad | ala est | muri",
+      "floor": 73.22,
+      "ceiling_open": 109.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Quad | ala nord | muri",
+      "floor": 73.22,
+      "ceiling_open": 106.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Quad | ala ovest | muri",
+      "floor": 73.22,
+      "ceiling_open": 106.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Quad | ala sud | muri",
+      "floor": 73.22,
+      "ceiling_open": 108.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Quad | torre del ponte alto | fusto",
+      "floor": 73.22,
+      "ceiling_open": 120.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Sala d\u2019ingresso | muri",
+      "floor": 60.22,
+      "ceiling_open": 85.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Sala Grande | muratura",
+      "floor": 60.22,
+      "ceiling_open": 94.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Silente | torretta 1 | fusto",
+      "floor": 128.22,
+      "ceiling_open": 141.0,
+      "wall": 0.62
+    },
+    {
+      "name": "Silente | torretta 2 | fusto",
+      "floor": 134.22,
+      "ceiling_open": 147.0,
+      "wall": 0.62
+    },
+    {
+      "name": "Silente | torretta 3 | fusto",
+      "floor": 129.22,
+      "ceiling_open": 142.0,
+      "wall": 0.62
+    },
+    {
+      "name": "Torre della Scalinata | fusto",
+      "floor": 60.22,
+      "ceiling_open": 146.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Torre viadotto 1 | fusto",
+      "floor": 60.22,
+      "ceiling_open": 110.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Torre viadotto 2 | fusto",
+      "floor": 60.22,
+      "ceiling_open": 110.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Torre viadotto 3 | fusto",
+      "floor": 60.22,
+      "ceiling_open": 110.0,
+      "wall": 0.78
+    },
+    {
+      "name": "Torre viadotto 4 | fusto",
+      "floor": 60.22,
+      "ceiling_open": 110.0,
+      "wall": 0.78
+    }
+  ],
+  "window_groups": [
+    {
+      "body": "Ala nord Durham | muri",
+      "openings": 40
+    },
+    {
+      "body": "Ala occidentale Durham | muri",
+      "openings": 40
+    },
+    {
+      "body": "Ala orientale Durham | muri",
+      "openings": 48
+    },
+    {
+      "body": "Astronomia | fusto a D",
+      "openings": 134
+    },
+    {
+      "body": "Astronomia | tamburo belvedere",
+      "openings": 20
+    },
+    {
+      "body": "Centrale | corpo",
+      "openings": 36
+    },
+    {
+      "body": "Corpo laterale occidentale | muri",
+      "openings": 12
+    },
+    {
+      "body": "Corpo sud Durham | muri",
+      "openings": 16
+    },
+    {
+      "body": "Galleria lunga | muri",
+      "openings": 66
+    },
+    {
+      "body": "Grifondoro | torre nordoccidentale | fusto",
+      "openings": 8
+    },
+    {
+      "body": "Infermeria | galleria | muri",
+      "openings": 10
+    },
+    {
+      "body": "Ingresso viadotto | corpo laterale",
+      "openings": 12
+    },
+    {
+      "body": "Ingresso viadotto | corpo laterale.001",
+      "openings": 12
+    },
+    {
+      "body": "Navata sud Durham | muri",
+      "openings": 12
+    },
+    {
+      "body": "Quad | ala est | muri",
+      "openings": 66
+    },
+    {
+      "body": "Quad | ala nord | muri",
+      "openings": 66
+    },
+    {
+      "body": "Quad | ala ovest | muri",
+      "openings": 72
+    },
+    {
+      "body": "Quad | ala sud | muri",
+      "openings": 60
+    },
+    {
+      "body": "Quad | torre del ponte alto | fusto",
+      "openings": 8
+    },
+    {
+      "body": "Sala d\u2019ingresso | muri",
+      "openings": 20
+    },
+    {
+      "body": "Sala Grande | muratura",
+      "openings": 22
+    },
+    {
+      "body": "Silente | torretta 1 | fusto",
+      "openings": 8
+    },
+    {
+      "body": "Silente | torretta 2 | fusto",
+      "openings": 8
+    },
+    {
+      "body": "Silente | torretta 3 | fusto",
+      "openings": 8
+    },
+    {
+      "body": "Torre della Scalinata | fusto",
+      "openings": 144
+    }
+  ],
+  "portals": 18,
+  "roof_bases_opened": 121,
+  "roof_objects": 391,
+  "decor_hollowed": 123,
+  "elapsed": 354.1182508468628,
+  "empty": [
+    "Quad | torretta angolare | fascia.006"
+  ]
+}

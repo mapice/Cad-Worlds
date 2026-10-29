@@ -1,0 +1,809 @@
+{
+  "file": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-HBP.blend",
+  "file_sha256": "e7a95478c922632c6cb9afd0b14bed2865aaab3f0f4d192151195a51b23fc952",
+  "blender_version": "5.2.0 LTS",
+  "verification_scope": "Riapertura finale e integrità strutturale della scena; presenza geometrica delle macro-parti dichiarate. Non prova di fedeltà assoluta al castello, continuità percorribile degli interni, assenza di intersezioni o stampabilità. Nessun rendering o salvataggio effettuato.",
+  "scene_objects": 6309,
+  "mesh_objects": 6302,
+  "vertices": 177125,
+  "faces": 113314,
+  "materials": 14,
+  "images": 2,
+  "empty_meshes": [],
+  "nonfinite_geometry_or_transforms": [],
+  "missing_material_assignments": [],
+  "invalid_dimensions": [],
+  "missing_resources": [],
+  "large_meshes_over_600_units": [
+    {
+      "name": "Studio | piano",
+      "dimensions": [
+        3000.0,
+        3000.0,
+        2.0
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "name": "00 • Presentazione e camere",
+      "objects": 8,
+      "mesh_objects": 1
+    },
+    {
+      "name": "01 • Sala Grande e ingresso",
+      "objects": 295,
+      "mesh_objects": 295
+    },
+    {
+      "name": "02 • Torre della Scalinata e ufficio di Silente",
+      "objects": 460,
+      "mesh_objects": 460
+    },
+    {
+      "name": "03 • Quadrilatero, infermeria e Grifondoro",
+      "objects": 769,
+      "mesh_objects": 769
+    },
+    {
+      "name": "04 • Cortile del viadotto",
+      "objects": 100,
+      "mesh_objects": 100
+    },
+    {
+      "name": "05 • Ala Durham, galleria lunga e chiostri",
+      "objects": 872,
+      "mesh_objects": 872
+    },
+    {
+      "name": "05 • Tre ponti sulla gola",
+      "objects": 105,
+      "mesh_objects": 105
+    },
+    {
+      "name": "06 • Serre di Erbologia e conservatorio",
+      "objects": 563,
+      "mesh_objects": 563
+    },
+    {
+      "name": "07 • Ingresso del viadotto e quattro torri",
+      "objects": 447,
+      "mesh_objects": 447
+    },
+    {
+      "name": "08 • Mura dei campi settentrionali",
+      "objects": 149,
+      "mesh_objects": 149
+    },
+    {
+      "name": "10 • Torre di Astronomia (HBP)",
+      "objects": 543,
+      "mesh_objects": 543
+    },
+    {
+      "name": "11 • Campanile occidentale",
+      "objects": 198,
+      "mesh_objects": 198
+    },
+    {
+      "name": "11 • Torre dell’Orologio",
+      "objects": 435,
+      "mesh_objects": 435
+    },
+    {
+      "name": "12 • Campanile orientale",
+      "objects": 198,
+      "mesh_objects": 198
+    },
+    {
+      "name": "12 • Cortile dell’Orologio",
+      "objects": 90,
+      "mesh_objects": 90
+    },
+    {
+      "name": "13 • Ponte coperto in legno",
+      "objects": 335,
+      "mesh_objects": 335
+    },
+    {
+      "name": "13 • Torre centrale Durham (HBP)",
+      "objects": 215,
+      "mesh_objects": 215
+    },
+    {
+      "name": "14 • Collegamento dell’infermeria",
+      "objects": 47,
+      "mesh_objects": 47
+    },
+    {
+      "name": "15 • Civettaia e cerchio di pietre",
+      "objects": 85,
+      "mesh_objects": 85
+    },
+    {
+      "name": "16 • Rimessa delle barche e scalinata",
+      "objects": 315,
+      "mesh_objects": 315
+    },
+    {
+      "name": "17 • Scogliere, gole e lago",
+      "objects": 8,
+      "mesh_objects": 8
+    },
+    {
+      "name": "18 • Raccordi e passaggi secondari",
+      "objects": 72,
+      "mesh_objects": 72
+    }
+  ],
+  "sectors": {
+    "quad": {
+      "present": true,
+      "objects": 769,
+      "vertices": 27928,
+      "faces": 15532,
+      "bounds_min": [
+        -52.95,
+        -102.068,
+        60.0
+      ],
+      "bounds_max": [
+        35.25,
+        -16.99,
+        164.4
+      ],
+      "dimensions": [
+        88.2,
+        85.078,
+        104.4
+      ]
+    },
+    "sala_grande": {
+      "present": true,
+      "objects": 238,
+      "vertices": 6082,
+      "faces": 3517,
+      "bounds_min": [
+        -13.014,
+        -165.954,
+        60.0
+      ],
+      "bounds_max": [
+        43.014,
+        -118.254,
+        134.4
+      ],
+      "dimensions": [
+        56.029,
+        47.699,
+        74.4
+      ]
+    },
+    "ufficio_silente": {
+      "present": true,
+      "objects": 69,
+      "vertices": 3024,
+      "faces": 1650,
+      "bounds_min": [
+        1.807,
+        -115.977,
+        119.0
+      ],
+      "bounds_max": [
+        18.017,
+        -98.931,
+        170.4
+      ],
+      "dimensions": [
+        16.21,
+        17.046,
+        51.4
+      ]
+    },
+    "orologio": {
+      "present": true,
+      "objects": 435,
+      "vertices": 10768,
+      "faces": 6284,
+      "bounds_min": [
+        -84.34,
+        -83.102,
+        70.0
+      ],
+      "bounds_max": [
+        -59.2,
+        -39.52,
+        156.9
+      ],
+      "dimensions": [
+        25.14,
+        43.582,
+        86.9
+      ]
+    },
+    "cortile_orologio": {
+      "present": true,
+      "objects": 90,
+      "vertices": 3280,
+      "faces": 2540,
+      "bounds_min": [
+        -123.85,
+        -81.942,
+        69.6
+      ],
+      "bounds_max": [
+        -80.5,
+        -42.972,
+        95.8
+      ],
+      "dimensions": [
+        43.35,
+        38.97,
+        26.2
+      ]
+    },
+    "ponte_coperto_legno": {
+      "present": true,
+      "objects": 335,
+      "vertices": 3724,
+      "faces": 2562,
+      "bounds_min": [
+        -197.8,
+        -67.302,
+        27.912
+      ],
+      "bounds_max": [
+        -119.681,
+        -57.23,
+        82.5
+      ],
+      "dimensions": [
+        78.119,
+        10.073,
+        54.588
+      ]
+    },
+    "infermeria": {
+      "present": true,
+      "objects": 47,
+      "vertices": 1384,
+      "faces": 876,
+      "bounds_min": [
+        -61.3,
+        -64.87,
+        50.0
+      ],
+      "bounds_max": [
+        -41.3,
+        -57.37,
+        93.44
+      ],
+      "dimensions": [
+        20.0,
+        7.5,
+        43.44
+      ]
+    },
+    "astronomia": {
+      "present": true,
+      "objects": 543,
+      "vertices": 18870,
+      "faces": 11001,
+      "bounds_min": [
+        13.95,
+        5.138,
+        55.0
+      ],
+      "bounds_max": [
+        46.95,
+        49.526,
+        245.0
+      ],
+      "dimensions": [
+        33.0,
+        44.388,
+        190.0
+      ]
+    },
+    "durham_cortile": {
+      "present": true,
+      "objects": 512,
+      "vertices": 14818,
+      "faces": 9153,
+      "bounds_min": [
+        -4.15,
+        31.513,
+        55.0
+      ],
+      "bounds_max": [
+        60.85,
+        95.456,
+        92.15
+      ],
+      "dimensions": [
+        65.0,
+        63.943,
+        37.15
+      ]
+    },
+    "galleria_lunga": {
+      "present": true,
+      "objects": 219,
+      "vertices": 6288,
+      "faces": 3582,
+      "bounds_min": [
+        60.15,
+        33.655,
+        55.0
+      ],
+      "bounds_max": [
+        91.05,
+        92.405,
+        110.15
+      ],
+      "dimensions": [
+        30.9,
+        58.75,
+        55.15
+      ]
+    },
+    "campanili_gemelli": {
+      "present": true,
+      "objects": 396,
+      "vertices": 9440,
+      "faces": 6472,
+      "bounds_min": [
+        53.35,
+        91.034,
+        55.0
+      ],
+      "bounds_max": [
+        98.45,
+        109.134,
+        169.4
+      ],
+      "dimensions": [
+        45.1,
+        18.1,
+        114.4
+      ]
+    },
+    "torre_centrale": {
+      "present": true,
+      "objects": 215,
+      "vertices": 5360,
+      "faces": 3470,
+      "bounds_min": [
+        63.4,
+        12.912,
+        55.0
+      ],
+      "bounds_max": [
+        87.8,
+        37.512,
+        156.4
+      ],
+      "dimensions": [
+        24.4,
+        24.6,
+        101.4
+      ]
+    },
+    "conservatorio_cupola": {
+      "present": true,
+      "objects": 113,
+      "vertices": 1624,
+      "faces": 1121,
+      "bounds_min": [
+        68.88,
+        128.36,
+        55.4
+      ],
+      "bounds_max": [
+        81.12,
+        140.568,
+        69.4
+      ],
+      "dimensions": [
+        12.24,
+        12.208,
+        14.0
+      ]
+    },
+    "ingresso_viadotto": {
+      "present": true,
+      "objects": 448,
+      "vertices": 15908,
+      "faces": 8880,
+      "bounds_min": [
+        40.35,
+        -24.022,
+        55.0
+      ],
+      "bounds_max": [
+        111.45,
+        7.978,
+        137.4
+      ],
+      "dimensions": [
+        71.1,
+        32.0,
+        82.4
+      ]
+    },
+    "viadotto": {
+      "present": true,
+      "objects": 24,
+      "vertices": 792,
+      "faces": 744,
+      "bounds_min": [
+        58.065,
+        -84.898,
+        9.0
+      ],
+      "bounds_max": [
+        78.735,
+        -16.714,
+        62.5
+      ],
+      "dimensions": [
+        20.67,
+        68.185,
+        53.5
+      ]
+    },
+    "ponte_alto": {
+      "present": true,
+      "objects": 10,
+      "vertices": 260,
+      "faces": 240,
+      "bounds_min": [
+        21.289,
+        -34.462,
+        19.0
+      ],
+      "bounds_max": [
+        48.311,
+        -13.288,
+        85.5
+      ],
+      "dimensions": [
+        27.022,
+        21.174,
+        66.5
+      ]
+    },
+    "ponte_sospeso": {
+      "present": true,
+      "objects": 71,
+      "vertices": 1128,
+      "faces": 706,
+      "bounds_min": [
+        -1.71,
+        -24.548,
+        77.7
+      ],
+      "bounds_max": [
+        1.71,
+        8.122,
+        81.108
+      ],
+      "dimensions": [
+        3.42,
+        32.67,
+        3.408
+      ]
+    },
+    "civettaia": {
+      "present": true,
+      "objects": 75,
+      "vertices": 2584,
+      "faces": 1442,
+      "bounds_min": [
+        -199.55,
+        56.797,
+        84.8
+      ],
+      "bounds_max": [
+        -182.05,
+        83.622,
+        136.4
+      ],
+      "dimensions": [
+        17.5,
+        26.825,
+        51.6
+      ]
+    },
+    "cerchio_pietre": {
+      "present": true,
+      "objects": 10,
+      "vertices": 98,
+      "faces": 69,
+      "bounds_min": [
+        -221.499,
+        -70.558,
+        69.96
+      ],
+      "bounds_max": [
+        -194.6,
+        -53.676,
+        75.532
+      ],
+      "dimensions": [
+        26.899,
+        16.882,
+        5.572
+      ]
+    },
+    "rimessa_barche": {
+      "present": true,
+      "objects": 48,
+      "vertices": 1346,
+      "faces": 829,
+      "bounds_min": [
+        162.8,
+        -150.112,
+        0.0
+      ],
+      "bounds_max": [
+        188.8,
+        -124.992,
+        31.4
+      ],
+      "dimensions": [
+        26.0,
+        25.12,
+        31.4
+      ]
+    },
+    "scalinata_al_lago": {
+      "present": true,
+      "objects": 265,
+      "vertices": 2120,
+      "faces": 1590,
+      "bounds_min": [
+        68.1,
+        -146.878,
+        1.0
+      ],
+      "bounds_max": [
+        173.1,
+        -99.512,
+        61.117
+      ],
+      "dimensions": [
+        105.0,
+        47.366,
+        60.117
+      ]
+    },
+    "scalinata_monumentale": {
+      "present": true,
+      "objects": 391,
+      "vertices": 13632,
+      "faces": 7598,
+      "bounds_min": [
+        2.95,
+        -115.678,
+        60.0
+      ],
+      "bounds_max": [
+        40.25,
+        -78.378,
+        227.0
+      ],
+      "dimensions": [
+        37.3,
+        37.3,
+        167.0
+      ]
+    }
+  },
+  "greenhouses": {
+    "1": {
+      "present": true,
+      "objects": 52,
+      "vertices": 614,
+      "faces": 411,
+      "bounds_min": [
+        28.05,
+        121.981,
+        55.4
+      ],
+      "bounds_max": [
+        65.55,
+        130.139,
+        64.13
+      ],
+      "dimensions": [
+        37.5,
+        8.158,
+        8.73
+      ]
+    },
+    "2": {
+      "present": true,
+      "objects": 52,
+      "vertices": 614,
+      "faces": 411,
+      "bounds_min": [
+        28.05,
+        110.521,
+        55.4
+      ],
+      "bounds_max": [
+        65.55,
+        118.679,
+        64.13
+      ],
+      "dimensions": [
+        37.5,
+        8.158,
+        8.73
+      ]
+    },
+    "3": {
+      "present": true,
+      "objects": 52,
+      "vertices": 614,
+      "faces": 411,
+      "bounds_min": [
+        84.45,
+        121.981,
+        55.4
+      ],
+      "bounds_max": [
+        121.95,
+        130.139,
+        64.13
+      ],
+      "dimensions": [
+        37.5,
+        8.158,
+        8.73
+      ]
+    },
+    "4": {
+      "present": true,
+      "objects": 52,
+      "vertices": 614,
+      "faces": 411,
+      "bounds_min": [
+        84.45,
+        110.521,
+        55.4
+      ],
+      "bounds_max": [
+        121.95,
+        118.679,
+        64.13
+      ],
+      "dimensions": [
+        37.5,
+        8.158,
+        8.73
+      ]
+    },
+    "5": {
+      "present": true,
+      "objects": 48,
+      "vertices": 566,
+      "faces": 379,
+      "bounds_min": [
+        103.05,
+        73.658,
+        55.4
+      ],
+      "bounds_max": [
+        111.75,
+        107.41,
+        64.13
+      ],
+      "dimensions": [
+        8.7,
+        33.752,
+        8.73
+      ]
+    },
+    "6": {
+      "present": true,
+      "objects": 48,
+      "vertices": 566,
+      "faces": 379,
+      "bounds_min": [
+        115.05,
+        73.658,
+        55.4
+      ],
+      "bounds_max": [
+        123.75,
+        107.41,
+        64.13
+      ],
+      "dimensions": [
+        8.7,
+        33.752,
+        8.73
+      ]
+    },
+    "7": {
+      "present": true,
+      "objects": 48,
+      "vertices": 566,
+      "faces": 379,
+      "bounds_min": [
+        103.05,
+        37.75,
+        55.4
+      ],
+      "bounds_max": [
+        111.75,
+        71.502,
+        64.13
+      ],
+      "dimensions": [
+        8.7,
+        33.752,
+        8.73
+      ]
+    },
+    "8": {
+      "present": true,
+      "objects": 48,
+      "vertices": 566,
+      "faces": 379,
+      "bounds_min": [
+        115.05,
+        37.75,
+        55.4
+      ],
+      "bounds_max": [
+        123.75,
+        71.502,
+        64.13
+      ],
+      "dimensions": [
+        8.7,
+        33.752,
+        8.73
+      ]
+    },
+    "9": {
+      "present": true,
+      "objects": 44,
+      "vertices": 518,
+      "faces": 347,
+      "bounds_min": [
+        26.55,
+        101.926,
+        55.4
+      ],
+      "bounds_max": [
+        55.05,
+        107.41,
+        64.13
+      ],
+      "dimensions": [
+        28.5,
+        5.484,
+        8.73
+      ]
+    }
+  },
+  "active_camera": "Camera | insieme da sud-est",
+  "cameras": [
+    "Camera | insieme da sud-est",
+    "Camera | cortile Orologio e retro",
+    "Camera | corpo principale",
+    "Camera | pianta"
+  ],
+  "units": {
+    "system": "METRIC",
+    "scale_length": 1.0,
+    "length_unit": "METERS"
+  },
+  "integrity_ok": true,
+  "all_macro_sectors_present": true,
+  "dimension_assessment": "Le macro-parti hanno dimensioni coerenti con il sistema di quote indicative della scena; Torre Scalinata [37.3, 37.3, 167.0], Astronomia [33.0, 44.388, 190.0]. Le geometrie oltre 600 unità sono elencate nel rapporto e riguardano il fondale di studio. Nessuna quota è certificata come misura cinematografica."
+}

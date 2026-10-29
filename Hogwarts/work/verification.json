@@ -1,0 +1,76 @@
+{
+  "file": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts.blend",
+  "blender_version": "5.2.0 LTS",
+  "object_count": 1308,
+  "mesh_object_count": 1303,
+  "vertex_count": 54394,
+  "polygon_count": 30845,
+  "collections": {
+    "00 • Presentazione": 6,
+    "01 • Basamento e scogliera": 32,
+    "02 • Sala Grande": 148,
+    "03 • Torre principale": 122,
+    "04 • Cortile e chiostro": 55,
+    "05 • Torre dell’orologio": 146,
+    "06 • Torri e ali orientali": 512,
+    "07 • Ingresso e ponte ad archi": 255,
+    "08 • Vegetazione": 32
+  },
+  "materials": [
+    "Basamento • verde scuro",
+    "Cortili • pietra levigata",
+    "Finestre • vetro scuro",
+    "Lago • verde profondo",
+    "Material",
+    "Metallo • ottone invecchiato",
+    "Pietra • calcare miele",
+    "Pietra • cornici chiare",
+    "Porte • rovere",
+    "Roccia • tono 1",
+    "Roccia • tono 2",
+    "Roccia • tono 3",
+    "Roccia • tono 4",
+    "Roccia • tono 5",
+    "Studio • avorio",
+    "Terreno • muschio",
+    "Tetti • ardesia verde blu",
+    "Tetti • fasce di ardesia"
+  ],
+  "empty_meshes": [],
+  "invalid_coordinates": [],
+  "external_dependencies": [],
+  "units": {
+    "system": "METRIC",
+    "scale_length": 0.0010000000474974513,
+    "length_unit": "MILLIMETERS"
+  },
+  "camera": {
+    "valid": true,
+    "name": "Camera • principale",
+    "type": "ORTHO",
+    "ortho_scale": 370.0
+  },
+  "castle_bounds": {
+    "minimum": [
+      -134.81333923339844,
+      -98.0,
+      0.0
+    ],
+    "maximum": [
+      130.0,
+      98.0,
+      167.89999389648438
+    ],
+    "size": [
+      264.81333923339844,
+      196.0,
+      167.89999389648438
+    ]
+  },
+  "render_size": [
+    1800,
+    1500
+  ],
+  "passed": true,
+  "scope": "Integrità della scena; non certifica la stampa 3D."
+}

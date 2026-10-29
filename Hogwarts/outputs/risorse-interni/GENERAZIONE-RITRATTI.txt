@@ -1,0 +1,10 @@
+RITRATTI DECORATIVI DEGLI INTERNI
+
+File: ritratti-dipinti.png
+Modalità: strumento image_gen integrato, tramite skill imagegen.
+La texture è copiata nel progetto e incorporata nel file Blender.
+Sono sei personaggi inventati, usati come dipinti decorativi; non sono
+ritratti ufficiali dei personaggi della saga.
+
+PROMPT UTILIZZATO
+Use case: stylized-concept. Asset type: a single square diffuse texture atlas for six framed portraits in a Blender model of an old magical castle school. Create EXACTLY SIX separate portrait oil paintings in a precise edge-to-edge 3-column by 2-row grid, all cells equal size. Each individual cell is a vertical 2:3 portrait with a centered head and upper torso, fully contained within its cell. Subjects: six different entirely fictional historical magical scholars/headmasters, a mix of women and men, older and middle aged, varied faces and robes, some with simple scholar caps, one with a modest pointed hat. They are not depictions of any actor, celebrity or existing fictional character. Rich hand-painted 17th-century oil-on-canvas style, visible brushwork and subtle aged varnish, muted burgundy, dark forest green, ochre and indigo palettes. Dignified, slightly eccentric faces, luminous faces against darker painterly backgrounds. Each painting is flat front-on, no perspective, no cast shadows around cells. No frames (frames already exist in the 3D model), no margins, no gutters, no labels, no text, no signatures, no watermark, no room scene. The grid fills the entire image. High detail, usable as a texture atlas. Keep heads and faces away from cell edges.

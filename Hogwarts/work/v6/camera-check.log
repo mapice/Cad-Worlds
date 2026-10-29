@@ -1,0 +1,9 @@
+00:01.917  blend            | Read blend: "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-scala-rifinita.blend"
+ACADEMIC_OK {"objects": 1368, "mesh_objects": 1330, "faces": 240387, "lights": 30, "cameras": ["Camera | Aula Pozioni", "Camera | Aula Trasfigurazione", "Camera | Biblioteca", "Camera | Biblioteca dal ballatoio", "Camera | Infermeria"], "empty": [], "nonfinite": []}
+Camera | Biblioteca loc (75.5999984741211, 63.029998779296875, 55.400001525878906) rotation (0.0, -0.0, 1.5707961320877075) dir (0.0, 0.0, -1.0)
+Camera | Aula Pozioni loc (20.399999618530273, -52.33399963378906, 73.4000015258789) rotation (0.0, -0.0, 1.5707961320877075) dir (0.0, 0.0, -1.0)
+Camera | Infermeria loc (-38.5, -61.900001525878906, 81.4000015258789) rotation (0.0, -0.0, 1.5707961320877075) dir (0.0, 0.0, -1.0)
+Camera | Aula Trasfigurazione loc (-5.0, -32.599998474121094, 73.4000015258789) rotation (0.0, -0.0, 0.0) dir (0.0, 0.0, -1.0)
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-13 15:32:10)
+
+Blender quit

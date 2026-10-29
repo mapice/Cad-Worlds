@@ -1,0 +1,20 @@
+HOGWARTS — SCALINATA E SPERONE ROCCIOSO RIFINITI
+
+Aprire Hogwarts-scala-rifinita.blend con Blender 5.2.
+Il file contiene il modello aggiornato del castello, del lago e dei colli.
+
+La scalinata originale è stata sostituita da 307 alzate di circa 18 cm,
+distribuite in 23 rampe con pianerottoli. Parapetti e copertine seguono
+il percorso in modo continuo; i tornanti sono raccordati.
+La partenza esce dalla rocca tramite un tratto piano prima della discesa.
+L'arrivo termina sullo spazio libero del molo, fuori dal muro della rimessa.
+Lo sperone locale è rimodellato e sostiene scala e pianerottoli.
+
+IMMAGINI
+Hogwarts-scala-rifinita.png: primo piano del tratto superiore.
+Hogwarts-scala-contesto.png: l'intera discesa verso la rimessa.
+
+Le collezioni 45–47 separano scala, roccia e camere.
+Le geometrie precedenti sostituite sono nascoste.
+Materiali e coordinate delle superfici sono incorporati nel file.
+Tastierino 0: camera attiva. F12: genera l'immagine.

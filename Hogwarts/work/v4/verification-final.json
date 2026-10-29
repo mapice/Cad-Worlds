@@ -1,0 +1,298 @@
+{
+  "file": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-Lago-Nero.blend",
+  "file_sha256": "b4fd93aa4869dcbfca8bc7bcc791d610792350928d330e62e31765eb50499305",
+  "blender_version": "5.2.0 LTS",
+  "scope": "Riapertura del file finale senza modifica o rendering. Controllo di risorse, integrità, visibilità paesaggio, aree protette degli alberi e presenza macro-architetture. Il controllo delle trasformazioni architettoniche proviene dal confronto eseguito durante la generazione e viene confrontato qui con i conteggi del file salvato. Non è una certificazione di fedeltà del paesaggio cinematografico.",
+  "scene_objects": 7425,
+  "mesh_objects": 7412,
+  "mesh_faces_evaluated_sum": 1194228,
+  "empty_meshes": [],
+  "nonfinite_geometry_or_transforms": [],
+  "missing_material_assignments": [],
+  "external_images": [],
+  "linked_libraries": [],
+  "external_fonts": [],
+  "new_visibility": {
+    "Colli e sponde | superficie continua": {
+      "exists": true,
+      "hide_render": false,
+      "hidden_viewport": false,
+      "faces": 174018
+    },
+    "Lago Nero | superficie estesa": {
+      "exists": true,
+      "hide_render": false,
+      "hidden_viewport": false,
+      "faces": 12992
+    }
+  },
+  "old_hidden": {
+    "Lago Nero | acqua": {
+      "exists": true,
+      "hide_render": true,
+      "hidden_viewport": true
+    },
+    "Colline occidentali | pareti rocciose": {
+      "exists": true,
+      "hide_render": true,
+      "hidden_viewport": true
+    },
+    "Studio | piano": {
+      "exists": true,
+      "hide_render": true,
+      "hidden_viewport": true
+    },
+    "Bosco sulle colline": {
+      "exists": true,
+      "hide_render": true,
+      "hidden_viewport": true
+    },
+    "Conifere | tronchi e rami": {
+      "exists": true,
+      "hide_render": true,
+      "hidden_viewport": true
+    },
+    "Conifere | palchi e aghi": {
+      "exists": true,
+      "hide_render": true,
+      "hidden_viewport": true
+    },
+    "Rocce | detriti di riva": {
+      "exists": true,
+      "hide_render": true,
+      "hidden_viewport": true
+    }
+  },
+  "trees": 840,
+  "trees_in_protected_zones": [],
+  "architecture": {
+    "sala_grande": {
+      "collection": "01 • Sala Grande e ingresso",
+      "visible_mesh_objects": 295,
+      "faces": 4573
+    },
+    "scalinata_silente": {
+      "collection": "02 • Torre della Scalinata e ufficio di Silente",
+      "visible_mesh_objects": 460,
+      "faces": 9248
+    },
+    "quadrilatero": {
+      "collection": "03 • Quadrilatero, infermeria e Grifondoro",
+      "visible_mesh_objects": 769,
+      "faces": 15532
+    },
+    "cortile_viadotto": {
+      "collection": "04 • Cortile del viadotto",
+      "visible_mesh_objects": 100,
+      "faces": 2625
+    },
+    "tre_ponti": {
+      "collection": "05 • Tre ponti sulla gola",
+      "visible_mesh_objects": 105,
+      "faces": 1690
+    },
+    "durham": {
+      "collection": "05 • Ala Durham, galleria lunga e chiostri",
+      "visible_mesh_objects": 872,
+      "faces": 15391
+    },
+    "serre": {
+      "collection": "06 • Serre di Erbologia e conservatorio",
+      "visible_mesh_objects": 563,
+      "faces": 4664
+    },
+    "ingresso_viadotto": {
+      "collection": "07 • Ingresso del viadotto e quattro torri",
+      "visible_mesh_objects": 447,
+      "faces": 8874
+    },
+    "astronomia": {
+      "collection": "10 • Torre di Astronomia (HBP)",
+      "visible_mesh_objects": 543,
+      "faces": 11001
+    },
+    "orologio": {
+      "collection": "11 • Torre dell’Orologio",
+      "visible_mesh_objects": 435,
+      "faces": 6284
+    },
+    "rimessa": {
+      "collection": "16 • Rimessa delle barche e scalinata",
+      "visible_mesh_objects": 315,
+      "faces": 4279
+    }
+  },
+  "missing_architecture_parts": [],
+  "architecture_transforms_changed_from_build": [],
+  "terrain_vertices_lowered_from_polish": 2741,
+  "foundation_checks": [
+    {
+      "pier": "Ponte di pietra alto | pila.001",
+      "foundation": "Ponte di pietra alto | pila.001 | fondazione",
+      "exists": true,
+      "original_base_z": 19.0,
+      "foundation_top_z": 19.0,
+      "foundation_bottom_z": -8.032079696655273,
+      "terrain_z_at_center": -7.632080078125,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.39999961853027344,
+      "visible": true,
+      "reported_ground_difference": 0.0
+    },
+    {
+      "pier": "Ponte di pietra alto | pila.002",
+      "foundation": "Ponte di pietra alto | pila.002 | fondazione",
+      "exists": true,
+      "original_base_z": 19.0,
+      "foundation_top_z": 19.0,
+      "foundation_bottom_z": -6.788061618804932,
+      "terrain_z_at_center": -6.3880615234375,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.40000009536743164,
+      "visible": true,
+      "reported_ground_difference": 0.0
+    },
+    {
+      "pier": "Viadotto | pila.001",
+      "foundation": "Viadotto | pila.001 | fondazione",
+      "exists": true,
+      "original_base_z": 9.0,
+      "foundation_top_z": 9.0,
+      "foundation_bottom_z": -5.031713962554932,
+      "terrain_z_at_center": -4.6317138671875,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.40000009536743164,
+      "visible": true,
+      "reported_ground_difference": 0.0
+    },
+    {
+      "pier": "Viadotto | pila.002",
+      "foundation": "Viadotto | pila.002 | fondazione",
+      "exists": true,
+      "original_base_z": 9.0,
+      "foundation_top_z": 9.0,
+      "foundation_bottom_z": -5.339148044586182,
+      "terrain_z_at_center": -4.93914794921875,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.40000009536743164,
+      "visible": true,
+      "reported_ground_difference": 0.0
+    },
+    {
+      "pier": "Viadotto | pila.003",
+      "foundation": "Viadotto | pila.003 | fondazione",
+      "exists": true,
+      "original_base_z": 9.0,
+      "foundation_top_z": 9.0,
+      "foundation_bottom_z": -5.616003513336182,
+      "terrain_z_at_center": -5.21600341796875,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.40000009536743164,
+      "visible": true,
+      "reported_ground_difference": 0.0
+    },
+    {
+      "pier": "Viadotto | pila.004",
+      "foundation": "Viadotto | pila.004 | fondazione",
+      "exists": true,
+      "original_base_z": 9.0,
+      "foundation_top_z": 9.0,
+      "foundation_bottom_z": -5.821814060211182,
+      "terrain_z_at_center": -5.421875,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.39993906021118164,
+      "visible": true,
+      "reported_ground_difference": 6.103515625e-05
+    },
+    {
+      "pier": "Viadotto | pila.005",
+      "foundation": "Viadotto | pila.005 | fondazione",
+      "exists": true,
+      "original_base_z": 9.0,
+      "foundation_top_z": 9.0,
+      "foundation_bottom_z": -5.950354099273682,
+      "terrain_z_at_center": -5.55035400390625,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.40000009536743164,
+      "visible": true,
+      "reported_ground_difference": 0.0
+    },
+    {
+      "pier": "Viadotto | pila.006",
+      "foundation": "Viadotto | pila.006 | fondazione",
+      "exists": true,
+      "original_base_z": 9.0,
+      "foundation_top_z": 9.0,
+      "foundation_bottom_z": -5.998510837554932,
+      "terrain_z_at_center": -5.5985107421875,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.40000009536743164,
+      "visible": true,
+      "reported_ground_difference": 0.0
+    },
+    {
+      "pier": "Viadotto | pila.007",
+      "foundation": "Viadotto | pila.007 | fondazione",
+      "exists": true,
+      "original_base_z": 9.0,
+      "foundation_top_z": 9.0,
+      "foundation_bottom_z": -8.026037216186523,
+      "terrain_z_at_center": -7.6259765625,
+      "terrain_source": "Colli e sponde | superficie continua",
+      "top_gap": 0.0,
+      "footprint_max_xy_difference": 0.0,
+      "coincident_top": true,
+      "reaches_ground": true,
+      "penetration_at_center": 0.40006065368652344,
+      "visible": true,
+      "reported_ground_difference": 6.103515625e-05
+    }
+  ],
+  "foundation_check_method": "Sommità e impronta confrontate con le quattro estremità inferiori del pilone originale. Fondale misurato con raycast al centro di ciascuna fondazione, sulle superfici del terreno usate dal generatore. Il vecchio corpo e la fondazione sono valutati insieme.",
+  "checks": {
+    "scene_objects_match_build": true,
+    "faces_match_build": true,
+    "build_reports_architecture_transforms_unchanged": true,
+    "new_terrain_and_water_visible": true,
+    "old_borders_and_old_forest_hidden": true,
+    "trees_outside_protected_areas": true,
+    "architecture_present": true,
+    "all_nine_pier_extensions_continuous_and_grounded": true,
+    "geometry_finite_and_nonempty": true,
+    "materials_present": true,
+    "no_external_dependencies": true
+  },
+  "passed": true
+}

@@ -1,0 +1,66 @@
+{
+  "fontana": {
+    "center": [
+      -100.79999923706055,
+      -62.45699882507324,
+      70.43000152587891
+    ],
+    "aquile": 4,
+    "serpenti": 4,
+    "old_hidden": [
+      "Fontana Orologio | becco",
+      "Fontana Orologio | becco.001",
+      "Fontana Orologio | becco.002",
+      "Fontana Orologio | becco.003",
+      "Fontana Orologio | colonna",
+      "Fontana Orologio | coppa",
+      "Fontana Orologio | vasca",
+      "Fontana Orologio | vasca.001",
+      "Fontana Orologio | vasca.002"
+    ],
+    "collection": "90 • Fontana delle quattro aquile"
+  },
+  "orologio": {
+    "dial_center": [
+      -83.04999938964843,
+      -61.31100082397461,
+      103.19999694824219
+    ],
+    "roman_numerals": 12,
+    "minute_marks": 60,
+    "pendulum_lowest_z": 77.68,
+    "dial_outward_clearance_correction": 0.36,
+    "old_hidden": [
+      "Orologio grande | indice",
+      "Orologio grande | indice.001",
+      "Orologio grande | indice.002",
+      "Orologio grande | indice.003",
+      "Orologio grande | indice.004",
+      "Orologio grande | indice.005",
+      "Orologio grande | indice.006",
+      "Orologio grande | indice.007",
+      "Orologio grande | indice.008",
+      "Orologio grande | indice.009",
+      "Orologio grande | indice.010",
+      "Orologio grande | indice.011",
+      "Orologio grande | lancetta minuti",
+      "Orologio grande | lancetta ore",
+      "Orologio grande | perno"
+    ],
+    "collection": "91 • Orologio e pendolo"
+  },
+  "sala_grande": {
+    "doccioni": 8,
+    "pinnacoli_rifiniti": 22,
+    "collection": "92 • Pietre scolpite della Sala Grande"
+  },
+  "objects": 22,
+  "mesh_objects": 19,
+  "faces": 23801,
+  "empty": [],
+  "cameras": [
+    "Camera | V7 doccioni della Sala Grande",
+    "Camera | V7 facciata dell’Orologio",
+    "Camera | V7 fontana e cortile"
+  ]
+}

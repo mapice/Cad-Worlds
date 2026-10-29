@@ -1,0 +1,191 @@
+{
+  "terrain_object": "Colli e sponde | superficie continua",
+  "water_object": "Lago Nero | superficie estesa",
+  "terrain_vertices": 87600,
+  "terrain_faces": 174018,
+  "water_vertices": 13221,
+  "water_faces": 12992,
+  "bounds": [
+    -5000.0,
+    5200.0,
+    -5200.0,
+    5400.0
+  ],
+  "water_level": 0.7,
+  "samples": {
+    "civettaia": {
+      "xy": [
+        -190.8,
+        74.9
+      ],
+      "nuovo_terreno": 89.55995727539063,
+      "sommità_precedente": 89.79995727539062,
+      "fonte_sommità": "Colline occidentali | superficie",
+      "distanza_riva": 297.9915819498355
+    },
+    "cerchio_pietre": {
+      "xy": [
+        -213,
+        -62.3
+      ],
+      "nuovo_terreno": 69.560048828125,
+      "sommità_precedente": 69.800048828125,
+      "fonte_sommità": "Colline occidentali | superficie",
+      "distanza_riva": 206.24652776636933
+    },
+    "cortile_orologio": {
+      "xy": [
+        -101,
+        -62
+      ],
+      "nuovo_terreno": 69.3599755859375,
+      "sommità_precedente": 69.5999755859375,
+      "fonte_sommità": "Colline occidentali | superficie",
+      "distanza_riva": 134.71521368755953
+    },
+    "serre": {
+      "xy": [
+        100,
+        125
+      ],
+      "nuovo_terreno": 54.76,
+      "sommità_precedente": 55.0,
+      "fonte_sommità": "Promontorio delle serre | sommità",
+      "distanza_riva": 39.8133762794446
+    },
+    "quad": {
+      "xy": [
+        -10,
+        -60
+      ],
+      "nuovo_terreno": 59.75993896484375,
+      "sommità_precedente": 59.99993896484375,
+      "fonte_sommità": "Promontorio della Sala Grande | sommità",
+      "distanza_riva": 123.48724853187612
+    },
+    "fondo_gola_viadotto": {
+      "xy": [
+        72,
+        -60
+      ],
+      "nuovo_terreno": -5.499496845727472,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": 95.02105029939419
+    },
+    "molo": {
+      "xy": [
+        175.8,
+        -136
+      ],
+      "nuovo_terreno": 0.3599755859375,
+      "sommità_precedente": 0.5999755859375,
+      "fonte_sommità": "Scogliera della rimessa | superficie",
+      "distanza_riva": 17.198857635833217
+    },
+    "lago_centrale": {
+      "xy": [
+        430,
+        -170
+      ],
+      "nuovo_terreno": -37.16232268414291,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": -233.63130697744168
+    },
+    "colli_ovest": {
+      "xy": [
+        -650,
+        650
+      ],
+      "nuovo_terreno": 289.79810279168487,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": 898.1001713190291
+    },
+    "sponda_est": {
+      "xy": [
+        1100,
+        300
+      ],
+      "nuovo_terreno": 244.8907940398505,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": 237.92507080546775
+    },
+    "nord": {
+      "xy": [
+        200,
+        900
+      ],
+      "nuovo_terreno": 253.253027074308,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": 272.9845026002322
+    },
+    "raccordo_muro_nord": {
+      "xy": [
+        1.8,
+        171.9
+      ],
+      "nuovo_terreno": 54.76,
+      "sommità_precedente": 48.85797119140625,
+      "fonte_sommità": "Colline occidentali | superficie",
+      "distanza_riva": 114.30507425307069
+    },
+    "vialetto_nord": {
+      "xy": [
+        25,
+        154
+      ],
+      "nuovo_terreno": 54.76,
+      "sommità_precedente": 55.0,
+      "fonte_sommità": "Promontorio delle serre | sommità",
+      "distanza_riva": 91.77427243224636
+    },
+    "piede_sud_falesia": {
+      "xy": [
+        25,
+        -190
+      ],
+      "nuovo_terreno": 1.847577283182529,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": -3.5732705171666304
+    },
+    "piede_est_falesia": {
+      "xy": [
+        180,
+        20
+      ],
+      "nuovo_terreno": 9.355468777492923,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": 21.593933092047976
+    },
+    "dorsale_lontana": {
+      "xy": [
+        350,
+        2600
+      ],
+      "nuovo_terreno": 285.9427508712965,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": 1872.4141194799295
+    },
+    "margine_lontano": {
+      "xy": [
+        5000,
+        5000
+      ],
+      "nuovo_terreno": 69.35500152095625,
+      "sommità_precedente": null,
+      "fonte_sommità": null,
+      "distanza_riva": 6052.477295128493
+    }
+  },
+  "external_resources": 0,
+  "elapsed": 3.5136139392852783,
+  "empty_meshes": [],
+  "nonfinite": []
+}

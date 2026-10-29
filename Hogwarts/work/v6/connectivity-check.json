@@ -1,0 +1,1114 @@
+{
+  "source": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/Hogwarts-interni-pronto.blend",
+  "scope": "Sole pareti strutturali della collezione80 e partizioni nuove; esclusi arredi, terreno, cornici/pali esterni e scale che il coordinatore sta rifinendo. Segmenti a pavimento+1.6m, con fasce laterali±0.65m.",
+  "structural_objects": [
+    "Ala nord Durham | muri",
+    "Ala occidentale Durham | muri",
+    "Ala orientale Durham | muri",
+    "Astronomia | fusto a D",
+    "Astronomia | tamburo belvedere",
+    "Centrale | corpo",
+    "Corpo laterale occidentale | muri",
+    "Corpo sud Durham | muri",
+    "Galleria lunga | muri",
+    "Grifondoro | torre nordoccidentale | fusto",
+    "Infermeria | galleria | muri",
+    "Ingresso viadotto | corpo laterale",
+    "Ingresso viadotto | corpo laterale.001",
+    "Ingresso viadotto | corpo sopra portale",
+    "Navata sud Durham | muri",
+    "Quad | ala est | muri",
+    "Quad | ala nord | muri",
+    "Quad | ala ovest | muri",
+    "Quad | ala sud | muri",
+    "Quad | torre del ponte alto | fusto",
+    "Sala d’ingresso | muri",
+    "Sala Grande | muratura",
+    "Silente | torretta 1 | fusto",
+    "Silente | torretta 2 | fusto",
+    "Silente | torretta 3 | fusto",
+    "Torre della Scalinata | fusto",
+    "Torre viadotto 1 | fusto",
+    "Torre viadotto 2 | fusto",
+    "Torre viadotto 3 | fusto",
+    "Torre viadotto 4 | fusto",
+    "Pozioni | parete corridoio | spalla",
+    "Pozioni | parete corridoio | spalla.001",
+    "Pozioni | parete corridoio | arco del varco",
+    "Pozioni | parete corridoio | stipite",
+    "Pozioni | parete corridoio | stipite.001",
+    "Pozioni | parete sud | spalla",
+    "Pozioni | parete sud | spalla.001",
+    "Pozioni | parete sud | arco del varco",
+    "Pozioni | parete sud | stipite",
+    "Pozioni | parete sud | stipite.001",
+    "Pozioni | parete nord",
+    "Trasfigurazione | ingresso est | spalla",
+    "Trasfigurazione | ingresso est | spalla.001",
+    "Trasfigurazione | ingresso est | arco del varco",
+    "Trasfigurazione | ingresso est | stipite",
+    "Trasfigurazione | ingresso est | stipite.001",
+    "Trasfigurazione | parete sud",
+    "Trasfigurazione | parete ovest",
+    "Infermeria | parete corridoio | spalla",
+    "Infermeria | parete corridoio | spalla.001",
+    "Infermeria | parete corridoio | arco del varco",
+    "Infermeria | parete corridoio | stipite",
+    "Infermeria | parete corridoio | stipite.001",
+    "Infermeria | testata sud | spalla",
+    "Infermeria | testata sud | spalla.001",
+    "Infermeria | testata sud | arco del varco",
+    "Infermeria | testata sud | stipite",
+    "Infermeria | testata sud | stipite.001",
+    "Infermeria | testata nord"
+  ],
+  "tests": [
+    {
+      "name": "Sala Grande–Atrio",
+      "a": [
+        27.0,
+        -132.0
+      ],
+      "b": [
+        28.8,
+        -121.0
+      ],
+      "floor": 60.4,
+      "notes": "Attraversamento nella zona di sovrapposizione delle cavità, verso il centro dell’atrio.",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            27.641468048095703,
+            -132.10496520996094,
+            62.0
+          ],
+          "to": [
+            29.44146728515625,
+            -121.10496520996094,
+            62.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            27.0,
+            -132.0,
+            62.0
+          ],
+          "to": [
+            28.799999237060547,
+            -121.0,
+            62.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            26.358531951904297,
+            -131.89503479003906,
+            62.0
+          ],
+          "to": [
+            28.158531188964844,
+            -120.89503479003906,
+            62.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Atrio–Scalinata",
+      "a": [
+        28.8,
+        -116.0
+      ],
+      "b": [
+        28.8,
+        -106.0
+      ],
+      "floor": 60.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            29.44999885559082,
+            -116.0,
+            62.0
+          ],
+          "to": [
+            29.44999885559082,
+            -106.0,
+            62.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            28.799999237060547,
+            -116.0,
+            62.0
+          ],
+          "to": [
+            28.799999237060547,
+            -106.0,
+            62.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            28.149999618530273,
+            -116.0,
+            62.0
+          ],
+          "to": [
+            28.149999618530273,
+            -106.0,
+            62.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad y quota 73.4",
+      "a": [
+        19.2,
+        -89.0
+      ],
+      "b": [
+        19.2,
+        -79.0
+      ],
+      "floor": 73.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.850000381469727,
+            -89.0,
+            75.0
+          ],
+          "to": [
+            19.850000381469727,
+            -79.0,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -89.0,
+            75.0
+          ],
+          "to": [
+            19.200000762939453,
+            -79.0,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            18.55000114440918,
+            -89.0,
+            75.0
+          ],
+          "to": [
+            18.55000114440918,
+            -79.0,
+            75.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad raccordo x quota 73.4",
+      "a": [
+        19.2,
+        -84.0
+      ],
+      "b": [
+        14.6,
+        -84.0
+      ],
+      "floor": 73.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.200000762939453,
+            -83.3499984741211,
+            75.0
+          ],
+          "to": [
+            14.600000381469727,
+            -83.3499984741211,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -84.0,
+            75.0
+          ],
+          "to": [
+            14.600000381469727,
+            -84.0,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            19.200000762939453,
+            -84.6500015258789,
+            75.0
+          ],
+          "to": [
+            14.600000381469727,
+            -84.6500015258789,
+            75.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad y quota 80",
+      "a": [
+        19.2,
+        -89.0
+      ],
+      "b": [
+        19.2,
+        -79.0
+      ],
+      "floor": 80,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.850000381469727,
+            -89.0,
+            81.5999984741211
+          ],
+          "to": [
+            19.850000381469727,
+            -79.0,
+            81.5999984741211
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -89.0,
+            81.5999984741211
+          ],
+          "to": [
+            19.200000762939453,
+            -79.0,
+            81.5999984741211
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            18.55000114440918,
+            -89.0,
+            81.5999984741211
+          ],
+          "to": [
+            18.55000114440918,
+            -79.0,
+            81.5999984741211
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad raccordo x quota 80",
+      "a": [
+        19.2,
+        -84.0
+      ],
+      "b": [
+        14.6,
+        -84.0
+      ],
+      "floor": 80,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.200000762939453,
+            -83.3499984741211,
+            81.5999984741211
+          ],
+          "to": [
+            14.600000381469727,
+            -83.3499984741211,
+            81.5999984741211
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -84.0,
+            81.5999984741211
+          ],
+          "to": [
+            14.600000381469727,
+            -84.0,
+            81.5999984741211
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            19.200000762939453,
+            -84.6500015258789,
+            81.5999984741211
+          ],
+          "to": [
+            14.600000381469727,
+            -84.6500015258789,
+            81.5999984741211
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad y quota 93.2",
+      "a": [
+        19.2,
+        -89.0
+      ],
+      "b": [
+        19.2,
+        -79.0
+      ],
+      "floor": 93.2,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.850000381469727,
+            -89.0,
+            94.80000305175781
+          ],
+          "to": [
+            19.850000381469727,
+            -79.0,
+            94.80000305175781
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -89.0,
+            94.80000305175781
+          ],
+          "to": [
+            19.200000762939453,
+            -79.0,
+            94.80000305175781
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            18.55000114440918,
+            -89.0,
+            94.80000305175781
+          ],
+          "to": [
+            18.55000114440918,
+            -79.0,
+            94.80000305175781
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad raccordo x quota 93.2",
+      "a": [
+        19.2,
+        -84.0
+      ],
+      "b": [
+        14.6,
+        -84.0
+      ],
+      "floor": 93.2,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.200000762939453,
+            -83.3499984741211,
+            94.80000305175781
+          ],
+          "to": [
+            14.600000381469727,
+            -83.3499984741211,
+            94.80000305175781
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -84.0,
+            94.80000305175781
+          ],
+          "to": [
+            14.600000381469727,
+            -84.0,
+            94.80000305175781
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            19.200000762939453,
+            -84.6500015258789,
+            94.80000305175781
+          ],
+          "to": [
+            14.600000381469727,
+            -84.6500015258789,
+            94.80000305175781
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad y quota 99.8",
+      "a": [
+        19.2,
+        -89.0
+      ],
+      "b": [
+        19.2,
+        -79.0
+      ],
+      "floor": 99.8,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.850000381469727,
+            -89.0,
+            101.4000015258789
+          ],
+          "to": [
+            19.850000381469727,
+            -79.0,
+            101.4000015258789
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -89.0,
+            101.4000015258789
+          ],
+          "to": [
+            19.200000762939453,
+            -79.0,
+            101.4000015258789
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            18.55000114440918,
+            -89.0,
+            101.4000015258789
+          ],
+          "to": [
+            18.55000114440918,
+            -79.0,
+            101.4000015258789
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Scalinata–Quad raccordo x quota 99.8",
+      "a": [
+        19.2,
+        -84.0
+      ],
+      "b": [
+        14.6,
+        -84.0
+      ],
+      "floor": 99.8,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            19.200000762939453,
+            -83.3499984741211,
+            101.4000015258789
+          ],
+          "to": [
+            14.600000381469727,
+            -83.3499984741211,
+            101.4000015258789
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            19.200000762939453,
+            -84.0,
+            101.4000015258789
+          ],
+          "to": [
+            14.600000381469727,
+            -84.0,
+            101.4000015258789
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            19.200000762939453,
+            -84.6500015258789,
+            101.4000015258789
+          ],
+          "to": [
+            14.600000381469727,
+            -84.6500015258789,
+            101.4000015258789
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Pozioni laterale",
+      "a": [
+        14.6,
+        -52.334
+      ],
+      "b": [
+        18.0,
+        -52.334
+      ],
+      "floor": 73.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            14.600000381469727,
+            -52.98400115966797,
+            75.0
+          ],
+          "to": [
+            18.0,
+            -52.98400115966797,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            14.600000381469727,
+            -52.33399963378906,
+            75.0
+          ],
+          "to": [
+            18.0,
+            -52.33399963378906,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            14.600000381469727,
+            -51.683998107910156,
+            75.0
+          ],
+          "to": [
+            18.0,
+            -51.683998107910156,
+            75.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Trasfigurazione est",
+      "a": [
+        5.1,
+        -32.6
+      ],
+      "b": [
+        9.2,
+        -32.6
+      ],
+      "floor": 73.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            5.099999904632568,
+            -33.25,
+            75.0
+          ],
+          "to": [
+            9.199999809265137,
+            -33.25,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            5.099999904632568,
+            -32.599998474121094,
+            75.0
+          ],
+          "to": [
+            9.199999809265137,
+            -32.599998474121094,
+            75.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            5.099999904632568,
+            -31.94999885559082,
+            75.0
+          ],
+          "to": [
+            9.199999809265137,
+            -31.94999885559082,
+            75.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Infermeria dal corridoio",
+      "a": [
+        -32.3,
+        -61.9
+      ],
+      "b": [
+        -35.1,
+        -61.9
+      ],
+      "floor": 81.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            -32.29999923706055,
+            -61.25,
+            83.0
+          ],
+          "to": [
+            -35.099998474121094,
+            -61.25,
+            83.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            -32.29999923706055,
+            -61.900001525878906,
+            83.0
+          ],
+          "to": [
+            -35.099998474121094,
+            -61.900001525878906,
+            83.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            -32.29999923706055,
+            -62.55000305175781,
+            83.0
+          ],
+          "to": [
+            -35.099998474121094,
+            -62.55000305175781,
+            83.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Infermeria dal ponte",
+      "a": [
+        -47.8,
+        -61.9
+      ],
+      "b": [
+        -40.8,
+        -61.9
+      ],
+      "floor": 81.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            -47.79999923706055,
+            -62.55000305175781,
+            83.0
+          ],
+          "to": [
+            -40.79999923706055,
+            -62.55000305175781,
+            83.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            -47.79999923706055,
+            -61.900001525878906,
+            83.0
+          ],
+          "to": [
+            -40.79999923706055,
+            -61.900001525878906,
+            83.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            -47.79999923706055,
+            -61.25,
+            83.0
+          ],
+          "to": [
+            -40.79999923706055,
+            -61.25,
+            83.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Biblioteca ingresso sud",
+      "a": [
+        75.6,
+        31.4
+      ],
+      "b": [
+        75.6,
+        39.3
+      ],
+      "floor": 55.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            76.25,
+            31.399999618530273,
+            57.0
+          ],
+          "to": [
+            76.25,
+            39.29999923706055,
+            57.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            75.5999984741211,
+            31.399999618530273,
+            57.0
+          ],
+          "to": [
+            75.5999984741211,
+            39.29999923706055,
+            57.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            74.94999694824219,
+            31.399999618530273,
+            57.0
+          ],
+          "to": [
+            74.94999694824219,
+            39.29999923706055,
+            57.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Biblioteca laterale",
+      "a": [
+        58.0,
+        62.03
+      ],
+      "b": [
+        65.0,
+        62.03
+      ],
+      "floor": 55.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            58.0,
+            61.37999725341797,
+            57.0
+          ],
+          "to": [
+            65.0,
+            61.37999725341797,
+            57.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            58.0,
+            62.029998779296875,
+            57.0
+          ],
+          "to": [
+            65.0,
+            62.029998779296875,
+            57.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            58.0,
+            62.68000030517578,
+            57.0
+          ],
+          "to": [
+            65.0,
+            62.68000030517578,
+            57.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Navata–Gate",
+      "a": [
+        75.6,
+        -2.0
+      ],
+      "b": [
+        75.6,
+        5.0
+      ],
+      "floor": 60.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            76.25,
+            -2.0,
+            62.0
+          ],
+          "to": [
+            76.25,
+            5.0,
+            62.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            75.5999984741211,
+            -2.0,
+            62.0
+          ],
+          "to": [
+            75.5999984741211,
+            5.0,
+            62.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            74.94999694824219,
+            -2.0,
+            62.0
+          ],
+          "to": [
+            74.94999694824219,
+            5.0,
+            62.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    },
+    {
+      "name": "Navata–Centrale",
+      "a": [
+        75.6,
+        14.4
+      ],
+      "b": [
+        75.6,
+        22.5
+      ],
+      "floor": 55.4,
+      "notes": "",
+      "rays": [
+        {
+          "offset": -0.65,
+          "from": [
+            76.25,
+            14.399999618530273,
+            57.0
+          ],
+          "to": [
+            76.25,
+            22.5,
+            57.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0,
+          "from": [
+            75.5999984741211,
+            14.399999618530273,
+            57.0
+          ],
+          "to": [
+            75.5999984741211,
+            22.5,
+            57.0
+          ],
+          "hits": []
+        },
+        {
+          "offset": 0.65,
+          "from": [
+            74.94999694824219,
+            14.399999618530273,
+            57.0
+          ],
+          "to": [
+            74.94999694824219,
+            22.5,
+            57.0
+          ],
+          "hits": []
+        }
+      ],
+      "clear": true
+    }
+  ],
+  "ray_count": 54,
+  "obstructions": [],
+  "all_clear": true
+}

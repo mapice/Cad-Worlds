@@ -1,0 +1,205 @@
+{
+  "file": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-HBP-dettagliato.blend",
+  "file_sha256": "0b8be820fc14f7aee8b3f2230ef719f2206c3b500edb5a47d61e57db651b233f",
+  "blender_version": "5.2.0 LTS",
+  "scope": "Riapertura, integrità geometrica, assegnazione materiali e risorse, UV sui materiali standard, presenza dettagli/vegetazione/camere. Nessun salvataggio né rendering. Non certifica fedeltà architettonica o stampabilità.",
+  "objects": 6344,
+  "mesh_objects": 6335,
+  "faces": 596269,
+  "empty_meshes": [],
+  "nonfinite_mesh_or_transform": [],
+  "missing_materials": [],
+  "standard_meshes_without_uv": [],
+  "missing_external_resources": [],
+  "cameras": [
+    "Camera | corpo principale",
+    "Camera | cortile Orologio e retro",
+    "Camera | insieme da sud-est",
+    "Camera | pianta",
+    "Camera | pietra, finestre e ardesia",
+    "Camera | serre e campanili"
+  ],
+  "collections": [
+    {
+      "name": "00 • Presentazione e camere",
+      "objects": 10,
+      "mesh_objects": 1
+    },
+    {
+      "name": "01 • Sala Grande e ingresso",
+      "objects": 295,
+      "mesh_objects": 295
+    },
+    {
+      "name": "02 • Torre della Scalinata e ufficio di Silente",
+      "objects": 460,
+      "mesh_objects": 460
+    },
+    {
+      "name": "03 • Quadrilatero, infermeria e Grifondoro",
+      "objects": 769,
+      "mesh_objects": 769
+    },
+    {
+      "name": "04 • Cortile del viadotto",
+      "objects": 100,
+      "mesh_objects": 100
+    },
+    {
+      "name": "05 • Ala Durham, galleria lunga e chiostri",
+      "objects": 872,
+      "mesh_objects": 872
+    },
+    {
+      "name": "05 • Tre ponti sulla gola",
+      "objects": 105,
+      "mesh_objects": 105
+    },
+    {
+      "name": "06 • Serre di Erbologia e conservatorio",
+      "objects": 563,
+      "mesh_objects": 563
+    },
+    {
+      "name": "07 • Ingresso del viadotto e quattro torri",
+      "objects": 447,
+      "mesh_objects": 447
+    },
+    {
+      "name": "08 • Mura dei campi settentrionali",
+      "objects": 149,
+      "mesh_objects": 149
+    },
+    {
+      "name": "10 • Torre di Astronomia (HBP)",
+      "objects": 543,
+      "mesh_objects": 543
+    },
+    {
+      "name": "11 • Campanile occidentale",
+      "objects": 198,
+      "mesh_objects": 198
+    },
+    {
+      "name": "11 • Torre dell’Orologio",
+      "objects": 435,
+      "mesh_objects": 435
+    },
+    {
+      "name": "12 • Campanile orientale",
+      "objects": 198,
+      "mesh_objects": 198
+    },
+    {
+      "name": "12 • Cortile dell’Orologio",
+      "objects": 90,
+      "mesh_objects": 90
+    },
+    {
+      "name": "13 • Ponte coperto in legno",
+      "objects": 335,
+      "mesh_objects": 335
+    },
+    {
+      "name": "13 • Torre centrale Durham (HBP)",
+      "objects": 215,
+      "mesh_objects": 215
+    },
+    {
+      "name": "14 • Collegamento dell’infermeria",
+      "objects": 47,
+      "mesh_objects": 47
+    },
+    {
+      "name": "15 • Civettaia e cerchio di pietre",
+      "objects": 85,
+      "mesh_objects": 85
+    },
+    {
+      "name": "16 • Rimessa delle barche e scalinata",
+      "objects": 315,
+      "mesh_objects": 315
+    },
+    {
+      "name": "17 • Scogliere, gole e lago",
+      "objects": 8,
+      "mesh_objects": 8
+    },
+    {
+      "name": "18 • Raccordi e passaggi secondari",
+      "objects": 72,
+      "mesh_objects": 72
+    },
+    {
+      "name": "30 • Dettagli delle finestre",
+      "objects": 3,
+      "mesh_objects": 3
+    },
+    {
+      "name": "31 • Portali, ferramenta e lanterne",
+      "objects": 5,
+      "mesh_objects": 5
+    },
+    {
+      "name": "32 • Bosco di conifere dettagliate",
+      "objects": 2,
+      "mesh_objects": 2
+    },
+    {
+      "name": "32 • Gronde, colmi e comignoli",
+      "objects": 6,
+      "mesh_objects": 6
+    },
+    {
+      "name": "33 • Sottobosco, muschio e rocce",
+      "objects": 4,
+      "mesh_objects": 4
+    },
+    {
+      "name": "34 • Erbologia, vasi e piante nelle serre",
+      "objects": 13,
+      "mesh_objects": 13
+    }
+  ],
+  "detail_collections": [
+    {
+      "name": "30 • Dettagli delle finestre",
+      "objects": 3,
+      "mesh_objects": 3
+    },
+    {
+      "name": "31 • Portali, ferramenta e lanterne",
+      "objects": 5,
+      "mesh_objects": 5
+    }
+  ],
+  "vegetation_collections": [
+    {
+      "name": "06 • Serre di Erbologia e conservatorio",
+      "objects": 563,
+      "mesh_objects": 563
+    },
+    {
+      "name": "32 • Bosco di conifere dettagliate",
+      "objects": 2,
+      "mesh_objects": 2
+    },
+    {
+      "name": "32 • Gronde, colmi e comignoli",
+      "objects": 6,
+      "mesh_objects": 6
+    },
+    {
+      "name": "33 • Sottobosco, muschio e rocce",
+      "objects": 4,
+      "mesh_objects": 4
+    },
+    {
+      "name": "34 • Erbologia, vasi e piante nelle serre",
+      "objects": 13,
+      "mesh_objects": 13
+    }
+  ],
+  "six_cameras_present": true,
+  "ok": true
+}

@@ -1,0 +1,50 @@
+{
+  "objects": 6344,
+  "mesh_objects": 6335,
+  "faces": 596269,
+  "materials": 27,
+  "empty_meshes": [],
+  "nonfinite_meshes": [],
+  "changed_principal_transforms": [],
+  "rock_detail": [
+    {
+      "name": "Colline occidentali | pareti rocciose",
+      "vertices": 6600,
+      "faces": 5500
+    },
+    {
+      "name": "Promontorio della Sala Grande | pareti rocciose",
+      "vertices": 9520,
+      "faces": 17850
+    },
+    {
+      "name": "Promontorio delle serre | pareti rocciose",
+      "vertices": 12640,
+      "faces": 23700
+    }
+  ],
+  "beveled_masses": 57,
+  "details": {
+    "finestre_rifinite": 1414,
+    "vetrate_con_piombo": 89,
+    "porte_rifinite": 3,
+    "lanterne": 6,
+    "stemmi": 2,
+    "coperture_rifinite": 19,
+    "oggetti_aggiunti": 14,
+    "facce_aggiunte": 271302
+  },
+  "nature": {
+    "conifere": 92,
+    "massi_riva": 231,
+    "vasi_serre": 126,
+    "serre_con_piante": 9,
+    "conservatori_con_piante": 1,
+    "resources_external": 0
+  },
+  "materials_report": {
+    "uv_meshes": 6335,
+    "materials_updated": 12,
+    "external_images": 0
+  }
+}

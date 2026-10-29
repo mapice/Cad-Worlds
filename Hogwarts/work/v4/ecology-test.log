@@ -1,0 +1,5 @@
+00:01.109  blend            | Read blend: "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-HBP-dettagliato.blend"
+ECOLOGY_TEST {'trees': 840, 'tree_variants': 6, 'shrubs': 105, 'shore_rocks': 120, 'reed_tufts': 64, 'new_objects': 1066, 'evaluated_faces': 412279, 'hidden_previous': ['Bosco sulle colline', 'Conifere | palchi e aghi', 'Conifere | tronchi e rami', 'Rocce | detriti di riva', 'Sottobosco | fogliame', 'Sottobosco | muschio a terra', 'Sottobosco | ramoscelli'], 'ground_objects': ['Campione | superficie', 'Colline occidentali | superficie', 'Promontorio della Sala Grande | sommità', 'Promontorio delle serre | sommità', 'Scogliera della rimessa | superficie'], 'all_grounded_by_raycast': True, 'empty': [], 'nonfinite': [], 'protected_tree_points': []}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-13 15:32:10)
+
+Blender quit

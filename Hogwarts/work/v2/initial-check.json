@@ -1,0 +1,31 @@
+{
+  "objects": 6309,
+  "meshes": 6302,
+  "faces": 113314,
+  "collections": [
+    "00 \u2022 Presentazione e camere",
+    "01 \u2022 Sala Grande e ingresso",
+    "02 \u2022 Torre della Scalinata e ufficio di Silente",
+    "03 \u2022 Quadrilatero, infermeria e Grifondoro",
+    "04 \u2022 Cortile del viadotto",
+    "05 \u2022 Ala Durham, galleria lunga e chiostri",
+    "05 \u2022 Tre ponti sulla gola",
+    "06 \u2022 Serre di Erbologia e conservatorio",
+    "07 \u2022 Ingresso del viadotto e quattro torri",
+    "08 \u2022 Mura dei campi settentrionali",
+    "10 \u2022 Torre di Astronomia (HBP)",
+    "11 \u2022 Campanile occidentale",
+    "11 \u2022 Torre dell\u2019Orologio",
+    "12 \u2022 Campanile orientale",
+    "12 \u2022 Cortile dell\u2019Orologio",
+    "13 \u2022 Ponte coperto in legno",
+    "13 \u2022 Torre centrale Durham (HBP)",
+    "14 \u2022 Collegamento dell\u2019infermeria",
+    "15 \u2022 Civettaia e cerchio di pietre",
+    "16 \u2022 Rimessa delle barche e scalinata",
+    "17 \u2022 Scogliere, gole e lago",
+    "18 \u2022 Raccordi e passaggi secondari"
+  ],
+  "empty_meshes": [],
+  "nonfinite": []
+}

@@ -1,0 +1,70 @@
+HOGWARTS — DISPOSIZIONE STUDIATA E RIFERIMENTI
+Revisione del modello Blender — 26 ottobre 2026
+
+CHE COSA MANCAVA NELLA PRIMA VERSIONE
+La prima scena era una composizione stilizzata di pochi edifici. Non restituiva
+la disposizione del complesso cinematografico: mancavano la separazione in due
+grandi nuclei con la gola intermedia, il sistema dei tre ponti, la galleria
+lunga con i campanili, il gruppo completo delle serre, la torre di Astronomia
+con la sua forma specifica, il settore occidentale dell'Orologio con ponte
+coperto e cerchio di pietre, la civettaia e la rimessa con la lunga scalinata.
+Anche il Quad e il cortile del viadotto non erano distinti correttamente.
+
+RIFERIMENTO SCELTO
+La revisione prende come base la disposizione del modellino per Harry Potter
+e il Principe Mezzosangue (HBP), documentata dalla pianta di produzione EE2109,
+datata 11 giugno 2008 e pubblicata in Harry Potter: Page to Screen. La copia
+consultata è riprodotta nel progetto di ricerca indipendente Hogwarts 4D.
+La pianta è stata confrontata con fotografie del modellino e studi comparativi.
+
+Hogwarts cambia tra i film. Per mantenere una disposizione coerente non sono
+stati introdotti la grande riconfigurazione del ponte dei Doni della Morte,
+la disposizione di Hogwarts Legacy o gli interni immaginati dalle mappe dei
+libri. Il richiamo allo Studio Tour indica il riferimento del modellino;
+non implica che ogni modifica scenografica o stagionale della visita attuale
+sia riprodotta nel file.
+
+COME LEGGERE LA TAVOLA
+Hogwarts-pianta-studiata.png è uno schema originale con 17 richiami numerati.
+Mostra masse costruite, cortili aperti e percorsi principali; la scansione
+originale non è incorporata nell'immagine. Le coordinate sono state lette
+sulla pianta e convertite nello stesso sistema usato dal modello Blender.
+Il terreno evidenzia i due promontori, la gola e il dislivello verso il lago.
+I tre collegamenti fra le ali sono viadotto, ponte di pietra alto e ponte
+sospeso. Il ponte coperto in legno si trova invece a ovest dell'Orologio.
+
+PERIMETRO E LIMITI
+Sono ricostruiti gli esterni: edifici principali, torri, cortili, serre,
+ponti, rimessa, scalinata e contesto roccioso. Le finestre e molte decorazioni
+sono semplificate; le quote verticali e il terreno sono approssimati. Non
+sono ricostruiti tutti gli interni, ogni elemento minore o l'intera tenuta
+con ogni luogo narrativo. La pianta di produzione stessa richiede fotografie
+e disegni di dettaglio per le misure critiche. Questo lavoro non è un rilievo,
+una replica certificata o un modello già qualificato per la stampa 3D.
+
+FONTI CONSULTATE
+Fonti primarie e documenti di produzione:
+[1] Warner Bros. Studio Tour — Art Department. Modellino e disegni scenografici.
+https://www.wbstudiotour.co.uk/the-experience/explore-the-tour/art-department/
+[2] Pianta HBP EE2109, Gary Tomkins / produzione Warner Bros.; riproduzione
+    sul sito indipendente Hogwarts 4D, da Page to Screen.
+https://hogwarts4d.home.blog/wp-content/uploads/2021/08/6-hbp-plans-11-2.jpg
+[3] HarryPotter.com — fotografia ufficiale del modellino completo.
+https://www.harrypotter.com/features/hogwarts-rules-that-we-would-probably-break-immediately
+
+Studi indipendenti di appassionati, utili per confronti e interpretazioni:
+[4] Joe Cardello, Hogwarts 4D — provenienza e differenze delle piante.
+https://hogwarts4d.home.blog/2021/08/23/blueprint-appreciation-post/
+[5] Hogwarts 4D — le due ali, i tre ponti e l'ingresso del viadotto.
+https://hogwarts4d.home.blog/2020/07/13/across-the-viaduct/
+[6] Hogwarts 4D — torre di Astronomia e modifiche per HBP.
+https://hogwarts4d.home.blog/2021/09/06/starting-the-astronomy-tower/
+[7] Hogwarts 4D — gruppo di quattro più quattro serre e serra addossata.
+https://hogwarts4d.home.blog/2020/08/16/you-can-never-have-too-many-greenhouses/
+[8] Hogwarts 4D — Quad, passaggio a HBP e riduzione della torre centrale.
+https://hogwarts4d.home.blog/2021/08/28/quad-interior-fixes-starting-half-blood-prince/
+
+Le letture geometriche e le scelte di semplificazione sono proprie di questa
+ricostruzione. Le interpretazioni di Hogwarts 4D sono distinte dai documenti
+ufficiali che il sito riproduce; dove la documentazione è incompleta non è
+stata presunta una precisione che le fonti non consentono.

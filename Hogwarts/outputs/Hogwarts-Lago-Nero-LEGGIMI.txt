@@ -1,0 +1,33 @@
+HOGWARTS — LAGO NERO E COLLI CIRCOSTANTI
+
+Aprire Hogwarts-Lago-Nero.blend in Blender 5.2.
+Il file conserva il castello dettagliato e amplia il paesaggio attorno.
+
+PAESAGGIO
+Il lago prosegue oltre la rimessa, con sponda opposta, insenature, promontori,
+bassi fondali e acqua più scura verso il centro. I colli occidentali e quelli
+sullo sfondo continuano in pendii, selle e piccole valli.
+I boschi sono distribuiti per gruppi e radure; le rive hanno accumuli di massi
+irregolari e pochi canneti nelle zone più dolci.
+Le quote di castello, ponti, molo e scalinata sono conservate.
+
+VISTE
+Hogwarts-Lago-Nero.png: vista prospettica dal lago.
+Hogwarts-Lago-Nero-panorama.png: vista alta del bacino e dei colli.
+Hogwarts-Lago-Nero-riva.png: rimessa e raccordo della scogliera alla riva.
+Nel file Blender sono presenti anche le camere delle versioni precedenti.
+Tastierino 0: camera attiva. F12: genera l'immagine.
+
+MODIFICA
+Le collezioni 40–43 contengono terreno, acqua, boschi, rive, cielo e camere.
+I materiali sono incorporati; non servono immagini esterne.
+Gli elementi precedenti sostituiti sono nascosti nella nuova scena.
+Il file precedente Hogwarts-HBP-dettagliato.blend resta disponibile.
+
+RIFERIMENTO E INTERPRETAZIONE
+Il castello mantiene la disposizione HBP già studiata. Il paesaggio oltre
+il modellino è un'estensione interpretata, non una planimetria ufficiale
+del Lago Nero né una ricostruzione topografica del Loch Shiel.
+Il riferimento visivo è il paesaggio delle Highlands e del modellino:
+https://www.wbstudiotour.co.uk/fr/press-office/wbstl-press-pack/
+https://forestryandland.gov.scot/visit/destinations/glenfinnan

@@ -1,0 +1,5 @@
+00:01.345  blend            | Read blend: "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-interni.blend"
+QUIDDITCH {'terrain_vertices_graded': 185, 'maximum_local_ground_adjustment': 33.25123635025588, 'vegetation_cleared': 26, 'vegetation_regrounded': 26, 'center': [-485.0, 310.0, 201.935107421875], 'towers': 16, 'goal_rings': 6, 'objects': 27, 'faces': 25183}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-13 15:32:10)
+
+Blender quit

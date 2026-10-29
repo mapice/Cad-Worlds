@@ -1,0 +1,46 @@
+{
+  "frames": 948,
+  "foundation": true,
+  "camera_first_hits": [
+    {
+      "camera": "Camera | Interno Sala Grande",
+      "hit": "Sala Grande | muratura",
+      "distance": 45.30274876871639
+    },
+    {
+      "camera": "Interni | Chiocciola dell\u2019Astronomia",
+      "hit": "Astronomia | ballatoio 3",
+      "distance": 37.79464032559787
+    },
+    {
+      "camera": "Interni | Dormitorio Grifondoro",
+      "hit": "Grifondoro | torre nordoccidentale | fusto",
+      "distance": 13.98295051949059
+    },
+    {
+      "camera": "Interni | Grande scalinata",
+      "hit": "Scalinata | corrimano continui",
+      "distance": 20.777352654544295
+    },
+    {
+      "camera": "Interni | Osservatorio astronomico",
+      "hit": "Astronomia | colonna telescopio",
+      "distance": 3.6757540869038565
+    },
+    {
+      "camera": "Interni | Sala comune Grifondoro",
+      "hit": "Grifondoro | piedritto camino.001",
+      "distance": 11.959600782543268
+    },
+    {
+      "camera": "Interni | Scala di Grifondoro",
+      "hit": "Grifondoro | due rampe curve",
+      "distance": 4.302160403998352
+    },
+    {
+      "camera": "Interni | Ufficio di Silente",
+      "hit": "Silente | torretta 3 | feritoie | vetro.003",
+      "distance": 0.5069564462918308
+    }
+  ]
+}

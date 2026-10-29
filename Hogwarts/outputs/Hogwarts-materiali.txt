@@ -1,0 +1,36 @@
+HOGWARTS — MATERIALI E DETTAGLI
+
+Aprire Hogwarts-HBP-dettagliato.blend con Blender 5.2.
+
+La disposizione del castello segue la revisione HBP studiata. Questa versione
+aggiunge materiali e particolari senza spostare i principali edifici.
+
+SUPERFICI
+- Pietra a conci con giunti, porosità, variazioni cromatiche e colature.
+- Ardesia a corsi sfalsati, con lastre differenti e patina discreta.
+- Legno venato, ferro brunito e ferramenti.
+- Pavimentazioni, terreno a chiazze, rocce stratificate e acqua increspata.
+
+DETTAGLI
+Cornici più profonde, davanzali, reticoli in piombo nelle grandi vetrate,
+assi e cerniere delle porte, lanterne, grondaie, pluviali, copertine di colmo
+e comignoli. Le scogliere hanno un rilievo più articolato.
+Conifere con rami e chiome irregolari, cespugli, muschio, massi e piante
+all'interno delle nove serre e del conservatorio.
+
+Tutti i materiali sono incorporati e generati dai nodi di Blender:
+non occorre scaricare immagini o ricollegare file esterni.
+Le collezioni dei dettagli sono separate e si possono nascondere o modificare.
+
+ANTEPRIME
+Hogwarts-dettagliato-insieme.png: tutto il complesso.
+Hogwarts-dettagliato-ravvicinata.png: pietra, finestre e coperture.
+Hogwarts-dettagliato-serre.png: serre e campanili.
+
+Nel file sono conservate anche le camere precedenti.
+Tastierino 0: camera attiva. F12: genera l'immagine.
+Le guide interne si trovano nell'editor di testo di Blender.
+
+Restano le approssimazioni del modello: quote indicative, dettagli esterni
+interpretati e interni non ricostruiti integralmente. La pianta studiata e
+le fonti della disposizione restano nei rispettivi file già consegnati.

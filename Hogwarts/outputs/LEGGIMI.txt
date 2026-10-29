@@ -1,0 +1,13 @@
+VERSIONE ATTUALE — HOGWARTS, ESTERNI PERFEZIONATI — 28 OTTOBRE 2026
+
+Aprire Hogwarts-esterni-perfezionati.blend.
+Contiene castello, lago e colli, scala e roccia rifinite, gli undici ambienti
+interni e le nuove aggiunte: Hagrid, Platano, Quidditch, Guferia, rimessa,
+fontana e dettagli delle facciate e delle serre.
+
+Leggere Hogwarts-esterni-GUIDA.txt per le nuove camere, modifiche e fonti.
+Hogwarts-esterni-VERIFICA.txt documenta la conservazione delle correzioni.
+Le immagini Hogwarts-esterni-*.png appartengono a questa versione aggiornata.
+Per gli ambienti interni resta valida Hogwarts-interni-GUIDA.txt.
+
+Le versioni precedenti rimangono disponibili con i loro nomi originali.

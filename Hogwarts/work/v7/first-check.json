@@ -1,0 +1,413 @@
+{
+  "quidditch": {
+    "terrain_vertices_graded": 185,
+    "maximum_local_ground_adjustment": 33.25123635025588,
+    "vegetation_cleared": 26,
+    "vegetation_regrounded": 26,
+    "center": [
+      -485.0,
+      310.0,
+      201.935107421875
+    ],
+    "towers": 16,
+    "goal_rings": 6,
+    "path_controls": [
+      [
+        -120,
+        175
+      ],
+      [
+        -120.0,
+        180.0
+      ],
+      [
+        -120.0,
+        190.0
+      ],
+      [
+        -120.0,
+        200.0
+      ],
+      [
+        -120.0,
+        210.0
+      ],
+      [
+        -120.0,
+        220.0
+      ],
+      [
+        -120.0,
+        230.0
+      ],
+      [
+        -120.0,
+        240.0
+      ],
+      [
+        -120.0,
+        250.0
+      ],
+      [
+        -120.0,
+        260.0
+      ],
+      [
+        -120.0,
+        270.0
+      ],
+      [
+        -120.0,
+        280.0
+      ],
+      [
+        -120.0,
+        290.0
+      ],
+      [
+        -120.0,
+        300.0
+      ],
+      [
+        -110.0,
+        310.0
+      ],
+      [
+        -100.0,
+        320.0
+      ],
+      [
+        -100.0,
+        330.0
+      ],
+      [
+        -100.0,
+        340.0
+      ],
+      [
+        -100.0,
+        350.0
+      ],
+      [
+        -100.0,
+        360.0
+      ],
+      [
+        -110.0,
+        350.0
+      ],
+      [
+        -110.0,
+        360.0
+      ],
+      [
+        -110.0,
+        370.0
+      ],
+      [
+        -120.0,
+        360.0
+      ],
+      [
+        -120.0,
+        370.0
+      ],
+      [
+        -130.0,
+        360.0
+      ],
+      [
+        -130.0,
+        370.0
+      ],
+      [
+        -130.0,
+        380.0
+      ],
+      [
+        -140.0,
+        370.0
+      ],
+      [
+        -150.0,
+        360.0
+      ],
+      [
+        -150.0,
+        370.0
+      ],
+      [
+        -160.0,
+        360.0
+      ],
+      [
+        -160.0,
+        370.0
+      ],
+      [
+        -160.0,
+        380.0
+      ],
+      [
+        -170.0,
+        370.0
+      ],
+      [
+        -170.0,
+        380.0
+      ],
+      [
+        -180.0,
+        390.0
+      ],
+      [
+        -180.0,
+        380.0
+      ],
+      [
+        -190.0,
+        390.0
+      ],
+      [
+        -190.0,
+        380.0
+      ],
+      [
+        -190.0,
+        370.0
+      ],
+      [
+        -200.0,
+        380.0
+      ],
+      [
+        -200.0,
+        370.0
+      ],
+      [
+        -200.0,
+        360.0
+      ],
+      [
+        -210.0,
+        370.0
+      ],
+      [
+        -210.0,
+        360.0
+      ],
+      [
+        -220.0,
+        370.0
+      ],
+      [
+        -220.0,
+        360.0
+      ],
+      [
+        -230.0,
+        350.0
+      ],
+      [
+        -240.0,
+        360.0
+      ],
+      [
+        -240.0,
+        350.0
+      ],
+      [
+        -240.0,
+        340.0
+      ],
+      [
+        -250.0,
+        350.0
+      ],
+      [
+        -250.0,
+        340.0
+      ],
+      [
+        -260.0,
+        350.0
+      ],
+      [
+        -260.0,
+        340.0
+      ],
+      [
+        -260.0,
+        330.0
+      ],
+      [
+        -260.0,
+        320.0
+      ],
+      [
+        -270.0,
+        310.0
+      ],
+      [
+        -280.0,
+        310.0
+      ],
+      [
+        -290.0,
+        310.0
+      ],
+      [
+        -300.0,
+        300.0
+      ],
+      [
+        -310.0,
+        290.0
+      ],
+      [
+        -310.0,
+        280.0
+      ],
+      [
+        -320.0,
+        270.0
+      ],
+      [
+        -330.0,
+        260.0
+      ],
+      [
+        -340.0,
+        260.0
+      ],
+      [
+        -350.0,
+        250.0
+      ],
+      [
+        -360.0,
+        240.0
+      ],
+      [
+        -370.0,
+        230.0
+      ],
+      [
+        -380.0,
+        220.0
+      ],
+      [
+        -390.0,
+        220.0
+      ],
+      [
+        -400.0,
+        220.0
+      ],
+      [
+        -410.0,
+        220.0
+      ],
+      [
+        -420.0,
+        220.0
+      ],
+      [
+        -430.0,
+        230.0
+      ],
+      [
+        -440.0,
+        240.0
+      ],
+      [
+        -450.0,
+        240.0
+      ],
+      [
+        -460.0,
+        240.0
+      ],
+      [
+        -470.0,
+        240.0
+      ],
+      [
+        -480.0,
+        240.0
+      ],
+      [
+        -485.0,
+        240.0
+      ]
+    ],
+    "path_vegetation_cleared": 5,
+    "objects": 27,
+    "faces": 27174
+  },
+  "castle": {
+    "fontana": {
+      "center": [
+        -100.79999923706055,
+        -62.45699882507324,
+        70.43000152587891
+      ],
+      "aquile": 4,
+      "serpenti": 4,
+      "old_hidden": [
+        "Fontana Orologio | becco",
+        "Fontana Orologio | becco.001",
+        "Fontana Orologio | becco.002",
+        "Fontana Orologio | becco.003",
+        "Fontana Orologio | colonna",
+        "Fontana Orologio | coppa",
+        "Fontana Orologio | vasca",
+        "Fontana Orologio | vasca.001",
+        "Fontana Orologio | vasca.002"
+      ],
+      "collection": "90 • Fontana delle quattro aquile"
+    },
+    "orologio": {
+      "dial_center": [
+        -82.68999877929687,
+        -61.31100082397461,
+        103.19999694824219
+      ],
+      "roman_numerals": 12,
+      "minute_marks": 60,
+      "pendulum_lowest_z": 77.68,
+      "old_hidden": [
+        "Orologio grande | indice",
+        "Orologio grande | indice.001",
+        "Orologio grande | indice.002",
+        "Orologio grande | indice.003",
+        "Orologio grande | indice.004",
+        "Orologio grande | indice.005",
+        "Orologio grande | indice.006",
+        "Orologio grande | indice.007",
+        "Orologio grande | indice.008",
+        "Orologio grande | indice.009",
+        "Orologio grande | indice.010",
+        "Orologio grande | indice.011",
+        "Orologio grande | lancetta minuti",
+        "Orologio grande | lancetta ore",
+        "Orologio grande | perno"
+      ],
+      "collection": "91 • Orologio e pendolo"
+    },
+    "sala_grande": {
+      "doccioni": 8,
+      "pinnacoli_rifiniti": 22,
+      "collection": "92 • Pietre scolpite della Sala Grande"
+    },
+    "objects": 22,
+    "mesh_objects": 19,
+    "faces": 23801,
+    "empty": [],
+    "cameras": [
+      "Camera | V7 doccioni della Sala Grande",
+      "Camera | V7 facciata dell’Orologio",
+      "Camera | V7 fontana e cortile"
+    ]
+  }
+}

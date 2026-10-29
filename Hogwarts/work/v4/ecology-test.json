@@ -1,0 +1,29 @@
+{
+  "trees": 840,
+  "tree_variants": 6,
+  "shrubs": 105,
+  "shore_rocks": 120,
+  "reed_tufts": 64,
+  "new_objects": 1066,
+  "evaluated_faces": 412279,
+  "hidden_previous": [
+    "Bosco sulle colline",
+    "Conifere | palchi e aghi",
+    "Conifere | tronchi e rami",
+    "Rocce | detriti di riva",
+    "Sottobosco | fogliame",
+    "Sottobosco | muschio a terra",
+    "Sottobosco | ramoscelli"
+  ],
+  "ground_objects": [
+    "Campione | superficie",
+    "Colline occidentali | superficie",
+    "Promontorio della Sala Grande | sommità",
+    "Promontorio delle serre | sommità",
+    "Scogliera della rimessa | superficie"
+  ],
+  "all_grounded_by_raycast": true,
+  "empty": [],
+  "nonfinite": [],
+  "protected_tree_points": []
+}

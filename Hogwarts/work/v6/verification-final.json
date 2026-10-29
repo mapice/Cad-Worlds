@@ -1,0 +1,641 @@
+{
+  "file": "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-interni.blend",
+  "sha256": "ed36965cc8ceadd7318b108d01f40ed2b4f4a564bf47dd28376aab0169b402b3",
+  "blender_version": "5.2.0 LTS",
+  "scope": "Riapertura senza modifica né rendering: presenza degli11ambienti e camere, livelli di vista, geometrie visibili finite/nonvuote, materiali e immagini incorporate. Nessuna nuova campagna di sonde dei passaggi; confrontato il rapporto strutturale precedente.",
+  "pending_later_change": null,
+  "objects": 11344,
+  "collections": 145,
+  "mesh_objects": 11168,
+  "visible_mesh_objects": 10411,
+  "unique_visible_meshes": 9358,
+  "faces_including_instances": 1749856,
+  "materials": 69,
+  "view_layers": [
+    "Modello completo",
+    "Interni aperti"
+  ],
+  "required_view_layers_present": true,
+  "default_camera": "Camera | Interno Sala Grande",
+  "default_camera_is_great_hall": true,
+  "rooms": {
+    "Sala Grande": {
+      "collection": "60 • Interno Sala Grande",
+      "collection_present": true,
+      "mesh_objects": 339,
+      "camera": "Camera | Interno Sala Grande",
+      "camera_present": true,
+      "camera_world_position": [
+        32.24795150756836,
+        -130.12451171875,
+        62.60000228881836
+      ]
+    },
+    "Atrio": {
+      "collection": "61 • Atrio di ingresso",
+      "collection_present": true,
+      "mesh_objects": 203,
+      "camera": "Camera | Atrio e accesso alla scalinata",
+      "camera_present": true,
+      "camera_world_position": [
+        28.799999237060547,
+        -119.07599639892578,
+        62.30000305175781
+      ]
+    },
+    "Biblioteca": {
+      "collection": "62 • Biblioteca",
+      "collection_present": true,
+      "mesh_objects": 820,
+      "camera": "Camera | Biblioteca",
+      "camera_present": true,
+      "camera_world_position": [
+        75.5999984741211,
+        39.029998779296875,
+        57.400001525878906
+      ]
+    },
+    "Pozioni": {
+      "collection": "63 • Aula Pozioni",
+      "collection_present": true,
+      "mesh_objects": 149,
+      "camera": "Camera | Aula Pozioni",
+      "camera_present": true,
+      "camera_world_position": [
+        20.399999618530273,
+        -62.534000396728516,
+        75.20000457763672
+      ]
+    },
+    "Infermeria": {
+      "collection": "64 • Infermeria",
+      "collection_present": true,
+      "mesh_objects": 188,
+      "camera": "Camera | Infermeria",
+      "camera_present": true,
+      "camera_world_position": [
+        -38.5,
+        -81.9000015258789,
+        83.05000305175781
+      ]
+    },
+    "Trasfigurazione": {
+      "collection": "65 • Aula Trasfigurazione",
+      "collection_present": true,
+      "mesh_objects": 240,
+      "camera": "Camera | Aula Trasfigurazione",
+      "camera_present": true,
+      "camera_world_position": [
+        5.199999809265137,
+        -32.599998474121094,
+        75.1500015258789
+      ]
+    },
+    "Grifondoro": {
+      "collection": "66 • Sala comune Grifondoro",
+      "collection_present": true,
+      "mesh_objects": 266,
+      "camera": "Interni | Sala comune Grifondoro",
+      "camera_present": true,
+      "camera_world_position": [
+        -47.70000076293945,
+        -31.34000015258789,
+        95.3499984741211
+      ]
+    },
+    "Dormitorio": {
+      "collection": "67 • Dormitorio Grifondoro",
+      "collection_present": true,
+      "mesh_objects": 199,
+      "camera": "Interni | Dormitorio Grifondoro",
+      "camera_present": true,
+      "camera_world_position": [
+        -47.5,
+        -31.439998626708984,
+        101.85000610351562
+      ]
+    },
+    "Silente": {
+      "collection": "68 • Ufficio di Silente",
+      "collection_present": true,
+      "mesh_objects": 399,
+      "camera": "Interni | Ufficio di Silente",
+      "camera_present": true,
+      "camera_world_position": [
+        11.237112998962402,
+        -109.16175079345703,
+        136.0500030517578
+      ]
+    },
+    "Osservatorio": {
+      "collection": "69 • Osservatorio astronomico",
+      "collection_present": true,
+      "mesh_objects": 151,
+      "camera": "Interni | Osservatorio astronomico",
+      "camera_present": true,
+      "camera_world_position": [
+        23.799999237060547,
+        10.98799991607666,
+        204.60000610351562
+      ]
+    },
+    "Grande scalinata": {
+      "collection": "70 • Grande scalinata",
+      "collection_present": true,
+      "mesh_objects": 259,
+      "camera": "Interni | Grande scalinata dal ballatoio",
+      "camera_present": true,
+      "camera_world_position": [
+        10.600000381469727,
+        -96.02799987792969,
+        75.0999984741211
+      ]
+    }
+  },
+  "iconic_rooms_count": 11,
+  "rooms_and_cameras_present": true,
+  "visible_empty_meshes": [],
+  "visible_nonfinite_meshes_or_transforms": [],
+  "visible_missing_materials": [],
+  "faces_using_missing_materials": [],
+  "unused_empty_material_slots": {
+    "Scalinata | ballatoio 3": [
+      1
+    ],
+    "Torre viadotto | fascia.003": [
+      1
+    ],
+    "Torre viadotto | fascia.004": [
+      1
+    ],
+    "Ala orientale Durham | muri": [
+      1
+    ],
+    "Torre viadotto | fascia.005": [
+      1
+    ],
+    "Torre viadotto | fascia.006": [
+      1
+    ],
+    "Torre viadotto | fascia.007": [
+      1
+    ],
+    "Torre viadotto | fascia.008": [
+      1
+    ],
+    "Torre viadotto | fascia.009": [
+      1
+    ],
+    "Scalinata | finestra | vetro.137": [
+      1
+    ],
+    "Torre viadotto | fascia.010": [
+      1
+    ],
+    "Torre viadotto | fascia.011": [
+      1
+    ],
+    "Torre viadotto | fascia.012": [
+      1
+    ],
+    "Torre viadotto | fascia.013": [
+      1
+    ],
+    "Torre viadotto | fascia.014": [
+      1
+    ],
+    "Torre viadotto | fascia.015": [
+      1
+    ],
+    "Sala Grande | muratura": [
+      1
+    ],
+    "Scalinata | ballatoio 7": [
+      1
+    ],
+    "Astronomia | fusto a D": [
+      1
+    ],
+    "Centrale | corpo": [
+      1
+    ],
+    "Quad | ala sud | finestra | vetro.057": [
+      1
+    ],
+    "Quad | ala sud | finestra | vetro.058": [
+      1
+    ],
+    "Quad | ala sud | finestra | vetro.059": [
+      1
+    ],
+    "Quad | ala sud | muri": [
+      1
+    ],
+    "Quad | ala est | finestra | cornice.003": [
+      1
+    ],
+    "Quad | ala est | finestra | cornice.004": [
+      1
+    ],
+    "Quad | ala est | finestra | cornice.005": [
+      1
+    ],
+    "Ala nord Durham | muri": [
+      1
+    ],
+    "Quad | fondazione": [
+      1
+    ],
+    "Silente | mensola": [
+      1
+    ],
+    "Silente | mensola.001": [
+      1
+    ],
+    "Silente | mensola.002": [
+      1
+    ],
+    "Quad | ala ovest | muri": [
+      1
+    ],
+    "Grifondoro | torre nordoccidentale | fascia": [
+      1
+    ],
+    "Astronomia | cornice belvedere": [
+      1
+    ],
+    "Grifondoro | torre nordoccidentale | fascia.001": [
+      1
+    ],
+    "Astronomia | cornice belvedere.001": [
+      1
+    ],
+    "Astronomia | cornice belvedere.002": [
+      1
+    ],
+    "Astronomia | cornice belvedere.003": [
+      1
+    ],
+    "Silente | torretta 3 | fusto": [
+      1
+    ],
+    "Astronomia | fascia": [
+      1
+    ],
+    "Astronomia | fascia.001": [
+      1
+    ],
+    "Astronomia | fascia.002": [
+      1
+    ],
+    "Astronomia | fascia.003": [
+      1
+    ],
+    "Astronomia | fascia.004": [
+      1
+    ],
+    "Grifondoro | torre nordoccidentale | fusto": [
+      1
+    ],
+    "Quad | ala est | finestra | vetro.003": [
+      1
+    ],
+    "Quad | ala est | finestra | vetro.004": [
+      1
+    ],
+    "Quad | ala est | finestra | vetro.005": [
+      1
+    ],
+    "Ingresso viadotto | galleria alta": [
+      1
+    ],
+    "Astronomia | mensola belvedere": [
+      1
+    ],
+    "Ingresso viadotto | marcapiano": [
+      1
+    ],
+    "Silente | torretta 1 | fascia": [
+      1
+    ],
+    "Ingresso viadotto | marcapiano.001": [
+      1
+    ],
+    "Silente | torretta 1 | fascia.001": [
+      1
+    ],
+    "Silente | torretta 1 | feritoie | cornice.002": [
+      1
+    ],
+    "Ala occidentale Durham | fascia": [
+      1
+    ],
+    "Silente | torretta 1 | feritoie | cornice.006": [
+      1
+    ],
+    "Ala occidentale Durham | fascia.002": [
+      1
+    ],
+    "Silente | torretta 1 | feritoie | cornice.007": [
+      1
+    ],
+    "Galleria lunga | muri": [
+      1
+    ],
+    "Silente | torretta 1 | feritoie | vetro.006": [
+      1
+    ],
+    "Silente | torretta 1 | feritoie | vetro.007": [
+      1
+    ],
+    "Silente | torretta 1 | fusto": [
+      1
+    ],
+    "Quad | torre del ponte alto | fascia": [
+      1
+    ],
+    "Quad | torre del ponte alto | fascia.001": [
+      1
+    ],
+    "Silente | torretta 2 | fascia": [
+      1
+    ],
+    "Silente | torretta 2 | fascia.001": [
+      1
+    ],
+    "Silente | torretta 2 | feritoie | cornice.003": [
+      1
+    ],
+    "Quad | ala est | muri": [
+      1
+    ],
+    "Silente | torretta 2 | feritoie | vetro.003": [
+      1
+    ],
+    "Quad | torre del ponte alto | fusto": [
+      1
+    ],
+    "Silente | torretta 3 | fascia": [
+      1
+    ],
+    "Silente | torretta 3 | fascia.001": [
+      1
+    ],
+    "Centrale | marcapiano": [
+      1
+    ],
+    "Centrale | marcapiano.001": [
+      1
+    ],
+    "Centrale | marcapiano.002": [
+      1
+    ],
+    "Centrale | marcapiano.003": [
+      1
+    ],
+    "Silente | torretta 3 | feritoie | cornice.004": [
+      1
+    ],
+    "Silente | torretta 3 | feritoie | vetro.004": [
+      1
+    ],
+    "Navata sud Durham | muri": [
+      1
+    ],
+    "Astronomia | pavimento osservatorio": [
+      1
+    ],
+    "Astronomia | piattaforma addossata": [
+      1
+    ],
+    "Quad | torretta angolare | fascia": [
+      1
+    ],
+    "Quad | torretta angolare | fascia.002": [
+      1
+    ],
+    "Astronomia | tamburo belvedere": [
+      1
+    ],
+    "Quad | torretta angolare | fascia.004": [
+      1
+    ],
+    "Astronomia | torretta est | fascia": [
+      1
+    ],
+    "Quad | torretta angolare | fascia.005": [
+      1
+    ],
+    "Scalinata | finestra | cornice.137": [
+      1
+    ],
+    "Scalinata | fascia di pietra": [
+      1
+    ],
+    "Scalinata | fascia di pietra.001": [
+      1
+    ],
+    "Ala occidentale Durham | muri": [
+      1
+    ],
+    "Astronomia | torretta posteriore | fascia": [
+      1
+    ],
+    "Scalinata | fascia di pietra.002": [
+      1
+    ],
+    "Scalinata | fascia di pietra.003": [
+      1
+    ],
+    "Sala d’ingresso | muri": [
+      1
+    ],
+    "Quad | ala nord | muri": [
+      1
+    ],
+    "Centrale | zoccolo": [
+      1
+    ],
+    "Ingresso viadotto | corpo laterale": [
+      1
+    ],
+    "Ingresso viadotto | corpo laterale.001": [
+      1
+    ],
+    "Ingresso viadotto | corpo sopra portale": [
+      1
+    ],
+    "11 • Campanile occidentale | marcapiano": [
+      1
+    ],
+    "11 • Campanile occidentale | marcapiano.001": [
+      1
+    ],
+    "11 • Campanile occidentale | marcapiano.002": [
+      1
+    ],
+    "11 • Campanile occidentale | basamento": [
+      1
+    ],
+    "Corpo laterale occidentale | muri": [
+      1
+    ],
+    "Infermeria | galleria | muri": [
+      1
+    ],
+    "Ala nord Durham | fascia": [
+      1
+    ],
+    "Ala nord Durham | fascia.002": [
+      1
+    ],
+    "Quad | ala sud | finestra | cornice.057": [
+      1
+    ],
+    "Quad | ala sud | finestra | cornice.058": [
+      1
+    ],
+    "Quad | ala sud | finestra | cornice.059": [
+      1
+    ],
+    "Silente | torretta 2 | fusto": [
+      1
+    ],
+    "Corpo sud Durham | muri": [
+      1
+    ],
+    "Torre della Scalinata | fusto": [
+      1
+    ],
+    "Torre viadotto 1 | fusto": [
+      1
+    ],
+    "Scalinata | ballatoio 11": [
+      1
+    ],
+    "Torre viadotto 1 | zoccolo": [
+      1
+    ],
+    "Torre viadotto 2 | fusto": [
+      1
+    ],
+    "Torre viadotto 2 | zoccolo": [
+      1
+    ],
+    "Torre viadotto 3 | fusto": [
+      1
+    ],
+    "Torre viadotto 3 | zoccolo": [
+      1
+    ],
+    "Torre viadotto 4 | fusto": [
+      1
+    ],
+    "Torre viadotto 4 | zoccolo": [
+      1
+    ],
+    "Torre viadotto | fascia": [
+      1
+    ],
+    "Torre viadotto | fascia.001": [
+      1
+    ],
+    "Torre viadotto | fascia.002": [
+      1
+    ]
+  },
+  "file_images": [
+    {
+      "name": "ritratti-dipinti.png",
+      "packed": true,
+      "packed_bytes": 3170925,
+      "png_signature": true,
+      "size": [
+        1254,
+        1254
+      ],
+      "material_users": [
+        "Interni | ritratti dipinti"
+      ]
+    }
+  ],
+  "missing_external_images": [],
+  "packed_png_portrait_used_by_material": true,
+  "architectural_groups": {
+    "80 • Involucri esterni apribili": 30,
+    "81 • Tetti esterni nascondibili": 391,
+    "70 • Grande scalinata": 297,
+    "71 • Scala di Grifondoro": 5,
+    "72 • Collegamenti dell’Astronomia": 36,
+    "73 • Corridoi, aule e accessi": 144,
+    "74 • Ingresso del viadotto e percorso biblioteca": 170,
+    "75 • Scala verso il ponte alto": 121
+  },
+  "previous_checks": {
+    "build-check.json": {
+      "objects": 11225,
+      "visible_empty": [],
+      "external_images": []
+    },
+    "polish-check.json": {
+      "objects": 11230,
+      "visible_empty": [],
+      "external_images": []
+    },
+    "connectivity-check.json": {
+      "all_clear": true,
+      "ray_count": 54
+    }
+  },
+  "previous_structural_objects_missing": [],
+  "atrium_stair_portal_after_fix": {
+    "height": 62.0,
+    "ray_count": 3,
+    "rays": [
+      {
+        "offset": -0.65,
+        "from": [
+          28.149999618530273,
+          -116.0,
+          62.0
+        ],
+        "to": [
+          28.150000000000002,
+          -106.0,
+          62.0
+        ],
+        "hits": []
+      },
+      {
+        "offset": 0,
+        "from": [
+          28.799999237060547,
+          -116.0,
+          62.0
+        ],
+        "to": [
+          28.8,
+          -106.0,
+          62.0
+        ],
+        "hits": []
+      },
+      {
+        "offset": 0.65,
+        "from": [
+          29.450000762939453,
+          -116.0,
+          62.0
+        ],
+        "to": [
+          29.45,
+          -106.0,
+          62.0
+        ],
+        "hits": []
+      }
+    ],
+    "clear": true
+  },
+  "status": "PASS"
+}

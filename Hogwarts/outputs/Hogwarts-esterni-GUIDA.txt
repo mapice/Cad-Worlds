@@ -1,0 +1,62 @@
+HOGWARTS — ESTERNI PERFEZIONATI
+28 ottobre 2026
+
+FILE CORRENTE
+Hogwarts-esterni-perfezionati.blend
+Comprende castello, Lago Nero, colli, gli undici ambienti interni e le nuove
+aggiunte esterne. Materiali e ritratti sono incorporati nel file.
+
+BASE E CORREZIONI CONSERVATE
+Questa versione deriva esclusivamente dal file finale Hogwarts-interni.blend.
+La scalinata della rimessa e il suo sperone roccioso sono quelli rifiniti nella
+revisione successiva al Lago Nero. La loro geometria è stata confrontata con
+Hogwarts-scala-rifinita.blend prima di iniziare. Durante l'integrazione vengono
+confrontati anche tutti gli oggetti delle collezioni 60–81: interni, passaggi,
+involucri e vista aperta. Le vecchie versioni rimangono disponibili separatamente.
+
+CHE COSA È STATO AGGIUNTO
+• Capanna di Hagrid con due corpi di pietra, tetti distinti, camino e ingresso;
+  orto con 31 zucche, recinto, legna, barile e spaventapasseri.
+• Platano Picchiatore con tronco nodoso, radici affioranti, grandi rami piegati
+  e chioma rada. Il modello è statico.
+• Campo di Quidditch ovale con sedici torri delle tribune, stoffe nei colori
+  delle case, coperture, bandiere, scale e sei anelli; terreno raccordato nella
+  radura e sentiero di collegamento.
+• Guferia con vani realmente aperti, posatoi e gufi, accesso e sentiero.
+• Fontana del cortile dell'Orologio con architettura e figure scolpite;
+  quadrante, pendolo, doccioni e pinnacoli esterni rifiniti.
+• Rimessa con particolari d'ormeggio, barche rifinite e banderuola;
+  decorazioni sulle serre già esistenti.
+
+COME ESPLORARE
+Il file apre una camera esterna. Tastierino 0 alterna la vista della camera
+e la navigazione libera. Le nuove camere contengono «V7» nel nome: castello,
+tenuta, Hagrid, Platano, Quidditch, Guferia, fontana, Orologio, rimessa e serre.
+Per attivare una camera diversa, selezionala nell'elenco degli oggetti e premi
+Ctrl + Tastierino 0. Le anteprime PNG mostrano i principali interventi.
+
+La modalità «Modello completo» mostra esterni e interni. «Interni aperti»
+mantiene la vista sezionata della versione precedente. Le nuove collezioni
+83–93 separano le aggiunte esterne e sono escluse da «Interni aperti».
+Per gli ambienti interni resta valida Hogwarts-interni-GUIDA.txt.
+
+RIFERIMENTI E INTERPRETAZIONE
+Il nucleo del castello conserva la disposizione HBP già studiata. Hagrid,
+Quidditch, il Platano e i raccordi dei sentieri sono collocati sul paesaggio
+del modello: posizioni, quote e misure sono interpretate, non una pianta
+ufficiale dell'intera tenuta. Gli accessori funzionali minori sono ricostruiti.
+
+Fonti ufficiali per aspetto e caratteristiche:
+https://www.harrypotter.com/features/10-things-you-might-not-know-about-hagrid
+https://www.wbstudiotour.co.uk/the-experience/explore-the-tour/sets/the-hogwarts-bridge/
+https://www.harrypotter.com/features/bringing-quidditch-to-life
+https://www.harrypotter.com/fact-file/plants-and-potions/the-whomping-willow
+https://www.harrypotter.com/fact-file/locations/owlery
+
+Studi indipendenti che confrontano fotografie e documenti di produzione:
+https://hogwarts4d.home.blog/2020/05/21/starting-the-ruined-fountain/
+https://hogwarts4d.home.blog/2020/04/14/great-hall-balconies-pepperpot-pre-dh-boathouse/
+https://hogwarts4d.home.blog/2020/08/14/rescaled-bricks-greenhouse-dragons/
+
+Verificato con Blender 5.2. Gli oggetti rimangono modificabili. Il modello
+non è un rilievo certificato né una versione già preparata per la stampa 3D.

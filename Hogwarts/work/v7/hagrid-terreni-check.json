@@ -1,0 +1,80 @@
+{
+  "hagrid": {
+    "center": [
+      -275.0,
+      -80.0,
+      41.5963916015625
+    ],
+    "annex": [
+      -268.5151736257427,
+      -81.5642975726304,
+      41.5963916015625
+    ],
+    "garden": [
+      -278.0,
+      -96.0
+    ],
+    "foundation": [
+      {
+        "name": "principale",
+        "bottom_min": 39.963369140625,
+        "ground_max": 41.168935546875,
+        "floor": 41.5963916015625
+      },
+      {
+        "name": "annesso",
+        "bottom_min": 39.9171044921875,
+        "ground_max": 40.79125,
+        "floor": 41.5963916015625
+      }
+    ],
+    "door": [
+      -265.5278015136719,
+      -81.02069091796875,
+      41.59638977050781
+    ],
+    "steps": 7,
+    "path_points": 358,
+    "path_surface_check": {
+      "vertices": 3938,
+      "triangles": 7140,
+      "transverse_samples": 11,
+      "surface_probes": 28560,
+      "minimum_clearance": 0.03782958984375284,
+      "maximum_local_lift": 0.15326822916666855
+    },
+    "path_end": [
+      -262.4778747558594,
+      -80.4656982421875,
+      41.59638977050781
+    ],
+    "camera": "Camera | V7 Capanna di Hagrid"
+  },
+  "willow": {
+    "center": [
+      -302.0,
+      -44.0,
+      48.4365234375
+    ],
+    "arms": 5,
+    "roots": 8,
+    "fine_twigs": 90,
+    "continuous_sections": 16,
+    "path_surface_check": {
+      "vertices": 1022,
+      "triangles": 1740,
+      "transverse_samples": 7,
+      "surface_probes": 6960,
+      "minimum_clearance": 0.06419677734375284,
+      "maximum_local_lift": 0.0
+    },
+    "camera": "Camera | V7 Platano Picchiatore"
+  },
+  "objects": 23,
+  "mesh_objects": 21,
+  "faces": 71224,
+  "hidden_trees": [
+    "Bosco | abete.242"
+  ],
+  "empty_or_nonfinite": []
+}

@@ -1,0 +1,69 @@
+{
+  "terrain_vertices_lowered": 2741,
+  "pier_extensions": [
+    {
+      "pier": "Ponte di pietra alto | pila.001",
+      "base_original": 19.0,
+      "ground": -7.632080078125,
+      "extension_bottom": -8.032080078125,
+      "height": 27.032080078125
+    },
+    {
+      "pier": "Ponte di pietra alto | pila.002",
+      "base_original": 19.0,
+      "ground": -6.3880615234375,
+      "extension_bottom": -6.7880615234375,
+      "height": 25.7880615234375
+    },
+    {
+      "pier": "Viadotto | pila.001",
+      "base_original": 9.0,
+      "ground": -4.6317138671875,
+      "extension_bottom": -5.0317138671875,
+      "height": 14.0317138671875
+    },
+    {
+      "pier": "Viadotto | pila.002",
+      "base_original": 9.0,
+      "ground": -4.93914794921875,
+      "extension_bottom": -5.33914794921875,
+      "height": 14.33914794921875
+    },
+    {
+      "pier": "Viadotto | pila.003",
+      "base_original": 9.0,
+      "ground": -5.21600341796875,
+      "extension_bottom": -5.61600341796875,
+      "height": 14.61600341796875
+    },
+    {
+      "pier": "Viadotto | pila.004",
+      "base_original": 9.0,
+      "ground": -5.42181396484375,
+      "extension_bottom": -5.82181396484375,
+      "height": 14.82181396484375
+    },
+    {
+      "pier": "Viadotto | pila.005",
+      "base_original": 9.0,
+      "ground": -5.55035400390625,
+      "extension_bottom": -5.95035400390625,
+      "height": 14.95035400390625
+    },
+    {
+      "pier": "Viadotto | pila.006",
+      "base_original": 9.0,
+      "ground": -5.5985107421875,
+      "extension_bottom": -5.9985107421875,
+      "height": 14.9985107421875
+    },
+    {
+      "pier": "Viadotto | pila.007",
+      "base_original": 9.0,
+      "ground": -7.62603759765625,
+      "extension_bottom": -8.02603759765625,
+      "height": 17.02603759765625
+    }
+  ],
+  "empty_meshes": []
+}

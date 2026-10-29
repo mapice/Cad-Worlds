@@ -1,0 +1,15 @@
+{
+  "terrain_vertices_graded": 185,
+  "maximum_local_ground_adjustment": 33.25123635025588,
+  "vegetation_cleared": 26,
+  "vegetation_regrounded": 26,
+  "center": [
+    -485.0,
+    310.0,
+    201.935107421875
+  ],
+  "towers": 16,
+  "goal_rings": 6,
+  "objects": 27,
+  "faces": 25183
+}

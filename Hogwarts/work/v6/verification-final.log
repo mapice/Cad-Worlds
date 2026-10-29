@@ -1,0 +1,11 @@
+00:00.880  blend            | Read blend: "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/outputs/Hogwarts-interni.blend"
+/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/check_interior_final.py:49: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  used_by=[m.name for m in bpy.data.materials if m.use_nodes and any(n.type=='TEX_IMAGE' and n.image==im for n in m.node_tree.nodes)]
+VERIFY_FINAL {"status": "PASS", "objects": 11344, "collections": 145, "mesh_objects": 11168, "visible_mesh_objects": 10411, "faces_including_instances": 1749856, "default_camera": "Camera | Interno Sala Grande", "iconic_rooms_count": 11, "visible_empty_meshes": [], "visible_nonfinite_meshes_or_transforms": [], "visible_missing_materials": [], "missing_external_images": [], "packed_png_portrait_used_by_material": true, "previous_structural_objects_missing": []}
+ATRIUM_PORTAL {"height": 62.0, "ray_count": 3, "rays": [{"offset": -0.65, "from": [28.149999618530273, -116.0, 62.0], "to": [28.150000000000002, -106.0, 62.0], "hits": []}, {"offset": 0, "from": [28.799999237060547, -116.0, 62.0], "to": [28.8, -106.0, 62.0], "hits": []}, {"offset": 0.65, "from": [29.450000762939453, -116.0, 62.0], "to": [29.45, -106.0, 62.0], "hits": []}], "clear": true}
+BAD_MATERIAL_FACES []
+UNUSED_EMPTY_SLOT_OBJECTS 128
+IMAGES [{"name": "ritratti-dipinti.png", "packed": true, "packed_bytes": 3170925, "png_signature": true, "size": [1254, 1254], "material_users": ["Interni | ritratti dipinti"]}]
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-13 15:32:10)
+
+Blender quit

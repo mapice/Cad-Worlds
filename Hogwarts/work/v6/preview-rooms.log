@@ -1,0 +1,20 @@
+00:02.636  blend            | Read blend: "/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/Hogwarts-interni-pronto.blend"
+00:14.500  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/biblioteca.png'
+QA_RENDERED biblioteca
+00:24.183  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/pozioni.png'
+QA_RENDERED pozioni
+00:34.599  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/infermeria.png'
+QA_RENDERED infermeria
+00:44.563  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/trasfigurazione.png'
+QA_RENDERED trasfigurazione
+00:56.220  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/grifondoro.png'
+QA_RENDERED grifondoro
+01:07.974  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/dormitorio.png'
+QA_RENDERED dormitorio
+01:23.192  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/silente.png'
+QA_RENDERED silente
+01:31.695  render           | Saved: '/Users/mattiaapicella/Documents/Codex/2026-10-26/il-ca/work/v6/qa/osservatorio.png'
+QA_RENDERED osservatorio
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-13 15:32:10)
+
+Blender quit
