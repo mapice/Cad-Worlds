@@ -1,7 +1,13 @@
 # Cad Worlds
 
+Cad Worlds is a collection of 3D projects inspired by fictional worlds. Hogwarts is the first project started here, and a Middle-earth project will also be started in this repository.
+
 ## Hogwarts
 
-Il progetto Blender si trova nella cartella [Hogwarts](Hogwarts/). Il modello più recente è [Hogwarts-esterni-perfezionati.blend](Hogwarts/outputs/Hogwarts-esterni-perfezionati.blend): comprende il castello, il paesaggio e gli interni. Per informazioni sull'esplorazione e sui limiti del modello, consultare la [guida degli esterni](Hogwarts/outputs/Hogwarts-esterni-GUIDA.txt) e la [guida degli interni](Hogwarts/outputs/Hogwarts-interni-GUIDA.txt).
+The Blender project is in the [Hogwarts](Hogwarts/) folder. The latest model is [Hogwarts-esterni-perfezionati.blend](Hogwarts/outputs/Hogwarts-esterni-perfezionati.blend), which includes the castle, landscape, and interiors. For instructions on exploring the model and its limitations, see the [exterior guide](Hogwarts/outputs/Hogwarts-esterni-GUIDA.txt) and the [interior guide](Hogwarts/outputs/Hogwarts-interni-GUIDA.txt). Both guides are in Italian.
 
-La cartella `outputs` contiene anche versioni precedenti, immagini e risorse; `work` conserva gli script e i materiali di lavorazione. I file Blender sono gestiti con Git LFS: per scaricarli serve Git LFS installato.
+The `outputs` folder also contains earlier versions, images, and resources; `work` contains scripts and working materials. Blender files are managed with Git LFS, which must be installed to download them.
+
+## Middle-earth
+
+A Middle-earth project is planned for this repository and has not yet been started.
